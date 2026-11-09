@@ -1,0 +1,77 @@
+name: Extract Streams
+
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "Comma separated channel ids (empty = all)"
+        required: false
+        default: ""
+      concurrency:
+        description: "Parallel requests"
+        required: false
+        default: "6"
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/extract-streams.yml"
+
+concurrency:
+  group: extract-streams
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run extractor
+        env:
+          CINE_BASE_URL: https://cinewwchannels.pages.dev
+        run: |
+          python scripts/extract_streams.py \
+            --out output \
+            --pretty \
+            --ids "${{ github.event.inputs.ids }}" \
+            --concurrency "${{ github.event.inputs.concurrency || '6' }}" \
+            | tee output/../run.log
+
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: streams-${{ github.run_number }}
+          path: |
+            output/
+            run.log
+          retention-days: 14
+
+      - name: Commit results
+        if: success()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output run.log || true
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: refresh stream data $(date -u +%FT%TZ)"
+            git push
+          fi
