@@ -1,6 +1,6 @@
 #EXTM3U name="CineWW Channels"
 #EXTINF:-1 tvg-id="bein1" tvg-name="BEIN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSze_XCQOdD9AoH_ERqU9XMiDLzWCZ_cuEsWfviwh2NNg&s=10" group-title="Sports",BEIN 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 #EXTINF:-1 tvg-id="bein2" tvg-name="BEIN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgmXby4LYrtLW3U46naLQOJP-X_K0nS4ix7dEmwGd4dVoQuuu0t0DFq7c&s=10" group-title="Sports",BEIN 2
