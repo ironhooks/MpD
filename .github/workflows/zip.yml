@@ -1,0 +1,41 @@
+
+name: Google Drive Multi Folder to ZIP
+
+on:
+  workflow_dispatch:
+
+jobs:
+  download-and-zip:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install gdown
+
+      - name: Download Folder 1
+        run: |
+          gdown --folder "https://drive.google.com/drive/folders/1mlTLyUFj89e1Rt2YrPltpGXqGOC4y6AH" -O downloads/folder1
+
+      - name: Download Folder 2
+        run: |
+          gdown --folder "https://drive.google.com/drive/folders/1bRUm0pJzQ_Siw5jlj_l0J7NEkxzWqR9C" -O downloads/folder2
+
+      - name: Download Folder 3
+        run: |
+          gdown --folder "https://drive.google.com/drive/folders/1mlTLyUFj89e1Rt2YrPltpGXqGOC4y6AH" -O downloads/folder3
+
+      - name: Create ZIP
+        run: |
+          zip -r GoogleDrive-Files.zip downloads/
+
+      - name: Upload ZIP
+        uses: actions/upload-artifact@v4
+        with:
+          name: GoogleDrive-Files
+          path: GoogleDrive-Files.zip
+          retention-days: 7
