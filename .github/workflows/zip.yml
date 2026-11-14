@@ -1,41 +1,46 @@
 
-name: Google Drive Multi Folder to ZIP
+name: GitHub Repository ZIP Downloader
 
 on:
   workflow_dispatch:
+    inputs:
+      repo_url:
+        description: "Enter GitHub Repository URL"
+        required: true
+        type: string
+
+permissions:
+  contents: read
+  actions: write
 
 jobs:
-  download-and-zip:
+  download:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install Dependencies
-        run: pip install gdown
-
-      - name: Download Folder 1
+      - name: Validate Repository URL
+        shell: bash
         run: |
-          gdown --folder "https://drive.google.com/drive/folders/1mlTLyUFj89e1Rt2YrPltpGXqGOC4y6AH" -O downloads/folder1
+          URL="${{ inputs.repo_url }}"
 
-      - name: Download Folder 2
-        run: |
-          gdown --folder "https://drive.google.com/drive/folders/1bRUm0pJzQ_Siw5jlj_l0J7NEkxzWqR9C" -O downloads/folder2
+          if [[ ! "$URL" =~ ^https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+(\.git)?/?$ ]]; then
+            echo "Invalid GitHub repository URL"
+            exit 1
+          fi
 
-      - name: Download Folder 3
+      - name: Clone Repository
         run: |
-          gdown --folder "https://drive.google.com/drive/folders/1mlTLyUFj89e1Rt2YrPltpGXqGOC4y6AH" -O downloads/folder3
+          git clone --depth 1 "${{ inputs.repo_url }}" source
 
       - name: Create ZIP
         run: |
-          zip -r GoogleDrive-Files.zip downloads/
+          cd source
+          zip -r ../repository.zip . -x ".git/*"
 
       - name: Upload ZIP
         uses: actions/upload-artifact@v4
         with:
-          name: GoogleDrive-Files
-          path: GoogleDrive-Files.zip
+          name: downloaded-repository
+          path: repository.zip
+          compression-level: 0
           retention-days: 7
