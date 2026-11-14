@@ -1,5 +1,5 @@
 
-name: Google Drive Folder ZIP Downloader
+name: Google Drive ZIP Downloader
 
 on:
   workflow_dispatch:
@@ -7,66 +7,53 @@ on:
       drive_url:
         description: "Google Drive Folder URL"
         required: true
+        default: "https://drive.google.com/drive/folders/16q1FuUNB67jvA1l0t-P74ZUxwv4Pq8hk"
         type: string
 
 permissions:
   contents: read
+  actions: write
 
 jobs:
   download:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install tools
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y rclone zip
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-      - name: Extract Folder ID
-        id: folder
+      - name: Install Downloader
+        run: |
+          python -m pip install --upgrade gdown
+
+      - name: Download Google Drive Folder
         env:
           DRIVE_URL: ${{ inputs.drive_url }}
         run: |
-          ID=$(echo "$DRIVE_URL" | grep -oE '[A-Za-z0-9_-]{20,}' | head -1)
+          mkdir -p download
 
-          if [ -z "$ID" ]; then
-            echo "Invalid Google Drive URL"
+          gdown "$DRIVE_URL" \
+            -O download \
+            --no-cookies \
+            --continue \
+            --retries 3
+
+      - name: Create ZIP File
+        run: |
+          if [ -z "$(find download -type f -print -quit)" ]; then
+            echo "No files downloaded!"
             exit 1
           fi
 
-          echo "id=$ID" >> "$GITHUB_OUTPUT"
-
-      - name: Configure Google Drive
-        run: |
-          mkdir -p ~/.config/rclone
-
-          cat > ~/.config/rclone/rclone.conf <<'EOF'
-          [gdrive]
-          type = drive
-          scope = drive.readonly
-          team_drive =
-          EOF
-
-      - name: Download Folder
-        env:
-          FOLDER_ID: ${{ steps.folder.outputs.id }}
-        run: |
-          mkdir -p download
-
-          rclone copy \
-            "gdrive:{${FOLDER_ID}}" \
-            download \
-            --drive-shared-with-me \
-            --progress
-
-      - name: Create ZIP
-        run: |
           cd download
-          zip -r ../GoogleDrive-Files.zip .
+          zip -r ../SFX-Folder.zip .
 
-      - name: Upload ZIP
+      - name: Upload ZIP Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: GoogleDrive-Files
-          path: GoogleDrive-Files.zip
+          name: SFX-Folder-ZIP
+          path: SFX-Folder.zip
+          compression-level: 0
           retention-days: 7
