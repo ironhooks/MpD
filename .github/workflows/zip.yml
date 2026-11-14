@@ -1,46 +1,72 @@
 
-name: GitHub Repository ZIP Downloader
+name: Google Drive Folder ZIP Downloader
 
 on:
   workflow_dispatch:
     inputs:
-      repo_url:
-        description: "Enter GitHub Repository URL"
+      drive_url:
+        description: "Google Drive Folder URL"
         required: true
         type: string
 
 permissions:
   contents: read
-  actions: write
 
 jobs:
   download:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Validate Repository URL
-        shell: bash
+      - name: Install tools
         run: |
-          URL="${{ inputs.repo_url }}"
+          sudo apt-get update
+          sudo apt-get install -y rclone zip
 
-          if [[ ! "$URL" =~ ^https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+(\.git)?/?$ ]]; then
-            echo "Invalid GitHub repository URL"
+      - name: Extract Folder ID
+        id: folder
+        env:
+          DRIVE_URL: ${{ inputs.drive_url }}
+        run: |
+          ID=$(echo "$DRIVE_URL" | grep -oE '[A-Za-z0-9_-]{20,}' | head -1)
+
+          if [ -z "$ID" ]; then
+            echo "Invalid Google Drive URL"
             exit 1
           fi
 
-      - name: Clone Repository
+          echo "id=$ID" >> "$GITHUB_OUTPUT"
+
+      - name: Configure Google Drive
         run: |
-          git clone --depth 1 "${{ inputs.repo_url }}" source
+          mkdir -p ~/.config/rclone
+
+          cat > ~/.config/rclone/rclone.conf <<'EOF'
+          [gdrive]
+          type = drive
+          scope = drive.readonly
+          team_drive =
+          EOF
+
+      - name: Download Folder
+        env:
+          FOLDER_ID: ${{ steps.folder.outputs.id }}
+        run: |
+          mkdir -p download
+
+          rclone copy \
+            "gdrive:{${FOLDER_ID}}" \
+            download \
+            --drive-shared-with-me \
+            --progress
 
       - name: Create ZIP
         run: |
-          cd source
-          zip -r ../repository.zip . -x ".git/*"
+          cd download
+          zip -r ../GoogleDrive-Files.zip .
 
       - name: Upload ZIP
         uses: actions/upload-artifact@v4
         with:
-          name: downloaded-repository
-          path: repository.zip
-          compression-level: 0
+          name: GoogleDrive-Files
+          path: GoogleDrive-Files.zip
           retention-days: 7
