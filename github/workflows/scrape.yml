@@ -1,0 +1,65 @@
+name: Scrape LiveXo sports streams
+
+on:
+  schedule:
+    # every 15 minutes
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      base_url:
+        description: "Base site URL"
+        required: false
+        default: "https://xo.livexoapp1.workers.dev"
+  push:
+    branches: [main]
+    paths:
+      - "scraper.py"
+      - ".github/workflows/scrape.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-livexo
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scrape stream links
+        env:
+          BASE_URL: ${{ github.event.inputs.base_url || 'https://xo.livexoapp1.workers.dev' }}
+          OUT_DIR: streams
+        run: python scraper.py
+
+      - name: Commit refreshed playlists
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A streams
+          if git diff --cached --quiet; then
+            echo "No changes in stream data."
+            exit 0
+          fi
+          git commit -m "chore(streams): refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: streams-${{ github.run_id }}
+          path: streams/
+          if-no-files-found: warn
+          retention-days: 7
