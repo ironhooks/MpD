@@ -44,7 +44,7 @@ jobs:
 
       - name: Run extractor
         env:
-          CINE_BASE_URL: https://cinewwchannels.pages.dev
+          CINE_BASE_URL: https://xo.livexoapp1.workers.dev/channels
         run: |
           python scripts/extract_streams.py \
             --out output \
