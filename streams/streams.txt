@@ -1,9 +1,4 @@
-# 2026-11-14T20:13:55Z | 252 channels | https://xo.livexoapp1.workers.dev/sports
-Portugal vs Denmark | UEFA Nations League 2026-27 [English]	https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa74cprod-PlaybackConfig/2022322/footlive1411/ENG/master.m3u8?hdnea=exp=1794727248~acl=/*~id=45761197466477617207465268480836~hmac=eaceef6a315c5a23e2db0f011b221f1cf2daa869bd05b11927a10db969b2ac29
-Romania vs Poland | UEFA Nations League 2026-27 [English]	https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb0dfprod-PlaybackConfig/2022316/footlive1411/ENG/master.m3u8?hdnea=exp=1794727248~acl=/*~id=45761197466477617207465268480836~hmac=eaceef6a315c5a23e2db0f011b221f1cf2daa869bd05b11927a10db969b2ac29
-Sweden vs Bosnia and Herzegovina | UEFA Nations League 2026-27 [English]	https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc5e8prod-PlaybackConfig/2022317/footlive1411/ENG/master.m3u8?hdnea=exp=1794727248~acl=/*~id=45761197466477617207465268480836~hmac=eaceef6a315c5a23e2db0f011b221f1cf2daa869bd05b11927a10db969b2ac29
-Northern Ireland vs Ukraine | UEFA Nations League 2026-27 [English]	https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3dafprod-PlaybackConfig/2018458/footlive1411/ENG/master.m3u8?hdnea=exp=1794727248~acl=/*~id=45761197466477617207465268480836~hmac=eaceef6a315c5a23e2db0f011b221f1cf2daa869bd05b11927a10db969b2ac29
-Austria vs Republic of Ireland | UEFA Nations League 2026-27 [English]	https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT50d0prod-PlaybackConfig/2022320/footlive1411/ENG/master.m3u8?hdnea=exp=1794727248~acl=/*~id=45761197466477617207465268480836~hmac=eaceef6a315c5a23e2db0f011b221f1cf2daa869bd05b11927a10db969b2ac29
+# 2026-11-14T23:55:42Z | 266 channels | https://xo.livexoapp1.workers.dev/sports
 HIN | Family Full House With Rohit Sharma	https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/kbc181411/HIN/std_lrh-800300010.m3u8
 MAR | Kon Honaar Crorepati	https://sonymtmnew-akamaized.pages.dev/hls/live/2022318/geclive1411/MAR/std_lrh-800300010.m3u8
 HIN | Indian Idol - Legends Return	https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/Idol_E091411/HIN/std_lrh-800300010.m3u8
@@ -26,6 +21,7 @@ Algeria vs Togo - beIN Español FHD	https://otte.live.fly.ww.aiv-cdn.net/pdx-nit
 Northern Ireland vs Ukraine - DAZN SPORTS FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/12gtj56m2g/out/v1/ffeb221c989d4a7a9f6d86d47fcbf4f2/cenc.mpd
 Northern Ireland vs Ukraine - PRIME VIDEO FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cb1dosmn79/out/v1/9085a6c5febe4a8393facefa44b74ba0/cenc.mpd
 Northern Ireland vs Ukraine - VIX Español FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xesjnvup8h/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd
+Northern Ireland vs Ukraine - DAZN DE FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsnyfgd19t/out/v1/4f4cda64c21a4ae0ae494b0f51143df0/cenc.mpd
 Sweden vs Bosnia & Herzegovina - DAZN SPORTS FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4vrizaujol/out/v1/c1663485fad44bb68ba6059ab77ed9f4/cenc.mpd
 Sweden vs Bosnia & Herzegovina - PRIME VIDEO FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u6b0x5vjtk/out/v1/9cbd94546b9e412db4890325de040e9d/cenc.mpd
 Sweden vs Bosnia & Herzegovina - beIN ENGLISH FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
@@ -47,96 +43,118 @@ Romania vs Poland - DAZN DE FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/l
 Austria vs Ireland - DAZN SPORTS FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6wdzczg8ai/out/v1/b41d02a57d99446e82a326588b588917/cenc.mpd
 Austria vs Ireland - PRIME VIDEO FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uwbwpwwlve/out/v1/b4fbb2cb4361442fb5a84d33506430da/cenc.mpd
 Austria vs Ireland - VIX Español FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmhyxne8me/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd
+Austria vs Ireland - DAZN DE FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jllcfxvcoj/out/v1/fdea4eda677f46278e4b28f56d6ae580/cenc.mpd
 Real Oviedo vs Girona FC - LaLiga Hypermotion	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 Mirassol vs Atlético Mineiro - SportDigital Fussball	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
 Chapecoense vs Vasco da Gama - SportzFY TV+ HD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?
-Georgia Bulldogs vs Missouri	https://chatgpt.hereisman.net/playlist/60071/load-playlist?&extension=.m3u8
-Indiana vs USC	https://chatgpt.hereisman.net/playlist/60063/load-playlist?&extension=.m3u8
-Georgia St. vs Georgia Southern	https://chatgpt.hereisman.net/playlist/60066/load-playlist?&extension=.m3u8
-Liberty Flames vs Middle Tennessee St.	https://chatgpt.hereisman.net/playlist/60064/load-playlist?&extension=.m3u8
-Oregon vs Michigan	https://chatgpt.hereisman.net/playlist/60073/load-playlist?&extension=.m3u8
-Chicago Blackhawks vs Winnipeg Jets	https://chatgpt.hereisman.net/playlist/60065/load-playlist?&extension=.m3u8
-Virginia vs California	https://chatgpt.hereisman.net/playlist/60074/load-playlist?&extension=.m3u8
-West Virginia vs Kansas	https://chatgpt.hereisman.net/playlist/60067/load-playlist?&extension=.m3u8
-Gonzaga vs LSU	https://chatgpt.hereisman.net/playlist/60068/load-playlist?&extension=.m3u8
-Northern Illinois vs Nevada	https://chatgpt.hereisman.net/playlist/60072/load-playlist?&extension=.m3u8
-Notre Dame vs Boston College	https://chatgpt.hereisman.net/playlist/60069/load-playlist?&extension=.m3u8
-Western Kentucky vs Jacksonville State	https://chatgpt.hereisman.net/playlist/60070/load-playlist?&extension=.m3u8
-Ireland vs Fiji - HOP S1	http://193.47.62.41/hls/OOOOAAAA.m3u8
-UEFA Nations League Simulcast - HOP S1	http://193.47.62.44/hls/R7888AAAAQQQA.m3u8
-Portugal vs Denmark - HOP S1	http://193.47.62.41/hls/RARARAAAQQ.m3u8
-Portugal vs Denmark - HOP S2	http://193.47.62.59/hls/RARARAAAQQ.m3u8
-Portugal vs Denmark - HOP S3	http://193.47.62.55/hls/RARARAAAQQ.m3u8
-Portugal vs Denmark - HOP S4	https://www.rtmpcdn.com/live/p-4e59487cb12e4fef953853fb359ea1d8.m3u8
-Sweden vs Bosnia-Herzegovina - HOP S1	http://193.47.62.41/hls/RARARAAAQ.m3u8
-Sweden vs Bosnia-Herzegovina - HOP S2	http://193.47.62.59/hls/RARARAAAQ.m3u8
-Sweden vs Bosnia-Herzegovina - HOP S3	http://193.47.62.55/hls/RARARAAAQ.m3u8
-Sweden vs Bosnia-Herzegovina - HOP S4	https://www.rtmpcdn.com/live/p-f7d2b7e0d9ee4d2bbb8bf92356db9646.m3u8
-Romania vs Poland - HOP S1	http://193.47.62.41/hls/RARARAAA.m3u8
-Romania vs Poland - HOP S2	http://193.47.62.59/hls/RARARAAA.m3u8
-Romania vs Poland - HOP S3	http://193.47.62.55/hls/RARARAAA.m3u8
-Romania vs Poland - HOP S4	https://www.rtmpcdn.com/live/p-043f01b8466646a1a61d419854d475c7.m3u8
-Northern Ireland vs Ukraine - HOP S1	http://193.47.62.41/hls/RARARAA.m3u8
-Northern Ireland vs Ukraine - HOP S2	http://193.47.62.59/hls/RARARAA.m3u8
-Northern Ireland vs Ukraine - HOP S3	http://193.47.62.55/hls/RARARAA.m3u8
-Northern Ireland vs Ukraine - HOP S4	https://www.rtmpcdn.com/live/p-facfa93b392046948b216449e17397b4.m3u8
-Austria vs Ireland - HOP S1	http://193.47.62.41/hls/RARARA.m3u8
-Austria vs Ireland - HOP S2	http://193.47.62.59/hls/RARARA.m3u8
-Austria vs Ireland - HOP S3	http://193.47.62.55/hls/RARARA.m3u8
-Austria vs Ireland - HOP S4	https://www.rtmpcdn.com/live/p-3bba53661bb04bddacdc167afca2e272.m3u8
-Angola vs South Sudan - HOP S1	http://193.47.62.44/hls/R7888AAAAQQQAA.m3u8
-Angola vs South Sudan - HOP S2	https://www.rtmpcdn.com/live/p-cab5c817779b4996bddf14f1a9eda610.m3u8
-Algeria vs Togo - HOP S1	http://193.47.62.44/hls/R7888AAAAQQQAAA.m3u8
-Algeria vs Togo - HOP S2	https://www.rtmpcdn.com/live/p-58e510c902be4e13ad7617b6e46b64fc.m3u8
+Pacheco vs Fulghum	https://chatgpt.hereisman.net/playlist/60107/load-playlist?&extension=.m3u8
+New Orleans Pelicans vs Denver Nuggets	https://chatgpt.hereisman.net/playlist/60099/load-playlist?&extension=.m3u8
+St. Louis Blues vs Florida Panthers	https://chatgpt.hereisman.net/playlist/60100/load-playlist?&extension=.m3u8
+BYU vs Baylor	https://chatgpt.hereisman.net/playlist/60113/load-playlist?&extension=.m3u8
+North Carolina vs Louisville	https://chatgpt.hereisman.net/playlist/60094/load-playlist?&extension=.m3u8
+Penn State vs Minnesota	https://chatgpt.hereisman.net/playlist/60098/load-playlist?&extension=.m3u8
+South Alabama vs Troy	https://chatgpt.hereisman.net/playlist/60104/load-playlist?&extension=.m3u8
+Air Force vs San Jose St.	https://chatgpt.hereisman.net/playlist/60103/load-playlist?&extension=.m3u8
+Washington Capitals vs New Jersey Devils	https://chatgpt.hereisman.net/playlist/60092/load-playlist?&extension=.m3u8
+Tampa Bay Lightning vs Detroit Red Wings	https://chatgpt.hereisman.net/playlist/60093/load-playlist?&extension=.m3u8
+Toronto Maple Leafs vs Edmonton Oilers	https://chatgpt.hereisman.net/playlist/60091/load-playlist?&extension=.m3u8
+Pittsburgh Penguins vs Ottawa Senators	https://chatgpt.hereisman.net/playlist/60095/load-playlist?&extension=.m3u8
+Montréal Canadiens vs Colorado Avalanche	https://chatgpt.hereisman.net/playlist/60101/load-playlist?&extension=.m3u8
+Columbus Blue Jackets vs Philadelphia Flyers	https://chatgpt.hereisman.net/playlist/60097/load-playlist?&extension=.m3u8
+Boston Bruins vs Minnesota Wild	https://chatgpt.hereisman.net/playlist/60102/load-playlist?&extension=.m3u8
+Tulsa vs Florida Atlantic	https://chatgpt.hereisman.net/playlist/60106/load-playlist?&extension=.m3u8
+Virginia Tech vs Stanford	https://chatgpt.hereisman.net/playlist/60110/load-playlist?&extension=.m3u8
+Cleveland Cavaliers vs Dallas Mavericks	https://chatgpt.hereisman.net/playlist/60108/load-playlist?&extension=.m3u8
+Iowa vs Purdue	https://chatgpt.hereisman.net/playlist/60112/load-playlist?&extension=.m3u8
+LSU Tigers vs Texas	https://chatgpt.hereisman.net/playlist/60111/load-playlist?&extension=.m3u8
+New Mexico vs UNLV	https://chatgpt.hereisman.net/playlist/60109/load-playlist?&extension=.m3u8
+Arkansas vs South Carolina	https://chatgpt.hereisman.net/playlist/60114/load-playlist?&extension=.m3u8
+UFC 334 : Jared Gordon vs Melquizael Costa - HOP S1	http://193.47.62.55/hls/cuuu.m3u8
+UFC 334 : Jared Gordon vs Melquizael Costa - HOP S2	https://temp.formaturamaxi.com.br/simplyabby.m3u8
 Boxing : Riley vs Coupe - HOP S1	http://193.47.62.41/hls/NGGG.m3u8
-MMA Cage Warriors 213 - HOP S1	http://193.47.62.41/hls/NGGGA.m3u8
-MMA PFL Dubai - HOP S1	http://193.47.62.55/hls/JJJJ.m3u8
-RAF Abu Dhabi Chimaev vs Weidman - HOP S1	http://193.47.62.55/hls/EJJJAAA.m3u8
+Boxing : Riley vs Coupe - HOP S2	https://admin2.formaturamaxi.com.br/ppv4.m3u8
+Minnesota Timberwolves vs Chicago Bulls - HOP S1	http://193.47.62.59/hls/JUJUJUQQQQ.m3u8
+Miami Heat vs Detroit Pistons - HOP S1	http://193.47.62.59/hls/JUJUJUQQQ.m3u8
+Memphis Grizzlies vs Brooklyn Nets - HOP S1	http://193.47.62.59/hls/JUJUJUQQ.m3u8
+Cleveland Cavaliers vs Dallas Mavericks - HOP S1	http://193.47.62.59/hls/JUJUJUQ.m3u8
+New Orleans Pelicans vs Denver Nuggets - HOP S1	http://193.47.62.59/hls/JUJUJU.m3u8
+Hawaii vs North Dakota State - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQQQ.m3u8
+New Zealand vs India - HOP S1	http://193.47.62.55/hls/SSSSAAAAAAQ.m3u8
+Canberra W vs Brisbane Roar W - HOP S1	http://193.47.62.55/hls/SSSSAAAAAA.m3u8
+Washington State vs Colorado State Rams - HOP S1	http://193.47.62.50/hls/NBBBAAqqq.m3u8
+Los Angeles Kings vs Calgary Flames - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fd3f6fca-fcb8-467a-aeb7-5641e3f17757/master.m3u8
+Anaheim Ducks vs New York Islanders - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/08eed227-494f-4b5a-9c7d-6cf46a373bf2/master.m3u8
+UTEP vs Wyoming - HOP S1	http://193.47.62.50/hls/DVVVAA.m3u8
+San Diego State vs Utah State - HOP S1	http://193.47.62.50/hls/QAQAQA.m3u8
+Oklahoma State vs Texas Tech - HOP S1	http://193.47.62.50/hls/RTTTAA.m3u8
+UTSA vs North Texas - HOP S1	http://193.47.62.50/hls/Y999AA.m3u8
+Utah Mammoth vs San Jose Sharks - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a5289e57-4e10-498c-a30c-7837d85ce160/master.m3u8
+Dallas Stars vs Buffalo Sabres - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d8ae19fe-9fac-43b5-9781-f790a08339cb/master.m3u8
+AEW Full Gear - HOP S1	http://193.47.62.41/hls/FFFF.m3u8
+AEW Full Gear - HOP S2	https://admin2.formaturamaxi.com.br/aew.m3u8
+Wellington Phoenix W vs Sydney W - HOP S1	http://193.47.62.55/hls/SSSSAAAAA.m3u8
+Jamaica vs Mexico - HOP S1	http://193.47.62.55/hls/SSSSAAAA.m3u8
+Arkansas vs South Carolina - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQQQQQ.m3u8
+Virginia Tech vs Stanford - HOP S1	http://193.47.62.50/hls/DVVVAAAAQ.m3u8
+New Mexico vs UNLV Rebels - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQQQ.m3u8
+LSU vs Texas - HOP S1	http://193.47.62.50/hls/DVVVAAA.m3u8
+Iowa vs Purdue - HOP S1	http://193.47.62.50/hls/NBBBAAqqqqq.m3u8
+Arizona vs Utah - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQ.m3u8
+South Alabama vs Troy - HOP S1	http://193.47.62.50/hls/RTTT.m3u8
+Penn State vs Minnesota - HOP S1	http://193.47.62.50/hls/DVVVAA.m3u8
+North Carolina vs Louisville - HOP S1	http://193.47.62.50/hls/RTTTA.m3u8
+Air Force vs San Jose State - HOP S1	http://193.47.62.50/hls/NBBBAAqqq.m3u8
+Saint Vincent and the Grenadines vs Belize - HOP S1	http://193.47.62.55/hls/SSSSAAA.m3u8
+Washington Capitals vs New Jersey Devils - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d47e8156-c404-43c3-a49a-0ad1f543ef22/master.m3u8
+Toronto Maple Leafs vs Edmonton Oilers - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b682e7c6-1b91-4758-9bdd-77c7688f2938/master.m3u8
+Tampa Bay Lightning vs Detroit Red Wings - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9e35e50a-7474-4c72-8dc9-9596c9e8948c/master.m3u8
+St Louis Blues vs Florida Panthers - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5f9b94d9-e0fa-42d4-b50b-8918ac56934d/master.m3u8
+Pittsburgh Penguins vs Ottawa Senators - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/36a9ca70-9834-492e-80bb-2ac884d5edf8/master.m3u8
+Montreal Canadiens vs Colorado Avalanche - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e6c274f5-2341-4ddc-8ada-c4e170bf6e94/master.m3u8
+Columbus Blue Jackets vs Philadelphia Flyers - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ff95f762-3e8c-4f3e-abd0-aa008b1ad0aa/master.m3u8
+Boston Bruins vs Minnesota Wild - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9da8db38-2ead-4692-bc2a-f6ccd2ef21b8/master.m3u8
+Chapecoense-SC vs Vasco - HOP S1	http://193.47.62.55/hls/SSSSAA.m3u8
+Kentucky vs Florida Gators - HOP S1	http://193.47.62.50/hls/NBBBAA.m3u8
+Marshall vs Appalachian State - HOP S1	http://193.47.62.50/hls/QAQAQAQ.m3u8
+Boise State vs Oregon State - HOP S1	http://193.47.62.50/hls/QAQAQA.m3u8
+Queretaro vs Monterrey - HOP S1	http://193.47.62.55/hls/SSSSA.m3u8
+Nacional vs Albion - HOP S1	http://193.47.62.55/hls/SSSS.m3u8
+Banfield vs Boca Juniors - HOP S1	http://193.47.62.44/hls/VOOOAAAAA.m3u8
+West Virginia vs Kansas - HOP S1	http://193.47.62.50/hls/cuuuAA.m3u8
+Louisiana Tech vs Southern Miss - HOP S1	http://193.47.62.50/hls/cuuuA.m3u8
+Haiti vs USA - HOP S1	http://193.47.62.44/hls/VOOOAAAA.m3u8
+Haiti vs USA - HOP S2	https://www.rtmpcdn.com/live/f773ab0f-03fb-4f35-8b46-87d023bfea44.m3u8
+Coquimbo Unido vs OHiggins - HOP S1	http://193.47.62.50/hls/RYYYY.m3u8
+Mirassol vs Atletico-MG - HOP S1	http://193.47.62.44/hls/VOOOAAA.m3u8
+Rice vs Tulane - HOP S1	http://193.47.62.50/hls/Y999.m3u8
+Mississippi vs St Auburn - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQQQQQ.m3u8
+Michigan State vs Washington Huskies - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQQQQ.m3u8
+Recoleta vs Libertad Asuncion - HOP S1	http://193.47.62.44/hls/VOOOAA.m3u8
+Texas State Bobcats vs Fresno State - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQQQ.m3u8
+Notre Dame vs Boston College - HOP S1	http://193.47.62.50/hls/NBBBAAqqqqq.m3u8
+Indiana vs USC - HOP S1	http://193.47.62.50/hls/NBBBAAqq.m3u8
+Western Kentucky vs Jacksonville State - HOP S1	http://193.47.62.50/hls/NBBBAAqqqqqAA.m3u8
+Virginia vs California - HOP S1	http://193.47.62.50/hls/DVVVAAAAQ.m3u8
+UCF vs Arizona State - HOP S1	http://193.47.62.50/hls/Y999AA.m3u8
+Oregon vs Michigan - HOP S1	http://193.47.62.50/hls/DVVVAA.m3u8
+Liberty Flames vs Middle Tennessee St - HOP S1	http://193.47.62.50/hls/NBBBAAqqq.m3u8
+Georgia State Panthers vs Georgia Southern - HOP S1	http://193.47.62.50/hls/NBBBAAq.m3u8
+Georgia vs Missouri - HOP S1	http://193.47.62.50/hls/DVVVAAA.m3u8
+Brigham Young vs Baylor - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQ.m3u8
+Chicago Blackhawks vs Winnipeg Jets - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b20b5c63-da9e-4a21-a45f-894bf7d6ea1e/master.m3u8
+Colombia Primera A Simulcast - HOP S1	http://193.47.62.44/hls/VOOO.m3u8
 Texas A-M vs Tennessee - HOP S1	http://193.47.62.50/hls/NBBBAA.m3u8
 Missouri State vs New Mexico State - HOP S1	http://193.47.62.50/hls/NBBBA.m3u8
-Delaware Fightin vs Florida International - HOP S1	http://193.47.62.50/hls/NBBB.m3u8
-Real Oviedo vs Girona - HOP S1	http://193.47.62.59/hls/VVVVAAAAAQAAAQ.m3u8
 Tennis WTA Finals Indian Wells - HOP S1	http://193.47.62.50/hls/BUUU.m3u8
-Marseille W vs PSG W - HOP S1	http://193.47.62.44/hls/VOOOA.m3u8
-Real Madrid W vs Badalona W - HOP S1	http://193.47.62.44/hls/R7888AAAAQQQ.m3u8
-Maldonado vs CA Cerro - HOP S1	http://193.47.62.44/hls/R7888AAAAQQ.m3u8
-Sport Recife vs Goias - HOP S1	http://193.47.62.44/hls/R7888AAAAQ.m3u8
-Juventude vs Botafogo SP - HOP S1	http://193.47.62.44/hls/R7888AAAA.m3u8
-Fortaleza vs Vila Nova FC - HOP S1	http://193.47.62.44/hls/R7888AAA.m3u8
-Criciuma vs Novorizontino - HOP S1	http://193.47.62.44/hls/R7888AA.m3u8
-CRB vs Ceara - HOP S1	http://193.47.62.44/hls/R7888A.m3u8
-Atletico GO vs Cuiaba - HOP S1	http://193.47.62.44/hls/R7888.m3u8
-America MG vs Avai - HOP S1	http://193.47.62.44/hls/6666AAAAAAQQ.m3u8
 Darts Grand Slam - HOP S1	http://193.47.62.59/hls/BEEEAAA.m3u8
 Golf PGA Austin Championship - HOP S1	http://193.47.62.50/hls/VYYYAAAAq.m3u8
 Snooker Champion of Champions - HOP S1	http://193.47.62.59/hls/WJJJJJ.m3u8
-Sint Maarten vs French Guiana - HOP S1	http://193.47.62.44/hls/6666AAAAAAQ.m3u8
-Waalwijk vs FC Den Bosch - HOP S1	http://193.47.62.44/hls/6666AAAAAA.m3u8
-Venlo vs Eindhoven FC - HOP S1	http://193.47.62.44/hls/6666AAAAA.m3u8
-Roda vs FC Volendam - HOP S1	http://193.47.62.44/hls/6666AAAA.m3u8
-Dordrecht vs Heracles - HOP S1	http://193.47.62.44/hls/6666AAA.m3u8
-De Graafschap vs Top Oss - HOP S1	http://193.47.62.44/hls/6666AA.m3u8
-Almere City vs Helmond - HOP S1	http://193.47.62.44/hls/6666A.m3u8
 TCU vs Kansas State - HOP S1	http://193.47.62.50/hls/Y999AA.m3u8
 Sam Houston State vs Kennesaw State - HOP S1	http://193.47.62.50/hls/Y999A.m3u8
-Temple vs UAB - HOP S1	http://193.47.62.50/hls/2222AA.m3u8
 Coastal Carolina vs Arkansas State - HOP S1	http://193.47.62.50/hls/2222A.m3u8
 Charlotte vs East Carolina - HOP S1	http://193.47.62.50/hls/2222.m3u8
-Vanderbilt vs Alabama - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQQQQQ.m3u8
-Rutgers vs Nebraska - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQQQQ.m3u8
-Clemson vs Georgia Tech - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQQQ.m3u8
-Southern Methodist vs Wake Forest - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQQ.m3u8
-Ohio State vs Northwestern - HOP S1	http://193.47.62.50/hls/DVVVAAAAQQ.m3u8
-North Carolina State vs Syracuse - HOP S1	http://193.47.62.50/hls/DVVVAAAAQ.m3u8
-Miami FL vs Duke - HOP S1	http://193.47.62.50/hls/DVVVAAA.m3u8
-Maryland vs Wisconsin - HOP S1	http://193.47.62.50/hls/DVVVAA.m3u8
-Iowa State vs Cincinnati Bearcats - HOP S1	http://193.47.62.50/hls/DVVVA.m3u8
-Carolina Hurricanes vs Seattle Kraken - HOP S1	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/65f8f5c5-95fa-4e14-b4fc-66aa7c657d35/master.m3u8
-Portugal vs Denmark - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27	https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794730040~acl=/*~id=89173531212270175097128453528990~hmac=01fd034e1f4f56fcc13c2149862aea9068fdece2ff84e806c7d7ac42e5e633d0
-Romania vs Poland - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27	https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794730040~acl=/*~id=89173531212270175097128453528990~hmac=01fd034e1f4f56fcc13c2149862aea9068fdece2ff84e806c7d7ac42e5e633d0
-Sweden vs Bosnia and Herzegovina - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27	https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794730040~acl=/*~id=89173531212270175097128453528990~hmac=01fd034e1f4f56fcc13c2149862aea9068fdece2ff84e806c7d7ac42e5e633d0
-Northern Ireland vs Ukraine - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27	https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794730040~acl=/*~id=89173531212270175097128453528990~hmac=01fd034e1f4f56fcc13c2149862aea9068fdece2ff84e806c7d7ac42e5e633d0
-Austria vs Republic of Ireland - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27	https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794730040~acl=/*~id=89173531212270175097128453528990~hmac=01fd034e1f4f56fcc13c2149862aea9068fdece2ff84e806c7d7ac42e5e633d0
+UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG] - UFC 334 - Gane vs Hokit	https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794743351~acl=/*~id=27843395095498906557399323358421~hmac=1a5a2897a8e6220e7afc124f1755d89ac7da5f9cb0c37b6ff7772f04a946a60a
+UFC 334 - Gane vs Hokit | UFC 334 - Gane vs Hokit [English]	https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120301/UFC_UFC31411/ENG/master.m3u8?hdnea=exp=1794743450~acl=/*~id=29228859931519925852009357526667~hmac=3e35846a7c70795b01a0615930a2487f2b5be17097eb2b4e1ab102fb20e3e826
 GOLF EVENTO Vs GOLF EVENTO - SKY GOLF FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agdcjco1zo/out/v1/e7aec5bb76ba477b8c5a59213af465ad/cenc.mpd
 GOLF EVENTO Vs GOLF EVENTO - SKY GOLF ALT	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3eyutz3sbr/out/v1/369f8b2194004b5192c0c8e6a22822bf/cenc.mpd
 GOLF EVENTO Vs GOLF EVENTO - Golf Channel - HD	https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
@@ -156,91 +174,87 @@ TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS PLUS	https://amg01935-amg01935c1-amg
 TENNIS | EVENTO Vs TENNIS | EVENTO - BEIN3 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 TENNIS | EVENTO Vs TENNIS | EVENTO - TSN3 SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
 TENNIS | EVENTO Vs TENNIS | EVENTO - LOW QUALITY (USE VPN)	http://193.47.62.55/hls/RGGG.m3u8
-ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE - PREMIERE2 SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE - WILLOW FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd
-ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE - WILLOW ALT	https://live.msnetworks.net/a-sports/master.m3u8
-Basque Country Vs Venezuela - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
-Real Madrid Vs FC Badalona Women - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
-Brighton Vs Liverpool FC - FANCODE2 FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-Brighton Vs Liverpool FC - CBS SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-Brighton Vs Liverpool FC - LOW QUALITY (USE VPN)	http://193.47.62.59/hls/VVVVAAAAAQAAA.m3u8
-Brighton Vs Liverpool FC - HD QUALITY 4	https://www.rtmpcdn.com/live/p-80bb817030b8404eb3b81085e20a1624.m3u8
-Mallorca Vs Córdoba - LaLiga Hypermotion	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-Mallorca Vs Córdoba - LaLiga Hypermotion2	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
-Mallorca Vs Córdoba - LOW QUALITY (USE VPN)	http://193.47.62.59/hls/VVVVAAAAAQAAAQ.m3u8
-Almería Vs FC Andorra - LaLiga Hypermotion2	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
-Almería Vs FC Andorra - LOW QUALITY (USE VPN)	http://193.47.62.59/hls/VVVVAAAAAQAAAQQ.m3u8
-Almería Vs FC Andorra - LaLiga Hypermotion	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-Sint Maarten Vs French Guiana - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
-Algeria Vs Togo - beIN ESPNAOL FHD	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?
-Algeria Vs Togo - BEIN3 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-Angola Vs South Sudan - beIN SPORTS US FHD	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?
-Fleetwood Town Vs Tranmere Rovers - STREAM TV + HD	https://www.rtmpcdn.com/live/p-648681dd926649fd98185acc6a9d2c83.m3u8
-Fleetwood Town Vs Tranmere Rovers - LOW QUALITY (USE VPN)	http://193.47.62.50/hls/T000AAAAAQQ.m3u8
-Montreal Roses FC Vs AFC Toronto - TSN4 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-Montreal Roses FC Vs AFC Toronto - TSN5 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
-Carolina Hurricanes Vs Seattle Kraken - NOVA1 SPORTS FHD	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-Carolina Hurricanes Vs Seattle Kraken - STREAM TV + NHL	https://chatgpt.hereisman.net/playlist/60052/load-playlist?&.m3u8
-England Vs Japan - STREAM TV + RUGBY	http://193.47.62.41/hls/OOOOAAAA.m3u8
-England Vs Japan - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/OOOOAAAA.m3u8
+Primera A Vs Primera A - FOX DEPORTES FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+Primera A Vs Primera A - SIM QUALITY (USE VPN)	http://193.47.62.44/hls/VOOO.m3u8
+Haiti Vs USA - HD QUALITY	https://chatgpt.hereisman.net/playlist/60080/load-playlist?&.m3u8
+Haiti Vs USA - HD QUALITY 2	https://www.rtmpcdn.com/live/f773ab0f-03fb-4f35-8b46-87d023bfea44.m3u8
+Haiti Vs USA - LOW QUALITY (USE VPN)	http://193.47.62.44/hls/VOOOAAAA.m3u8
+Haiti Vs USA - HD QUALITY 5	https://live2.jorvakstreamcache.com/live/channel9.m3u8?
+Banfield Vs Boca Juniors - LOW QUALITY (USE VPN)	http://193.47.62.44/hls/VOOOAAAAA.m3u8
+Banfield Vs Boca Juniors - TYC Sports Inter	https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?
+Tigres UANL Vs Pumas UNAM - FOX DEPORTES FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+Mirassol Vs Atlético Mineiro - SportDigital FussBall	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+Ciryl Gane Vs Josh Hokit - TNT2UK SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+Ciryl Gane Vs Josh Hokit - PARAMOUNT+ FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfyaoutkx5/out/v1/bc189987de5240c081c6ac3dc81bcdb3/cenc.mpd
+Ciryl Gane Vs Josh Hokit - UFC LIVE FHD	https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8
+Ciryl Gane Vs Josh Hokit - HD QUALITY UFC	https://temp.formaturamaxi.com.br/simplyabby.m3u8
+Ciryl Gane Vs Josh Hokit - HD QUALITY 1	https://chatgpt.hereisman.net/playlist/60082/load-playlist?&.m3u8
+Ciryl Gane Vs Josh Hokit - HD QUALITY 2	https://chatgpt.hereisman.net/playlist/60083/load-playlist?&.m3u8
+Ciryl Gane Vs Josh Hokit - HD QUALITY 3	https://chatgpt.hereisman.net/playlist/60084/load-playlist?&.m3u8
+Ciryl Gane Vs Josh Hokit - LOW QUALITY (USE VPN)	http://193.47.62.55/hls/cuuu.m3u8
+Ciryl Gane Vs Josh Hokit - SportsNet FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
+Ciryl Gane Vs Josh Hokit - UFC TV FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd
+Chicago Blackhawks Vs Winnipeg Jets - NOVA1 SPORTS FHD	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+Chicago Blackhawks Vs Winnipeg Jets - STREAM TV + NHL	https://chatgpt.hereisman.net/playlist/60065/load-playlist?&.m3u8
+Chicago Blackhawks Vs Winnipeg Jets - SPORTSCAST	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b20b5c63-da9e-4a21-a45f-894bf7d6ea1e/master.m3u8
+Ireland Vs Fiji - STREAM TV + RUGBY	http://193.47.62.41/hls/OOOOAAAA.m3u8
+Ireland Vs Fiji - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/OOOOAAAA.m3u8
 Horse Racing Vs Horse Racing - FOX2 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 Horse Racing Vs Horse Racing - FOX1 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 College GameDay Vs College GameDay - Link 1	https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8
 PFL Vs PFL - Link 1	https://chatgpt.hereisman.net/playlist/59992/load-playlist?&.m3u8
 RAF Vs RAF - Link 1	https://chatgpt.hereisman.net/playlist/60043/load-playlist?&.m3u8
-UFC Vs UFC - Link 1	https://chatgpt.hereisman.net/playlist/60029/load-playlist?&.m3u8
-Miami Hurricanes Vs Duke Blue Devils - TSN2 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-Miami Hurricanes Vs Duke Blue Devils - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60037/load-playlist?&.m3u8
-Ohio State Buckeyes Vs Northwestern Wildcats - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60036/load-playlist?&.m3u8
-Ohio State Buckeyes Vs Northwestern Wildcats - FOX DEPORTES FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-Southern Methodist Mustangs Vs Wake Forest Demon Deacons - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60042/load-playlist?&.m3u8
-Maryland Terrapins Vs Wisconsin Badgers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60034/load-playlist?&.m3u8
-Maryland Terrapins Vs Wisconsin Badgers - FOX1 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-Iowa State Cyclones Vs Cincinnati Bearcats - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60035/load-playlist?&.m3u8
-Connecticut Huskies Vs James Madison Dukes - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60040/load-playlist?&.m3u8
-North Carolina State Wolfpack Vs Syracuse Orange - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60039/load-playlist?&.m3u8
-Clemson Tigers Vs Georgia Tech Yellow Jackets - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60044/load-playlist?&.m3u8
-Clemson Tigers Vs Georgia Tech Yellow Jackets - LOW QUALITY (USE VPN)	http://193.47.62.50/hls/DVVVAAAAQQQQ.m3u8
-Vanderbilt Commodores Vs Alabama Crimson Tide - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60046/load-playlist?&.m3u8
-Vanderbilt Commodores Vs Alabama Crimson Tide - LOW QUALITY (USE VPN)	http://193.47.62.50/hls/DVVVAAAAQQQQQQ.m3u8
-Rutgers Scarlet Knights Vs Nebraska Cornhuskers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60045/load-playlist?&.m3u8
-Rutgers Scarlet Knights Vs Nebraska Cornhuskers - LOW QUALITY (USE VPN)	http://193.47.62.50/hls/DVVVAAAAQQQQQ.m3u8
-Charlotte 49ers Vs East Carolina Pirates - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60050/load-playlist?&.m3u8
-Charlotte 49ers Vs East Carolina Pirates - LOW QUALITY (USE VPN)	http://193.47.62.50/hls/2222.m3u8
-Coastal Carolina Chanticleers Vs Arkansas State Red Wolves - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60047/load-playlist?&.m3u8
-Coastal Carolina Chanticleers Vs Arkansas State Red Wolves - LOW QUALITY (USE VPN)	http://193.47.62.50/hls/2222A.m3u8
-Temple Owls Vs UAB Blazers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60048/load-playlist?&.m3u8
-Temple Owls Vs UAB Blazers - LOW QUALITY (USE VPN)	http://193.47.62.50/hls/2222AA.m3u8
-Sam Houston Bearkats Vs Kennesaw State Owls - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
-TCU Horned Frogs Vs Kansas State Wildcats - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60054/load-playlist?&.m3u8
-Primera A Vs Primera A - FOX DEPORTES FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-Portugal Vs Denmark - BEIN3 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-Portugal Vs Denmark - FOX2 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-Portugal Vs Denmark - SPORT1 CZ FHD	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-Portugal Vs Denmark - SporTV BR FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-Sweden Vs Bosnia & Herzegovina - BeIN2 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-Sweden Vs Bosnia & Herzegovina - SPORT2 TV CZ FHD	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-Romania Vs Poland - FUBO NETWORK FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
-Real Oviedo Vs Girona FC - LaLiga Hypermotion	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-Chicago Blackhawks Vs Winnipeg Jets - NOVA1 SPORTS FHD	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-Chicago Blackhawks Vs Winnipeg Jets - STREAM TV + NHL	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
-Ireland Vs Fiji - STREAM TV + RUGBY	https://file.genoads.com/ch1.m3u8
-Texas A&M Aggies Vs Tennessee Volunteers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+UFC Vs UFC - Riley vs Coupe HD	https://admin2.formaturamaxi.com.br/ppv4.m3u8
+UFC Vs UFC - Riley vs Coupe SD	http://193.47.62.41/hls/NGGG.m3u8
+UFC Vs UFC - HD QUALITY	https://chatgpt.hereisman.net/playlist/60029/load-playlist?&.m3u8
+Texas A&M Aggies Vs Tennessee Volunteers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60061/load-playlist?&.m3u8
 Georgia Bulldogs Vs Missouri Tigers - TSN2 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-Georgia Bulldogs Vs Missouri Tigers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Georgia Bulldogs Vs Missouri Tigers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60071/load-playlist?&.m3u8
+Delaware Blue Hens Vs Florida Intl Golden Panthers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60060/load-playlist?&.m3u8
+Missouri State Bears Vs New Mexico State Aggies - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60062/load-playlist?&.m3u8
+Liberty Flames Vs Middle Tennessee Blue Raiders - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60064/load-playlist?&.m3u8
 Oregon Ducks Vs Michigan Wolverines - FOX1 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-Oregon Ducks Vs Michigan Wolverines - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Oregon Ducks Vs Michigan Wolverines - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60073/load-playlist?&.m3u8
+Georgia State Panthers Vs Georgia Southern Eagles - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60066/load-playlist?&.m3u8
 Notre Dame Fighting Irish Vs Boston College Eagles - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
-Indiana Hoosiers Vs USC Trojans - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Indiana Hoosiers Vs USC Trojans - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60063/load-playlist?&.m3u8
+Northern Illinois Huskies Vs Nevada Wolf Pack - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60072/load-playlist?&.m3u8
+Western Kentucky Hilltoppers Vs Jacksonville State Gamecocks - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60070/load-playlist?&.m3u8
+Mississippi State Bulldogs Vs Auburn Tigers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60077/load-playlist?&.m3u8
+Rice Owls Vs Tulane Green Wave - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60078/load-playlist?&.m3u8
+Texas State Bobcats Vs Fresno State Bulldogs - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60075/load-playlist?&.m3u8
+Virginia Cavaliers Vs California Golden Bears - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60074/load-playlist?&.m3u8
+Michigan State Spartans Vs Washington Huskies - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60086/load-playlist?&.m3u8
+Louisiana Tech Bulldogs Vs Southern Mississippi Golden Eagles - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60079/load-playlist?&.m3u8
+UCF Knights Vs Arizona State Sun Devils - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60085/load-playlist?&.m3u8
+AEW Vs AEW - HD QUALITY WWE	https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8
+AEW Vs AEW - TSN2 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+AEW Vs AEW - FOX SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+AEW Vs AEW - AEW TV HD	https://admin2.formaturamaxi.com.br/aew.m3u8
+WBBL Vs WBBL - WILLOW FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd
+WBBL Vs WBBL - SKY CRICKET FHD	https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+WBBL Vs WBBL - WILLOW HD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+WBBL Vs WBBL - SD QUALITY	http://193.47.62.41/hls/ZZZZAA.m3u8
+Saint Vincent and the Grenadines Vs Belize - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Chapecoense Vs Vasco da Gama - PREMIERER BR	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?
+New Orleans Pelicans Vs Denver Nuggets - STREAM TV + NBA	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Montréal Canadiens Vs Colorado Avalanche - STREAM TV + NHL	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Boston Bruins Vs Minnesota Wild - NOVA1 SPORTS FHD	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+Boston Bruins Vs Minnesota Wild - STREAM TV + NHL	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Columbus Blue Jackets Vs Philadelphia Flyers - STREAM TV + NHL	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Tampa Bay Lightning Vs Detroit Red Wings - STREAM TV + NHL	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+St. Louis Blues Vs Florida Panthers - STREAM TV + NHL	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Pittsburgh Penguins Vs Ottawa Senators - STREAM TV + NHL	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Washington Capitals Vs New Jersey Devils - STREAM TV + NHL	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Toronto Maple Leafs Vs Edmonton Oilers - STREAM TV + NHL	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Kentucky Wildcats Vs Florida Gators - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Brigham Young Cougars Vs Baylor Bears - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Womens Big Bash League 2026 - 23rd Match -Sydney Sixers Women vs Melbourne Renegades Women	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mysvg9964s/out/v1/b7761cc505e84787832b2b55e90bbbf0/cenc.mpd
 T Sports	https://da.gd/BYXNh
 T Sports Backup	https://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH
 FANCODE - AQ	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 FANCODE - AQ (Server 2)	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-[LIVE] Portugal vs Denmark - 15 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2022322%2Ffootlive1411%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1794730040~acl%3D%2F*~id%3D89173531212270175097128453528990~hmac%3D01fd034e1f4f56fcc13c2149862aea9068fdece2ff84e806c7d7ac42e5e633d0
-[LIVE] Romania vs Poland - 15 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2022316%2Ffootlive1411%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1794730040~acl%3D%2F*~id%3D89173531212270175097128453528990~hmac%3D01fd034e1f4f56fcc13c2149862aea9068fdece2ff84e806c7d7ac42e5e633d0
-[LIVE] Sweden vs Bosnia and Herzegovina - 15 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2022317%2Ffootlive1411%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1794730040~acl%3D%2F*~id%3D89173531212270175097128453528990~hmac%3D01fd034e1f4f56fcc13c2149862aea9068fdece2ff84e806c7d7ac42e5e633d0
-[LIVE] Northern Ireland vs Ukraine - 15 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2018458%2Ffootlive1411%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1794730040~acl%3D%2F*~id%3D89173531212270175097128453528990~hmac%3D01fd034e1f4f56fcc13c2149862aea9068fdece2ff84e806c7d7ac42e5e633d0
-[LIVE] Austria vs Republic of Ireland - 15 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2022320%2Ffootlive1411%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1794730040~acl%3D%2F*~id%3D89173531212270175097128453528990~hmac%3D01fd034e1f4f56fcc13c2149862aea9068fdece2ff84e806c7d7ac42e5e633d0
+[LIVE] UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG] - Sony Sports Ten 5 [ENG]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2120301%2FUFC_UFC31411%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1794743351~acl%3D%2F*~id%3D27843395095498906557399323358421~hmac%3D1a5a2897a8e6220e7afc124f1755d89ac7da5f9cb0c37b6ff7772f04a946a60a
 [UPCOMING] Upcoming - DP World Asia Cup Rising Stars Men's 2026 - Sony Sports Ten 5 [HIN]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - UFC 334 - Gane vs Hokit - Sony Sports Ten 5 [ENG]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - 5th ODI - India Tour Of New Zealand 2026 - Sony Sports Ten 5 [HIN]	https://events-1fe.pages.dev/player.html?url=
