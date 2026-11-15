@@ -1,6 +1,8 @@
-# 2026-11-15T11:37:40Z | 136 channels | https://xo.livexoapp1.workers.dev/sports
-DP World Tour Championship, Dubai - Day 4 | DP World Tour [English]	https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2120300/Golf_DPW1511/ENG/master.m3u8?hdnea=exp=1794766849~acl=/*~id=22282584142267020466311914481196~hmac=1ab643140c261a9b4e450d49121df98001a0f68946504c951f8ff7a2bfaaaab7
-ENG | DP World Tour Championship Dubai - Day 4 - 15 Nov 2026	https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8
+# 2026-11-15T17:58:38Z | 207 channels | https://xo.livexoapp1.workers.dev/sports
+Finland vs San Marino | UEFA Nations League 2026-27 [English]	https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0518prod-PlaybackConfig/2120305/Footlive1511/ENG/master.m3u8?hdnea=exp=1794802853~acl=/*~id=15710501559089552022470012723872~hmac=92f3f5a9284380bfdb3470fcac973c8c2b99a8f4539a9424d9d14387ae8c3580
+Belarus vs Albania | UEFA Nations League 2026-27 [English]	https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2120304/Footlive1511/ENG/master.m3u8?hdnea=exp=1794802853~acl=/*~id=15710501559089552022470012723872~hmac=92f3f5a9284380bfdb3470fcac973c8c2b99a8f4539a9424d9d14387ae8c3580
+ENG | Finland vs San Marino - 15 Nov 2026	https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/Footlive1511/ENG/std_lrh-800300010.m3u8
+ENG | Belarus vs Albania - 15 Nov 2026	https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive1511/ENG/std_lrh-800300010.m3u8
 SONY Sports TEN 1 HD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcu7rpwyvi/out/v1/05f98d7430fd4ceeb3317fe61cc536b0/cenc.mpd
 SONY Sports TEN 2 HD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7vhf8r60nl/out/v1/5d0ce0e49c454459a1f6c58562ce4884/cenc.mpd
 SONY Sports TEN 3 HINDI HD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcu7rpwyvi/out/v1/05f98d7430fd4ceeb3317fe61cc536b0/cenc.mpd
@@ -8,54 +10,87 @@ SONY Sports TEN 4 HD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/
 SONY Sports TEN 5 HD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7vhf8r60nl/out/v1/5d0ce0e49c454459a1f6c58562ce4884/cenc.mpd
 Bangladesh vs Pakistan	https://live2.jorvakstreamcache.com/live/channel19.m3u8
 NPL 2026	https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd
+Abu Dhabi T10 League - HOP S1	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pcfnauj90i/out/v1/ce20f95d46394bbdb2d7361cc89efe65/cenc.mpd
 AFG vs ZIM - HOP S1	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yweffzpen/out/v1/197dbda9339c436c95282a80d109cbd6/cenc.mpd
 SA vs BAN - HOP S1	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
-Abu Dhabi T10 League - HOP S1	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd
 WBBL Women Big Bash League - HOP S1	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 AUS vs ENG - HOP S1	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cs4bb976aa/out/v1/18bfdac2326c4055b5be76a41172ff9c/cenc.mpd
-NZ vs IND - HOP S1	https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8ds/out/v1/2888a4861ca042d1a01fc66e65c44981/cenc.mpd
-NZ vs IND - HOP S2	https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd
-HIN | 5th ODI - 15 Nov 2026	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd
-Dubai - Day 4 - 15 Nov 2026	https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/qtnjk570ue/out/v1/edde82c329c5435799ed2bde287862d8/cenc.mpd
-CD Tenerife vs AD Ceuta - LaLiga Hypermotion	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-West Ham vs Charlton Athletic WFC - CBS SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-Cyprus vs Montenegro - FOX SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-Cyprus vs Montenegro - beIN ENGLISH FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-Latvia vs Armenia - beIN ENGLISH FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+HIN | Indian Idol - Legends Return	https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ydnixxoceg/out/v1/da9cc0952f80440a9ad51a19c53998e5/cenc.mpd
+HIN | Family Full House With Rohit Sharma	https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/f12yoz3kiv/out/v1/41cbb9e739b444139ec0838f91d0e7c5/cenc.mpd
+ENG | Belarus vs. Albania	https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xvbmu1sghe/out/v1/e0ce7e0171f84bb8b623b22479c44697/cenc.mpd
+ENG | Finland vs. San Marino	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9xfmoxo78e/out/v1/c09ad451a5574e88985a5cada5beeaa7/cenc.mpd
+HIN | Indian Idol - Legends Return	https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/8cwqoxerbj/out/v1/771669b1f2134421b542a0ea5baa4be2/cenc.mpd
+ENG | Belarus vs. Albania	https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cmwuhp1hws/out/v1/c715377d57874eb498c1cb2275af2fff/cenc.mpd
+ENG | Finland vs. San Marino	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wiewmp0an4/out/v1/df5bc6a21d954b95ad8b9608359d2359/cenc.mpd
+Arsenal vs London City Lionesses - PARAMOUNT+ FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wb76qkwpd2/out/v1/d8723a43626742d98957c868dafd1f3a/cenc.mpd
+Belarus vs Albania - DAZN SPORTS FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4y2n0b3mzr/out/v1/6eabe77b79a2452ba5beea2e07ec6d04/cenc.mpd
+Belarus vs Albania - PRIME VIDEO FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmwuhp1hws/out/v1/c715377d57874eb498c1cb2275af2fff/cenc.mpd
+Belarus vs Albania - beIN ENGLISH FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+Belarus vs Albania - VIX Español FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iqxzwrzets/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd
+Belarus vs Albania - DAZN DE FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cvusmtfnts/out/v1/d34e2f7debf04808b460c6e853780a2d/cenc.mpd
+Finland vs San Marino - DAZN SPORTS FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/02cdnhlbid/out/v1/94aadb4bd7a640a8aa86570b05c65fc5/cenc.mpd
+Finland vs San Marino - PRIME VIDEO FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9xfmoxo78e/out/v1/c09ad451a5574e88985a5cada5beeaa7/cenc.mpd
+Finland vs San Marino - beIN ENGLISH FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+Finland vs San Marino - VIX Español FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9j3iljnh38/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd
+Finland vs San Marino - DAZN DE FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yytlwsi9hl/out/v1/6f629b2ff3fc4a33a473b4ea44938e50/cenc.mpd
 Finland vs San Marino - SporTV BR FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+Eibar vs Cádiz - LaLiga Hypermotion	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 Spain vs England - TVE La 1 FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
 Spain vs England - SPORT 1 CZ FHD	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-NFL Network	https://chatgpt.hereisman.net/playlist/54923/load-playlist?&extension=.m3u8
-Detroit Lions vs New England Patriots	https://chatgpt.hereisman.net/playlist/60145/load-playlist?&extension=.m3u8
-Maastricht vs Vitesse - HOP S1	http://193.47.62.44/hls/G666AAAAAAA.m3u8
-Ajax Legends vs FC Barcelona Legends - HOP S1	http://193.47.62.44/hls/F111.m3u8
-Tenerife vs Ceuta - HOP S1	http://193.47.62.44/hls/HMMMAAAAAQ.m3u8
+France vs Türkiye - FOX SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+NFL Redzone	https://chatgpt.hereisman.net/playlist/60154/load-playlist?&extension=.m3u8
+Philadelphia 76ers vs Indiana Pacers	https://chatgpt.hereisman.net/playlist/60191/load-playlist?&extension=.m3u8
+Green Bay Packers vs Minnesota Vikings	https://chatgpt.hereisman.net/playlist/60156/load-playlist?&extension=.m3u8
+Tennessee Titans vs Jacksonville Jaguars	https://chatgpt.hereisman.net/playlist/60157/load-playlist?&extension=.m3u8
+New York Jets vs Buffalo Bills	https://chatgpt.hereisman.net/playlist/60167/load-playlist?&extension=.m3u8
+New Orleans Saints vs Carolina Panthers	https://chatgpt.hereisman.net/playlist/60161/load-playlist?&extension=.m3u8
+Indianapolis Colts vs Miami Dolphins	https://chatgpt.hereisman.net/playlist/60160/load-playlist?&extension=.m3u8
+Cleveland Browns vs Houston Texans	https://chatgpt.hereisman.net/playlist/60165/load-playlist?&extension=.m3u8
+Atlanta Falcons vs Kansas City Chiefs	https://chatgpt.hereisman.net/playlist/60164/load-playlist?&extension=.m3u8
+Iowa State vs Niagara	https://chatgpt.hereisman.net/playlist/60180/load-playlist?&extension=.m3u8
+Memphis vs Louisville	https://chatgpt.hereisman.net/playlist/60178/load-playlist?&extension=.m3u8
+Nebraska vs Boise State	https://chatgpt.hereisman.net/playlist/60177/load-playlist?&extension=.m3u8
+Canada vs Sweden	https://chatgpt.hereisman.net/playlist/60187/load-playlist?&extension=.m3u8
+Iowa Hawkeyes vs Vanderbilt Commodores	https://chatgpt.hereisman.net/playlist/60175/load-playlist?&extension=.m3u8
+Maryland Terrapins vs Columbia Lions	https://chatgpt.hereisman.net/playlist/60186/load-playlist?&extension=.m3u8
+Ohio State Buckeyes vs Fairleigh Dickinson Knights	https://chatgpt.hereisman.net/playlist/60189/load-playlist?&extension=.m3u8
+South Carolina Gamecocks vs USC Trojans	https://chatgpt.hereisman.net/playlist/60174/load-playlist?&extension=.m3u8
+Oklahoma vs Ole Miss	https://chatgpt.hereisman.net/playlist/60179/load-playlist?&extension=.m3u8
+NFL Red Zone - HOP S1	http://193.47.62.44/hls/VIIIIAAA.m3u8
+NFL Red Zone - HOP S2	http://193.47.62.59/hls/VIIIIAAA.m3u8
+Tennessee Titans vs Jacksonville Jaguars - HOP S1	http://193.47.62.50/hls/U777AA.m3u8
+Tennessee Titans vs Jacksonville Jaguars - HOP S2	http://193.47.62.55/hls/U777AA.m3u8
+Green Bay Packers vs Minnesota Vikings - HOP S1	http://193.47.62.50/hls/U777AAA.m3u8
+Green Bay Packers vs Minnesota Vikings - HOP S2	http://193.47.62.55/hls/U777AAA.m3u8
+New York Jets vs Buffalo Bills - HOP S1	http://193.47.62.44/hls/VIIIIAA.m3u8
+New York Jets vs Buffalo Bills - HOP S2	http://193.47.62.59/hls/VIIIIAA.m3u8
+New Orleans Saints vs Carolina Panthers - HOP S1	http://193.47.62.50/hls/U777A.m3u8
+New Orleans Saints vs Carolina Panthers - HOP S2	http://193.47.62.55/hls/U777A.m3u8
+Indianapolis Colts vs Miami Dolphins - HOP S1	http://193.47.62.44/hls/VIIIIA.m3u8
+Indianapolis Colts vs Miami Dolphins - HOP S2	http://193.47.62.59/hls/VIIIIA.m3u8
+Cleveland Browns vs Houston Texans - HOP S1	http://193.47.62.50/hls/U777.m3u8
+Cleveland Browns vs Houston Texans - HOP S2	http://193.47.62.55/hls/U777.m3u8
+Atlanta Falcons vs Kansas City Chiefs - HOP S1	http://193.47.62.44/hls/VIIII.m3u8
+Atlanta Falcons vs Kansas City Chiefs - HOP S2	http://193.47.62.59/hls/VIIII.m3u8
+Philadelphia 76ers vs Indiana Pacers - HOP S1	http://193.47.62.41/hls/J444AAAA.m3u8
+Oklahoma vs Ole Miss - HOP S1	http://193.47.62.41/hls/EHHHH.m3u8
+Belarus vs Albania - HOP S1	http://193.47.62.41/hls/K777AAAAAQQQ.m3u8
+Belarus vs Albania - HOP S2	https://www.rtmpcdn.com/live/f9df0015-1e2b-44c2-b80d-20f372802281.m3u8
+Finland vs San Marino - HOP S1	http://193.47.62.41/hls/K777AAAAAQQQQ.m3u8
+Finland vs San Marino - HOP S2	https://www.rtmpcdn.com/live/fa20cc01-ec22-4ad1-955e-e73325a1e0d0.m3u8
+Comerciantes Unidos vs Sport Boys - HOP S1	http://193.47.62.41/hls/J444AAA.m3u8
+Golf PGA Austin Championship - HOP S1	http://193.47.62.50/hls/VYYYAAAAq.m3u8
+Eldense vs Sabadell - HOP S1	http://193.47.62.41/hls/J444AA.m3u8
+Eibar vs Cadiz CF - HOP S1	http://193.47.62.41/hls/J444A.m3u8
+Valencia W vs Granada CF W - HOP S1	http://193.47.62.41/hls/J444.m3u8
+Deportivo la Coruna W vs Barcelona W - HOP S1	http://193.47.62.41/hls/K777AAAAAQQ.m3u8
+Ravenna vs Forli - HOP S1	http://193.47.62.41/hls/B222a.m3u8
+Arsenal W vs London City Lionesses W - HOP S1	http://193.47.62.41/hls/K777AAAAAQ.m3u8
 Darts Grand Slam - HOP S1	http://193.47.62.59/hls/BEEEAAA.m3u8
-Snooker Champion of Champions - HOP S1	http://193.47.62.59/hls/WJJJJJ.m3u8
-AIK vs Oskarshamn - HOP S1	http://193.47.62.44/hls/G666AAAAAA.m3u8
 Tennis ATP Finals - Turin - HOP S1	http://193.47.62.44/hls/G666AAAAA.m3u8
-Uppsala W vs Vaxjo DFF W - HOP S1	http://193.47.62.44/hls/G666AAAA.m3u8
-Norrkoping W vs AIK W - HOP S1	http://193.47.62.44/hls/G666AAA.m3u8
-Malmo FF W vs Vittsjo W - HOP S1	http://193.47.62.44/hls/G666AA.m3u8
-IF Brommapojkarna W vs Rosengard W - HOP S1	http://193.47.62.44/hls/G666A.m3u8
-Hammarby W vs Kristianstad W - HOP S1	http://193.47.62.44/hls/G666.m3u8
-Hacken W vs Pitea W - HOP S1	http://193.47.62.44/hls/HMMMAAAAAQAA.m3u8
-Eskilstuna Utd W vs Djurgarden W - HOP S1	http://193.47.62.44/hls/HMMMAAAAAQA.m3u8
-United FC vs Al Sharjah - HOP S1	http://193.47.62.44/hls/HMMMAAAAA.m3u8
-Al Wahda vs Khorfakkan - HOP S1	http://193.47.62.44/hls/HMMMAAAA.m3u8
-Celtic W vs Rangers W - HOP S1	http://193.47.62.44/hls/HMMMAAA.m3u8
-Horse Racing - HOP S1	http://193.47.62.55/hls/vavavava.m3u8
-Horse Racing - HOP S2	http://193.47.62.55/hls/vavavavaq.m3u8
-ADO Den Haag W vs De Graafschap W - HOP S1	http://193.47.62.44/hls/G666AAAAAAA.m3u8
-Panathinaikos vs Kolossos Rhodes - HOP S1	http://193.47.62.41/hls/HMMMAA.m3u8
-Real Sociedad W vs Athletic Bilbao W - HOP S1	http://193.47.62.41/hls/HMMMA.m3u8
-Madrid CFF W vs Logrono W - HOP S1	http://193.47.62.41/hls/HMMM.m3u8
-Alpine Skiing World Cup - HOP S1	http://193.47.62.41/hls/H666.m3u8
-South Africa vs Bangladesh - HOP S1	http://193.47.62.41/hls/JYYY.m3u8
-Kashiwa Reysol vs Kawasaki Frontale - HOP S1	http://193.47.62.55/hls/rrrrDDD.m3u8
-Golf DP World Tour Championship - HOP S1	http://193.47.62.44/hls/VFFFAAA.m3u8
-Australia vs England - HOP S1	http://193.47.62.50/hls/F444A.m3u8
-DP World Tour Championship, Dubai - Day 4 - 15 Nov 2026 [ENG] - DP World Tour	https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794785538~acl=/*~id=85836806472227754342109359961932~hmac=2ba5bf6c3df65523f2fc56a57e6a3782bf0bad3ef596fa28773026b511fba267
+Snooker Champion of Champions - HOP S1	http://193.47.62.59/hls/WJJJJJ.m3u8
+Finland vs San Marino - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27	https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794807345~acl=/*~id=18649958922940792500712468148305~hmac=508df55943e66a17767c106b54c77f116d073ed25659e8a4133658de52530968
+Belarus vs Albania - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27	https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794807345~acl=/*~id=18649958922940792500712468148305~hmac=508df55943e66a17767c106b54c77f116d073ed25659e8a4133658de52530968
 GOLF EVENTO Vs GOLF EVENTO - SKY GOLF FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agdcjco1zo/out/v1/e7aec5bb76ba477b8c5a59213af465ad/cenc.mpd
 GOLF EVENTO Vs GOLF EVENTO - SKY GOLF ALT	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3eyutz3sbr/out/v1/369f8b2194004b5192c0c8e6a22822bf/cenc.mpd
 GOLF EVENTO Vs GOLF EVENTO - Golf Channel - HD	https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
@@ -75,58 +110,94 @@ TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS PLUS	https://amg01935-amg01935c1-amg
 TENNIS | EVENTO Vs TENNIS | EVENTO - BEIN3 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 TENNIS | EVENTO Vs TENNIS | EVENTO - TSN3 SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
 TENNIS | EVENTO Vs TENNIS | EVENTO - LOW QUALITY (USE VPN)	http://193.47.62.55/hls/RGGG.m3u8
-New Zealand Vs India - PRIME VIDEO (ENG)	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd?
-New Zealand Vs India - PRIME VIDEO (HINDI)	https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd?
-New Zealand Vs India - TNT3UK SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-New Zealand Vs India - WILLOW - AdFree	https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8ds/out/v1/2888a4861ca042d1a01fc66e65c44981/cenc.mpd?
-New Zealand Vs India - WILLOW - FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd?
-Afghanistan Vs Zimbabwe - TNT1UK SPORTS FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yweffzpen/out/v1/197dbda9339c436c95282a80d109cbd6/cenc.mpd
-Afghanistan Vs Zimbabwe - WILLOW ALT	https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6yweffzpen/out/v1/197dbda9339c436c95282a80d109cbd6/cenc.mpd
-Afghanistan Vs Zimbabwe - FANCODE2 FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-Afghanistan Vs Zimbabwe - FANCODE1 FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-Afghanistan Vs Zimbabwe - LOW QUALITY (USE VPN)	http://193.47.62.44/hls/D222A.m3u8
+NFL REDZONE Vs NFL REDZONE - SERVER 1	https://chatgpt.hereisman.net/playlist/60152/load-playlist?&.m3u8
+NFL REDZONE Vs NFL REDZONE - SERVER HD 2	https://chatgpt.hereisman.net/playlist/60153/load-playlist?&.m3u8
+NFL REDZONE Vs NFL REDZONE - SERVER HD 3	https://chatgpt.hereisman.net/playlist/60154/load-playlist?&.m3u8
+NFL REDZONE Vs NFL REDZONE - HD QUALITY	https://chatgpt.hereisman.net/playlist/54923/load-playlist?&.m3u8
+NFL REDZONE Vs NFL REDZONE - LOW QUALITY (USE VPN)	http://193.47.62.44/hls/VIIIIAAA.m3u8
 ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE - PREMIERE2 SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE - WILLOW FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd
+ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE - WILLOW FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbxtruggg2/out/v1/b8172045e5c9414c8cb5e70a909585ac/cenc.mpd
 ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE - WILLOW ALT	https://live.msnetworks.net/a-sports/master.m3u8
+Detroit Lions Vs New England Patriots - NFL GAMEPASS FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pwrdfli7tm/out/v1/e34552c7d03d4389b2c501b17bb08bbb/cenc.mpd
+Detroit Lions Vs New England Patriots - NFL Multi Commentary	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yd6zs31t5x/out/v1/45b3a622367b4e3a901350eb9bf0ef70/cenc.mpd
+Detroit Lions Vs New England Patriots - TSN3 SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+Detroit Lions Vs New England Patriots - SKY TOP EVENT FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd
+Detroit Lions Vs New England Patriots - FOX DEPORTES FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+Detroit Lions Vs New England Patriots - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60146/load-playlist?&.m3u8
+Detroit Lions Vs New England Patriots - NFL SERVER 2	https://chatgpt.hereisman.net/playlist/60144/load-playlist?&.m3u8
+Detroit Lions Vs New England Patriots - NFL SERVER 3	https://chatgpt.hereisman.net/playlist/60145/load-playlist?&.m3u8
+Detroit Lions Vs New England Patriots - LOW QUALITY (USE VPN)	http://193.47.62.50/hls/K555AAAAA.m3u8
 WBBL Vs WBBL - WILLOW FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wxvmelrkkb/out/v1/73f74a8b5e474e69acd8654c4d505fca/cenc.mpd?
 WBBL Vs WBBL - SKY CRICKET FHD	https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 WBBL Vs WBBL - WILLOW HD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 WBBL Vs WBBL - SD QUALITY	http://193.47.62.41/hls/ZZZZAA.m3u8
-Australia Vs England - WILLOW FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cs4bb976aa/out/v1/18bfdac2326c4055b5be76a41172ff9c/cenc.mpd
-Australia Vs England - SKY CRICKET FHD	https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-Australia Vs England - WILLOW HD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-Australia Vs England - FANCODE FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-Australia Vs England - EUROSPORT FHD	https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-Australia Vs England - WILLOW ALT	https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-Australia Vs England - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/vvvve.m3u8
-Ciryl Gane Vs Josh Hokit - TNT2UK SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-Ciryl Gane Vs Josh Hokit - PARAMOUNT+ FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfyaoutkx5/out/v1/bc189987de5240c081c6ac3dc81bcdb3/cenc.mpd
-Ciryl Gane Vs Josh Hokit - UFC LIVE FHD	https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8
-Ciryl Gane Vs Josh Hokit - HD QUALITY UFC	https://temp.formaturamaxi.com.br/simplyabby.m3u8
-Ciryl Gane Vs Josh Hokit - HD QUALITY 1	https://chatgpt.hereisman.net/playlist/60082/load-playlist?&.m3u8
-Ciryl Gane Vs Josh Hokit - HD QUALITY 2	https://chatgpt.hereisman.net/playlist/60083/load-playlist?&.m3u8
-Ciryl Gane Vs Josh Hokit - HD QUALITY 3	https://chatgpt.hereisman.net/playlist/60084/load-playlist?&.m3u8
-Ciryl Gane Vs Josh Hokit - LOW QUALITY (USE VPN)	http://193.47.62.55/hls/cuuu.m3u8
-Ciryl Gane Vs Josh Hokit - SportsNet FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
-Ciryl Gane Vs Josh Hokit - UFC TV FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd
-Madrid CFF Vs Logroño United - STREAM TV + HD	http://193.47.62.41/hls/HMMM.m3u8
-Madrid CFF Vs Logroño United - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/HMMM.m3u8
-Sassuolo Vs Ternana - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
-Australia Vs New Zealand - PREMIER1 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+Eibar Vs Cádiz - LaLiga Hypermotion	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+Eibar Vs Cádiz - LaLiga Hypermotion2	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
+Eibar Vs Cádiz - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/J444A.m3u8
+Granada Vs UD Las Palmas - LaLiga Hypermotion	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+CD Eldense Vs CE Sabadell - LaLiga Hypermotion	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+CD Eldense Vs CE Sabadell - LaLiga Hypermotion2	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
+CD Eldense Vs CE Sabadell - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/J444AA.m3u8
+Arsenal Vs London City Lionesses - PARAMOUNT+ FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wb76qkwpd2/out/v1/d8723a43626742d98957c868dafd1f3a/cenc.mpd
+Arsenal Vs London City Lionesses - SKY SPORTS EPL - FHD	https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
+Arsenal Vs London City Lionesses - SKY SPORTS EPL FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd
+Arsenal Vs London City Lionesses - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/K777AAAAAQ.m3u8
+Suriname Vs Eswatini - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Belarus Vs Albania - DAZN SPORTS FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4y2n0b3mzr/out/v1/6eabe77b79a2452ba5beea2e07ec6d04/cenc.mpd
+Belarus Vs Albania - VIX Español FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iqxzwrzets/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd
+Belarus Vs Albania - PRIME VIDEO FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmwuhp1hws/out/v1/c715377d57874eb498c1cb2275af2fff/cenc.mpd
+Belarus Vs Albania - BEIN3 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+Belarus Vs Albania - DAZN DE FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cvusmtfnts/out/v1/d34e2f7debf04808b460c6e853780a2d/cenc.mpd
+Belarus Vs Albania - SPORT1 CZ FHD	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+Belarus Vs Albania - FOX SOCCER + HD	https://chatgpt.hereisman.net/playlist/60171/load-playlist-multi?&.m3u8
+Belarus Vs Albania - HD QUALITY	https://www.rtmpcdn.com/live/f9df0015-1e2b-44c2-b80d-20f372802281.m3u8
+Belarus Vs Albania - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/K777AAAAAQQQ.m3u8
+Belarus Vs Albania - SonyLiv (Asia)	https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive1511/ENG/std_lrh-800300010.m3u8
+Finland Vs San Marino - DAZN SPORTS FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/02cdnhlbid/out/v1/94aadb4bd7a640a8aa86570b05c65fc5/cenc.mpd
+Finland Vs San Marino - VIX Español FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9j3iljnh38/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd
+Finland Vs San Marino - PRIME VIDEO FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9xfmoxo78e/out/v1/c09ad451a5574e88985a5cada5beeaa7/cenc.mpd
+Finland Vs San Marino - BeIN2 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+Finland Vs San Marino - DAZN DE FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yytlwsi9hl/out/v1/6f629b2ff3fc4a33a473b4ea44938e50/cenc.mpd
+Finland Vs San Marino - SporTV BR FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+Finland Vs San Marino - SPORT2 TV CZ FHD	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+Finland Vs San Marino - DAZN SPORTS HD	https://chatgpt.hereisman.net/playlist/60170/load-playlist-multi?&.m3u8
+Finland Vs San Marino - HD QUALITY	https://www.rtmpcdn.com/live/fa20cc01-ec22-4ad1-955e-e73325a1e0d0.m3u8
+Finland Vs San Marino - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/K777AAAAAQQQQ.m3u8
+Real Club Deportivo de A Coruña Vs Fútbol Club Barcelona - STREAM TV + HD	http://193.47.62.41/hls/K777AAAAAQQ.m3u8
+Real Club Deportivo de A Coruña Vs Fútbol Club Barcelona - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/K777AAAAAQQ.m3u8
+Valencia Vs Granada Club de Fútbol - STREAM TV + HD	http://193.47.62.41/hls/J444.m3u8
+Valencia Vs Granada Club de Fútbol - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/J444.m3u8
+Scotland Vs Australia - STREAM TV + HD	http://193.47.62.55/hls/K777.m3u8
+Scotland Vs Australia - LOW QUALITY (USE VPN)	http://193.47.62.55/hls/K777.m3u8
 South Africa Vs Bangladesh - WILLOW FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
 South Africa Vs Bangladesh - SKY SPORTS CRICKET	https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 South Africa Vs Bangladesh - WILLOW ALT	https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
-Real Sociedad Vs Athletic Club - STREAM TV + HD	http://193.47.62.41/hls/HMMMA.m3u8
-Real Sociedad Vs Athletic Club - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/HMMMA.m3u8
-Macau Vs Hong Kong - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
-Kyrgyzstan Vs Vietnam - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
-Australia vs. England	https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd
-Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd
-Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
-Abu Dhabi T10 League 2026 - 19th Match - Royal Desert Champions vs Arabian Aces	https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd
+USA Vs Finland - TSN SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+USA Vs Finland - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60150/load-playlist?&.m3u8
+Atlanta Falcons Vs Kansas City Chiefs - TSN2 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+Atlanta Falcons Vs Kansas City Chiefs - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Indianapolis Colts Vs Miami Dolphins - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60185/load-playlist?&.m3u8
+Indianapolis Colts Vs Miami Dolphins - NFL SERVER HD+ 1	https://chatgpt.hereisman.net/playlist/60160/load-playlist?&.m3u8
+Green Bay Packers Vs Minnesota Vikings - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60183/load-playlist?&.m3u8
+Green Bay Packers Vs Minnesota Vikings - NFL SERVER HD+	https://chatgpt.hereisman.net/playlist/60156/load-playlist?&.m3u8
+Green Bay Packers Vs Minnesota Vikings - NFL SERVER HD+ 2	https://chatgpt.hereisman.net/playlist/60155/load-playlist?&.m3u8
+Cleveland Browns Vs Houston Texans - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60173/load-playlist?&.m3u8
+Cleveland Browns Vs Houston Texans - NFL SERVER HD+ 2	https://chatgpt.hereisman.net/playlist/60165/load-playlist?&.m3u8
+Cleveland Browns Vs Houston Texans - NFL SERVER HD+ 3	https://chatgpt.hereisman.net/playlist/60166/load-playlist?&.m3u8
+Tennessee Titans Vs Jacksonville Jaguars - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+New York Jets Vs Buffalo Bills - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+New Orleans Saints Vs Carolina Panthers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60181/load-playlist?&.m3u8
+New Orleans Saints Vs Carolina Panthers - NFL SERVER HD+	https://chatgpt.hereisman.net/playlist/60161/load-playlist?&.m3u8
+New Orleans Saints Vs Carolina Panthers - NFL SERVER HD+ 2	https://chatgpt.hereisman.net/playlist/60162/load-playlist?&.m3u8
+Comerciantes Unidos Vs Sport Boys - STREAM TV + HD	http://193.47.62.41/hls/J444AAA.m3u8
+Philadelphia 76ers Vs Indiana Pacers - NOVA1 SPORTS FHD	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+Philadelphia 76ers Vs Indiana Pacers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60176/load-playlist?&.m3u8
+Canada Vs Sweden - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
+Abu Dhabi T10 League 2026 - 21st Match - United Tigers vs Yas Lions	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r1ic5dmtdq/out/v1/0f83fcd8375647beb2cb53661e99f35f/cenc.mpd
 FANCODE - AQ	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 FANCODE - AQ (Server 2)	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-[LIVE] DP World Tour Championship, Dubai - Day 4 - 15 Nov 2026 [ENG] - LIV [ENG]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2120300%2FGolf_DPW1511%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1794785538~acl%3D%2F*~id%3D85836806472227754342109359961932~hmac%3D2ba5bf6c3df65523f2fc56a57e6a3782bf0bad3ef596fa28773026b511fba267
+[LIVE] Finland vs San Marino - 15 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2120305%2FFootlive1511%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1794808557~acl%3D%2F*~id%3D90414017281078207541282575418555~hmac%3D63270fe06dccc9003ef47af96f80a884b77f637dfdbe05c443d235df29e38c41
+[LIVE] Belarus vs Albania - 15 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2120304%2FFootlive1511%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1794808557~acl%3D%2F*~id%3D90414017281078207541282575418555~hmac%3D63270fe06dccc9003ef47af96f80a884b77f637dfdbe05c443d235df29e38c41
 [UPCOMING] Upcoming - Matchday 6 - UEFA Nations League 2026-27 - Sony Sports Ten 5 [ENG]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - DP World Asia Cup Rising Stars Men's 2026 - Sony Sports Ten 5 [HIN]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - Spain vs England - UEFA Nations League 2026-27 - Sony Sports Ten 5 [ENG]	https://events-1fe.pages.dev/player.html?url=
