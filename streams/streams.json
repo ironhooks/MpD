@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "https://xo.livexoapp1.workers.dev/sports",
-    "generated_at": "2026-11-17T02:46:49Z",
-    "count": 187,
+    "generated_at": "2026-11-17T11:18:51Z",
+    "count": 155,
     "categories": [
       "SonyLiv Live Event",
       "SonyLiv Event Backup",
@@ -82,104 +82,6 @@
       "reminder": null,
       "routing": "direct",
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2F41t7w8j52r%2Fout%2Fv1%2Fa5fb1a9386c14175b31cb635677d2966%2Fcenc.mpd&name=SONY%20Sports%20TEN%205%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Monday Night RAW Vs Monday Night RAW - HD QUALITY",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58315%2Fload-playlist%3F%26.m3u8&name=Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW%20-%20HD%20QUALITY&from=sports&mode=web"
-    },
-    {
-      "name": "Monday Night RAW Vs Monday Night RAW - WWE RAW+ HD",
-      "group": "SP",
-      "url": "https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fnavidrome.fromthyheart.site%2Fdailymotion%2Flive%2Fplaylist%2F1.m3u8&name=Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW%20-%20WWE%20RAW%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Monday Night RAW Vs Monday Night RAW - WWE RAW+ HD 2",
-      "group": "SP",
-      "url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fubuntu.fromthyheart.site%2Fdailymotion%2Flive%2Fplaylist%2F1.m3u8&name=Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW%20-%20WWE%20RAW%2B%20HD%202&from=sports&mode=web"
-    },
-    {
-      "name": "Monday Night RAW Vs Monday Night RAW - WWE HD",
-      "group": "SP",
-      "url": "https://admin2.formaturamaxi.com.br/wwe.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fadmin2.formaturamaxi.com.br%2Fwwe.m3u8&name=Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW%20-%20WWE%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Monday Night RAW Vs Monday Night RAW - WWE RAW ATL",
-      "group": "SP",
-      "url": "https://admin2.formaturamaxi.com.br/wwealt.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fadmin2.formaturamaxi.com.br%2Fwwealt.m3u8&name=Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW%20-%20WWE%20RAW%20ATL&from=sports&mode=web"
-    },
-    {
-      "name": "Monday Night RAW Vs Monday Night RAW - WWE HD",
-      "group": "SP",
-      "url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?",
-      "headers": {
-        "Referer": "https://embedcenter.st/"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fzeuryuegn48.m3u8%3F&name=Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW%20-%20WWE%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Monday Night RAW Vs Monday Night RAW - LOW QUALITY (USE VPN)",
-      "group": "SP",
-      "url": "http://193.47.62.41/hls/CUUUAAAK.m3u8",
-      "headers": {
-        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FCUUUAAAK.m3u8&name=Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
     },
     {
       "name": "GOLF EVENTO Vs GOLF EVENTO - SKY GOLF FHD",
@@ -433,818 +335,506 @@
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Flsibpqruq1%2Fout%2Fv1%2F748887d614a84913ba8bcdf3c82823e6%2Fcenc.mpd&name=TENNIS%20%7C%20EVENTO%20Vs%20TENNIS%20%7C%20EVENTO%20-%20TSN3%20SPORTS%20FHD&from=sports&mode=web"
     },
     {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - TSN3 SPORTS FHD",
+      "name": "Afghanistan Vs Zimbabwe - TNT1UK SPORTS FHD",
       "group": "SP",
-      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+      "headers": {},
+      "key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fqsiyy3pj1z%2Fout%2Fv1%2F18e7e922d8f44a768c404c3304bbf8ee%2Fcenc.mpd&name=Afghanistan%20Vs%20Zimbabwe%20-%20TNT1UK%20SPORTS%20FHD&from=sports&mode=web"
+    },
+    {
+      "name": "Afghanistan Vs Zimbabwe - WILLOW ALT",
+      "group": "SP",
+      "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+      "headers": {},
+      "key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fabfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fqsiyy3pj1z%2Fout%2Fv1%2F18e7e922d8f44a768c404c3304bbf8ee%2Fcenc.mpd&name=Afghanistan%20Vs%20Zimbabwe%20-%20WILLOW%20ALT&from=sports&mode=web"
+    },
+    {
+      "name": "Afghanistan Vs Zimbabwe - ATN SPORTS FHD",
+      "group": "SP",
+      "url": "https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8",
       "headers": {
+        "Referer": "https://liveland.af/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
       },
-      "key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
+      "key": null,
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Flsibpqruq1%2Fout%2Fv1%2F748887d614a84913ba8bcdf3c82823e6%2Fcenc.mpd&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20TSN3%20SPORTS%20FHD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fstream1.liveland.af%2Fhls%2Ftv%2Fariana%2Fplaylist.m3u8&name=Afghanistan%20Vs%20Zimbabwe%20-%20ATN%20SPORTS%20FHD&from=sports&mode=web"
     },
     {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - TSN1 SPORTS FHD",
+      "name": "Afghanistan Vs Zimbabwe - FANCODE2 FHD",
       "group": "SP",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+      "headers": {},
+      "key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Favqlywnuzx%2Fout%2Fv1%2Faefca6420f944a9482e117f315de535f%2Fcenc.mpd&name=Afghanistan%20Vs%20Zimbabwe%20-%20FANCODE2%20FHD&from=sports&mode=web"
+    },
+    {
+      "name": "Afghanistan Vs Zimbabwe - FANCODE1 FHD",
+      "group": "SP",
+      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
       },
-      "key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
+      "key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fb3b3fkmrbl%2Fout%2Fv1%2F1084d5c9a97a4c5b9f9554c88f486646%2Fcenc.mpd&name=Afghanistan%20Vs%20Zimbabwe%20-%20FANCODE1%20FHD&from=sports&mode=web"
+    },
+    {
+      "name": "Afghanistan Vs Zimbabwe - LOW QUALITY (USE VPN)",
+      "group": "SP",
+      "url": "http://193.47.62.44/hls/RREGEGEA.m3u8",
+      "headers": {
+        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Vs%20Zimbabwe.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fw0rehjjrwe%2Fout%2Fv1%2F69a2a7041395406b970598f61680e7cf%2Fcenc.mpd&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20TSN1%20SPORTS%20FHD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FRREGEGEA.m3u8&name=Afghanistan%20Vs%20Zimbabwe%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
     },
     {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - NBC SPORTS FHD",
+      "name": "Pakistan Vs Sri Lanka - WILLOW FHD",
       "group": "SP",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
+      "headers": {},
+      "key": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fq81cdtuumj%2Fout%2Fv1%2F55851c07cf594e8d8e260f8cc0a7f89c%2Fcenc.mpd&name=Pakistan%20Vs%20Sri%20Lanka%20-%20WILLOW%20FHD&from=sports&mode=web"
+    },
+    {
+      "name": "Pakistan Vs Sri Lanka - WILLOW ALT",
+      "group": "SP",
+      "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
+      "headers": {},
+      "key": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fabfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fq81cdtuumj%2Fout%2Fv1%2F55851c07cf594e8d8e260f8cc0a7f89c%2Fcenc.mpd&name=Pakistan%20Vs%20Sri%20Lanka%20-%20WILLOW%20ALT&from=sports&mode=web"
+    },
+    {
+      "name": "Pakistan Vs Sri Lanka - LOW QUALITY (USE VPN)",
+      "group": "SP",
+      "url": "http://193.47.62.41/hls/RREGEGE.m3u8",
       "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
       },
-      "key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
+      "key": null,
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fdx5hfbpk7u%2Fout%2Fv1%2Fc14185a397544650b9761d43ad2e8e91%2Fcenc.mpd&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20NBC%20SPORTS%20FHD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FRREGEGE.m3u8&name=Pakistan%20Vs%20Sri%20Lanka%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
     },
     {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - SKY TOP EVENT FHD",
+      "name": "WBBL Vs WBBL - WILLOW FHD",
       "group": "SP",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd",
+      "headers": {},
+      "key": "82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WBBL%20Vs%20WBBL.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fjyqp4rh7ty%2Fout%2Fv1%2Fa61e5db610214d8ab29de73c6750d65d%2Fcenc.mpd&name=WBBL%20Vs%20WBBL%20-%20WILLOW%20FHD&from=sports&mode=web"
+    },
+    {
+      "name": "WBBL Vs WBBL - SKY CRICKET FHD",
+      "group": "SP",
+      "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
       "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla"
       },
-      "key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
+      "key": null,
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WBBL%20Vs%20WBBL.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fgjsukewpxp%2Fout%2Fv1%2Fef14aacf858248839b9867eec5caf563%2Fcenc.mpd&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20SKY%20TOP%20EVENT%20FHD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fbl.rutube.ru%2Flivestream%2F7c13a51576b9ff2601f08f5d57dd5169%2Findex.m3u8%3Fs%3DuiXES2ePt7xTpQnbJxn7Dg%26e%3D2074684474%26scheme%3Dhttps&name=WBBL%20Vs%20WBBL%20-%20SKY%20CRICKET%20FHD&from=sports&mode=web"
     },
     {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - SporTV BR FHD",
+      "name": "WBBL Vs WBBL - WILLOW ALT",
+      "group": "SP",
+      "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd",
+      "headers": {},
+      "key": "82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WBBL%20Vs%20WBBL.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fabfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fjyqp4rh7ty%2Fout%2Fv1%2Fa61e5db610214d8ab29de73c6750d65d%2Fcenc.mpd&name=WBBL%20Vs%20WBBL%20-%20WILLOW%20ALT&from=sports&mode=web"
+    },
+    {
+      "name": "WBBL Vs WBBL - EUROSPORT FHD",
+      "group": "SP",
+      "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+      "headers": {},
+      "key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WBBL%20Vs%20WBBL.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwbd.skandha.tv%2FEuroSport_HD%2FEuroSport_HD.isml%2F.mpd&name=WBBL%20Vs%20WBBL%20-%20EUROSPORT%20FHD&from=sports&mode=web"
+    },
+    {
+      "name": "WBBL Vs WBBL - WILLOW HD",
+      "group": "SP",
+      "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd",
+      "headers": {},
+      "key": "93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WBBL%20Vs%20WBBL.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fabfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fybyaz2dp7v%2Fout%2Fv1%2Fe662810efd6a41689af68291d4c318c4%2Fcenc.mpd&name=WBBL%20Vs%20WBBL%20-%20WILLOW%20HD&from=sports&mode=web"
+    },
+    {
+      "name": "WBBL Vs WBBL - SD QUALITY",
+      "group": "SP",
+      "url": "http://193.47.62.41/hls/ZZZZAA.m3u8",
+      "headers": {
+        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/WBBL%20Vs%20WBBL.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FZZZZAA.m3u8&name=WBBL%20Vs%20WBBL%20-%20SD%20QUALITY&from=sports&mode=web"
+    },
+    {
+      "name": "South Africa Vs Bangladesh - WILLOW FHD",
+      "group": "SP",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd",
+      "headers": {},
+      "key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Ffq9jzduffm%2Fout%2Fv1%2F999c61c2f5114b66b1c408dd3e97f5f3%2Fcenc.mpd&name=South%20Africa%20Vs%20Bangladesh%20-%20WILLOW%20FHD&from=sports&mode=web"
+    },
+    {
+      "name": "South Africa Vs Bangladesh - SKY SPORTS CRICKET",
+      "group": "SP",
+      "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+      "headers": {
+        "User-Agent": "Mozilla"
+      },
+      "key": null,
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fbl.rutube.ru%2Flivestream%2F7c13a51576b9ff2601f08f5d57dd5169%2Findex.m3u8%3Fs%3DuiXES2ePt7xTpQnbJxn7Dg%26e%3D2074684474%26scheme%3Dhttps&name=South%20Africa%20Vs%20Bangladesh%20-%20SKY%20SPORTS%20CRICKET&from=sports&mode=web"
+    },
+    {
+      "name": "South Africa Vs Bangladesh - FANCODE FHD",
+      "group": "SP",
+      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+      },
+      "key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Favqlywnuzx%2Fout%2Fv1%2Faefca6420f944a9482e117f315de535f%2Fcenc.mpd&name=South%20Africa%20Vs%20Bangladesh%20-%20FANCODE%20FHD&from=sports&mode=web"
+    },
+    {
+      "name": "South Africa Vs Bangladesh - WILLOW ALT",
+      "group": "SP",
+      "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd",
+      "headers": {},
+      "key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fabfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Ffq9jzduffm%2Fout%2Fv1%2F999c61c2f5114b66b1c408dd3e97f5f3%2Fcenc.mpd&name=South%20Africa%20Vs%20Bangladesh%20-%20WILLOW%20ALT&from=sports&mode=web"
+    },
+    {
+      "name": "South Africa Vs Bangladesh - LOW QUALITY (USE VPN)",
+      "group": "SP",
+      "url": "http://193.47.62.59/hls/RREGEGEAA.m3u8",
+      "headers": {
+        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FRREGEGEAA.m3u8&name=South%20Africa%20Vs%20Bangladesh%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
+    },
+    {
+      "name": "Singapore Vs Brazil - SporTV BR FHD",
       "group": "SP",
       "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
       },
       "key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Singapore%20Vs%20Brazil.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fw8kwdfmlgs%2Fout%2Fv1%2F3aa321e477504937a439b602e078eb18%2Fcenc.mpd&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20SporTV%20BR%20FHD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fw8kwdfmlgs%2Fout%2Fv1%2F3aa321e477504937a439b602e078eb18%2Fcenc.mpd&name=Singapore%20Vs%20Brazil%20-%20SporTV%20BR%20FHD&from=sports&mode=web"
     },
     {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - HD QUALITY 1",
+      "name": "Singapore Vs Brazil - SporTV BR ALT",
       "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60266/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60266%2Fload-playlist%3F%26.m3u8&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20HD%20QUALITY%201&from=sports&mode=web"
-    },
-    {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - HD QUALITY 2",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60267/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60267%2Fload-playlist%3F%26.m3u8&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20HD%20QUALITY%202&from=sports&mode=web"
-    },
-    {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - HD QUALITY 3",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60268/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60268%2Fload-playlist%3F%26.m3u8&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20HD%20QUALITY%203&from=sports&mode=web"
-    },
-    {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - HD QUALITY 4",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60269/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60269%2Fload-playlist%3F%26.m3u8&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20HD%20QUALITY%204&from=sports&mode=web"
-    },
-    {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - MINICAST TV",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60271/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60271%2Fload-playlist%3F%26.m3u8&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20MINICAST%20TV&from=sports&mode=web"
-    },
-    {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - LOW QUALITY (USE VPN)",
-      "group": "SP",
-      "url": "http://193.47.62.50/hls/R222.m3u8",
-      "headers": {
-        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.50%2Fhls%2FR222.m3u8&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
-    },
-    {
-      "name": "Baltimore Ravens Vs Los Angeles Chargers - QUALITY (USE VPN)",
-      "group": "SP",
-      "url": "http://193.47.62.50/hls/R222X.m3u8",
-      "headers": {
-        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.50%2Fhls%2FR222X.m3u8&name=Baltimore%20Ravens%20Vs%20Los%20Angeles%20Chargers%20-%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
-    },
-    {
-      "name": "Canada Vs Guatemala - TSN5 SPORTS FHD",
-      "group": "SP",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+      "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
       },
-      "key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Canada%20Vs%20Guatemala.jpg",
+      "key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Singapore%20Vs%20Brazil.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fcscevwljkq%2Fout%2Fv1%2F972185041b244140860b7d56398e9aaf%2Fcenc.mpd&name=Canada%20Vs%20Guatemala%20-%20TSN5%20SPORTS%20FHD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fabfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fw8kwdfmlgs%2Fout%2Fv1%2F3aa321e477504937a439b602e078eb18%2Fcenc.mpd&name=Singapore%20Vs%20Brazil%20-%20SporTV%20BR%20ALT&from=sports&mode=web"
     },
     {
-      "name": "Canada Vs Guatemala - FOX1 SPORTS FHD",
+      "name": "Singapore Vs Brazil - HD QUALITY",
       "group": "SP",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-      "headers": {},
-      "key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Canada%20Vs%20Guatemala.jpg",
+      "url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8?",
+      "headers": {
+        "Referer": "https://xlz.domainkqt.cc/"
+      },
+      "key": null,
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Singapore%20Vs%20Brazil.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Ffsu3wl2rwb%2Fout%2Fv1%2Fbe61206c04e643349d53fb22301f3b50%2Fcenc.mpd&name=Canada%20Vs%20Guatemala%20-%20FOX1%20SPORTS%20FHD&from=sports&mode=web"
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Flive2.jorvakstreamcache.com%2Flive%2Fchannel15.m3u8%3F&name=Singapore%20Vs%20Brazil%20-%20HD%20QUALITY&from=sports&mode=web"
     },
     {
-      "name": "Canada Vs Guatemala - HD QUALITY",
+      "name": "Singapore Vs Brazil - HD QUALITY 2",
       "group": "SP",
-      "url": "https://www.rtmpcdn.com/live/c3d9e0d5-dd8b-4152-8e01-3685fa454274.m3u8",
+      "url": "https://www.rtmpcdn.com/live/0972098c-089b-42aa-b107-66a0bdf00b02.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Singapore%20Vs%20Brazil.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F0972098c-089b-42aa-b107-66a0bdf00b02.m3u8&name=Singapore%20Vs%20Brazil%20-%20HD%20QUALITY%202&from=sports&mode=web"
+    },
+    {
+      "name": "Singapore Vs Brazil - LOW QUALITY (USE VPN)",
+      "group": "SP",
+      "url": "http://193.47.62.44/hls/RARARA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Singapore%20Vs%20Brazil.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FRARARA.m3u8&name=Singapore%20Vs%20Brazil%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
+    },
+    {
+      "name": "Oman Vs Brunei Darussalam - STREAM TV + HD",
+      "group": "SP",
+      "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
       "headers": {},
       "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Canada%20Vs%20Guatemala.jpg",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Oman%20Vs%20Brunei%20Darussalam.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fc3d9e0d5-dd8b-4152-8e01-3685fa454274.m3u8&name=Canada%20Vs%20Guatemala%20-%20HD%20QUALITY&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fpartneta.cdn.mgmlcdn.com%2Fomsport%2Fsmil%3Aomsport.stream.smil%2Fchunklist.m3u8&name=Oman%20Vs%20Brunei%20Darussalam%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
     },
     {
-      "name": "Canada Vs Guatemala - LOW QUALITY (USE VPN)",
+      "name": "Oman Vs Brunei Darussalam - LOW QUALITY (USE VPN)",
       "group": "SP",
-      "url": "http://193.47.62.41/hls/CUUUAAA.m3u8",
+      "url": "http://193.47.62.41/hls/QVVV.m3u8",
       "headers": {
         "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
         "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
       },
       "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Canada%20Vs%20Guatemala.jpg",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Oman%20Vs%20Brunei%20Darussalam.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FCUUUAAA.m3u8&name=Canada%20Vs%20Guatemala%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FQVVV.m3u8&name=Oman%20Vs%20Brunei%20Darussalam%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
     },
     {
-      "name": "Washington Wizards Vs Memphis Grizzlies - STREAM TV + HD",
+      "name": "NPL Vs NPL - FANCODE FHD",
       "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60280/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Wizards%20Vs%20Memphis%20Grizzlies.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60280%2Fload-playlist%3F%26.m3u8&name=Washington%20Wizards%20Vs%20Memphis%20Grizzlies%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Washington Wizards Vs Memphis Grizzlies - HD QUALITY 2",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60285/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Wizards%20Vs%20Memphis%20Grizzlies.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60285%2Fload-playlist%3F%26.m3u8&name=Washington%20Wizards%20Vs%20Memphis%20Grizzlies%20-%20HD%20QUALITY%202&from=sports&mode=web"
-    },
-    {
-      "name": "Washington Wizards Vs Memphis Grizzlies - HD QUALITY 3",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60284/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Wizards%20Vs%20Memphis%20Grizzlies.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60284%2Fload-playlist%3F%26.m3u8&name=Washington%20Wizards%20Vs%20Memphis%20Grizzlies%20-%20HD%20QUALITY%203&from=sports&mode=web"
-    },
-    {
-      "name": "Washington Wizards Vs Memphis Grizzlies - HD QUALITY+",
-      "group": "SP",
-      "url": "https://www.rtmpcdn.com/live/51735357-c195-4b4a-a97c-96191309b1c0.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Wizards%20Vs%20Memphis%20Grizzlies.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F51735357-c195-4b4a-a97c-96191309b1c0.m3u8&name=Washington%20Wizards%20Vs%20Memphis%20Grizzlies%20-%20HD%20QUALITY%2B&from=sports&mode=web"
-    },
-    {
-      "name": "Washington Wizards Vs Memphis Grizzlies - LOW QUALITY (USE VPN)",
-      "group": "SP",
-      "url": "http://193.47.62.44/hls/RGGGA.m3u8",
-      "headers": {
-        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Wizards%20Vs%20Memphis%20Grizzlies.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FRGGGA.m3u8&name=Washington%20Wizards%20Vs%20Memphis%20Grizzlies%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
-    },
-    {
-      "name": "New Orleans Pelicans Vs Golden State Warriors - STREAM TV + HD",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60295/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Pelicans%20Vs%20Golden%20State%20Warriors.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60295%2Fload-playlist%3F%26.m3u8&name=New%20Orleans%20Pelicans%20Vs%20Golden%20State%20Warriors%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "New Orleans Pelicans Vs Golden State Warriors - HD QUALITY",
-      "group": "SP",
-      "url": "https://www.rtmpcdn.com/live/611ce42b-5b42-4ab9-ae5c-aa1bf53e0b48.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Pelicans%20Vs%20Golden%20State%20Warriors.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F611ce42b-5b42-4ab9-ae5c-aa1bf53e0b48.m3u8&name=New%20Orleans%20Pelicans%20Vs%20Golden%20State%20Warriors%20-%20HD%20QUALITY&from=sports&mode=web"
-    },
-    {
-      "name": "New Orleans Pelicans Vs Golden State Warriors - LOW QUALITY (USE VPN)",
-      "group": "SP",
-      "url": "http://193.47.62.44/hls/RGGGAAA.m3u8",
-      "headers": {
-        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Pelicans%20Vs%20Golden%20State%20Warriors.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FRGGGAAA.m3u8&name=New%20Orleans%20Pelicans%20Vs%20Golden%20State%20Warriors%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
-    },
-    {
-      "name": "Cleveland Cavaliers Vs Chicago Bulls - STREAM TV + HD",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60275/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60275%2Fload-playlist%3F%26.m3u8&name=Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Cleveland Cavaliers Vs Chicago Bulls - HD QUALITY 2",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60286/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60286%2Fload-playlist%3F%26.m3u8&name=Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls%20-%20HD%20QUALITY%202&from=sports&mode=web"
-    },
-    {
-      "name": "Cleveland Cavaliers Vs Chicago Bulls - HD QUALITY+",
-      "group": "SP",
-      "url": "https://www.rtmpcdn.com/live/d21103a3-c32e-424d-b8ea-50436f519f40.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fd21103a3-c32e-424d-b8ea-50436f519f40.m3u8&name=Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls%20-%20HD%20QUALITY%2B&from=sports&mode=web"
-    },
-    {
-      "name": "Cleveland Cavaliers Vs Chicago Bulls - LOW QUALITY (USE VPN)",
-      "group": "SP",
-      "url": "http://193.47.62.59/hls/TKKK.m3u8",
-      "headers": {
-        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FTKKK.m3u8&name=Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
-    },
-    {
-      "name": "Brooklyn Nets Vs Philadelphia 76ers - STREAM TV + HD",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60292/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brooklyn%20Nets%20Vs%20Philadelphia%2076ers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60292%2Fload-playlist%3F%26.m3u8&name=Brooklyn%20Nets%20Vs%20Philadelphia%2076ers%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Brooklyn Nets Vs Philadelphia 76ers - HD QUALITY 2",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60290/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brooklyn%20Nets%20Vs%20Philadelphia%2076ers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60290%2Fload-playlist%3F%26.m3u8&name=Brooklyn%20Nets%20Vs%20Philadelphia%2076ers%20-%20HD%20QUALITY%202&from=sports&mode=web"
-    },
-    {
-      "name": "Brooklyn Nets Vs Philadelphia 76ers - HD QUALITY+",
-      "group": "SP",
-      "url": "https://www.rtmpcdn.com/live/bb12293e-bb54-45cd-adc0-f7fa92e26dd7.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brooklyn%20Nets%20Vs%20Philadelphia%2076ers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fbb12293e-bb54-45cd-adc0-f7fa92e26dd7.m3u8&name=Brooklyn%20Nets%20Vs%20Philadelphia%2076ers%20-%20HD%20QUALITY%2B&from=sports&mode=web"
-    },
-    {
-      "name": "Brooklyn Nets Vs Philadelphia 76ers - LOW QUALITY (USE VPN)",
-      "group": "SP",
-      "url": "http://193.47.62.59/hls/TKKKA.m3u8",
-      "headers": {
-        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brooklyn%20Nets%20Vs%20Philadelphia%2076ers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FTKKKA.m3u8&name=Brooklyn%20Nets%20Vs%20Philadelphia%2076ers%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
-    },
-    {
-      "name": "Miami Heat Vs Houston Rockets - STREAM TV + HD",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60289/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Heat%20Vs%20Houston%20Rockets.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60289%2Fload-playlist%3F%26.m3u8&name=Miami%20Heat%20Vs%20Houston%20Rockets%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Miami Heat Vs Houston Rockets - HD QUALITY 2",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60293/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Heat%20Vs%20Houston%20Rockets.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60293%2Fload-playlist%3F%26.m3u8&name=Miami%20Heat%20Vs%20Houston%20Rockets%20-%20HD%20QUALITY%202&from=sports&mode=web"
-    },
-    {
-      "name": "Miami Heat Vs Houston Rockets - HD QUALITY",
-      "group": "SP",
-      "url": "https://www.rtmpcdn.com/live/62c33bbd-9d9f-4d5d-8603-235b75e939ab.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Heat%20Vs%20Houston%20Rockets.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F62c33bbd-9d9f-4d5d-8603-235b75e939ab.m3u8&name=Miami%20Heat%20Vs%20Houston%20Rockets%20-%20HD%20QUALITY&from=sports&mode=web"
-    },
-    {
-      "name": "Miami Heat Vs Houston Rockets - LOW QUALITY (USE VPN)",
-      "group": "SP",
-      "url": "http://193.47.62.44/hls/RGGGAA.m3u8",
-      "headers": {
-        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Heat%20Vs%20Houston%20Rockets.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FRGGGAA.m3u8&name=Miami%20Heat%20Vs%20Houston%20Rockets%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
-    },
-    {
-      "name": "Denver Nuggets Vs Phoenix Suns - STREAM TV + HD",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60304/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Phoenix%20Suns.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60304%2Fload-playlist%3F%26.m3u8&name=Denver%20Nuggets%20Vs%20Phoenix%20Suns%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Denver Nuggets Vs Phoenix Suns - LOW QUALITY (USE VPN)",
-      "group": "SP",
-      "url": "http://193.47.62.59/hls/TKKKAAA.m3u8",
-      "headers": {
-        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Phoenix%20Suns.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FTKKKAAA.m3u8&name=Denver%20Nuggets%20Vs%20Phoenix%20Suns%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
-    },
-    {
-      "name": "Minnesota Timberwolves Vs Portland Trail Blazers - STREAM TV + HD",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60298/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Minnesota%20Timberwolves%20Vs%20Portland%20Trail%20Blazers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60298%2Fload-playlist%3F%26.m3u8&name=Minnesota%20Timberwolves%20Vs%20Portland%20Trail%20Blazers%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Minnesota Timberwolves Vs Portland Trail Blazers - HD QUALITY+",
-      "group": "SP",
-      "url": "https://www.rtmpcdn.com/live/2d37f281-bd97-4fe4-a2ea-a91560306bc8.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Minnesota%20Timberwolves%20Vs%20Portland%20Trail%20Blazers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F2d37f281-bd97-4fe4-a2ea-a91560306bc8.m3u8&name=Minnesota%20Timberwolves%20Vs%20Portland%20Trail%20Blazers%20-%20HD%20QUALITY%2B&from=sports&mode=web"
-    },
-    {
-      "name": "Minnesota Timberwolves Vs Portland Trail Blazers - LOW QUALITY (USE VPN)",
-      "group": "SP",
-      "url": "http://193.47.62.59/hls/TKKKAA.m3u8",
-      "headers": {
-        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Minnesota%20Timberwolves%20Vs%20Portland%20Trail%20Blazers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FTKKKAA.m3u8&name=Minnesota%20Timberwolves%20Vs%20Portland%20Trail%20Blazers%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
-    },
-    {
-      "name": "Boston Celtics Vs Orlando Magic - TSN4 SPORTS FHD",
-      "group": "SP",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
       },
-      "key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg",
+      "key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "reminder": "",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fihys8nw4wv%2Fout%2Fv1%2Ffde190f369484bc6b6117cc16cd82a9f%2Fcenc.mpd&name=Boston%20Celtics%20Vs%20Orlando%20Magic%20-%20TSN4%20SPORTS%20FHD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fb3b3fkmrbl%2Fout%2Fv1%2F1084d5c9a97a4c5b9f9554c88f486646%2Fcenc.mpd&name=NPL%20Vs%20NPL%20-%20FANCODE%20FHD&from=sports&mode=web"
     },
     {
-      "name": "Boston Celtics Vs Orlando Magic - STREAM TV + HD",
+      "name": "NPL Vs NPL - NPL LIVE FHD",
       "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60279/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60279%2Fload-playlist%3F%26.m3u8&name=Boston%20Celtics%20Vs%20Orlando%20Magic%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Boston Celtics Vs Orlando Magic - HD QUALITY 2",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60287/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60287%2Fload-playlist%3F%26.m3u8&name=Boston%20Celtics%20Vs%20Orlando%20Magic%20-%20HD%20QUALITY%202&from=sports&mode=web"
-    },
-    {
-      "name": "Boston Celtics Vs Orlando Magic - HD QUALITY 3",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60288/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60288%2Fload-playlist%3F%26.m3u8&name=Boston%20Celtics%20Vs%20Orlando%20Magic%20-%20HD%20QUALITY%203&from=sports&mode=web"
-    },
-    {
-      "name": "Boston Celtics Vs Orlando Magic - HD QUALITY+",
-      "group": "SP",
-      "url": "https://www.rtmpcdn.com/live/12217875-4aa4-4bc7-b6a4-8e1b083ac7e8.m3u8",
+      "url": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
       "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg",
+      "key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F12217875-4aa4-4bc7-b6a4-8e1b083ac7e8.m3u8&name=Boston%20Celtics%20Vs%20Orlando%20Magic%20-%20HD%20QUALITY%2B&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fott-lb.nettv.com.np%2Fnpl%2Flive_match%2Findex.mpd&name=NPL%20Vs%20NPL%20-%20NPL%20LIVE%20FHD&from=sports&mode=web"
     },
     {
-      "name": "Boston Celtics Vs Orlando Magic - LOW QUALITY (USE VPN)",
+      "name": "NPL Vs NPL - SD SERVER",
       "group": "SP",
-      "url": "http://193.47.62.44/hls/RGGG.m3u8",
-      "headers": {
-        "Referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-      },
+      "url": "http://162.251.160.53:8089/NPLT20/index.m3u8",
+      "headers": {},
       "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FRGGG.m3u8&name=Boston%20Celtics%20Vs%20Orlando%20Magic%20-%20LOW%20QUALITY%20%28USE%20VPN%29&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F162.251.160.53%3A8089%2FNPLT20%2Findex.m3u8&name=NPL%20Vs%20NPL%20-%20SD%20SERVER&from=sports&mode=web"
     },
     {
-      "name": "Utah Mammoth Vs Vancouver Canucks - PREMIER1 SPORTS FHD",
+      "name": "NPL Vs NPL - FANCODE SD",
       "group": "SP",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+      "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
       "headers": {},
-      "key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Mammoth%20Vs%20Vancouver%20Canucks.jpg",
+      "key": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "reminder": "",
       "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fm6sqanvm2m%2Fout%2Fv1%2Ff6beb46c6e9a4132ad739f3ca27df6aa%2Fcenc.mpd&name=Utah%20Mammoth%20Vs%20Vancouver%20Canucks%20-%20PREMIER1%20SPORTS%20FHD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fabfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash-sd%2Fenc%2Fiwpchve3wl%2Fout%2Fv1%2F946019f85dc64ae99ff9ce64a9727a62%2Fcenc-sd.mpd&name=NPL%20Vs%20NPL%20-%20FANCODE%20SD&from=sports&mode=web"
     },
     {
-      "name": "Utah Mammoth Vs Vancouver Canucks - STREAM TV + HD",
+      "name": "NPL Vs NPL - FANCODE2 FHD",
+      "group": "SP",
+      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+      "headers": {},
+      "key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Favqlywnuzx%2Fout%2Fv1%2Faefca6420f944a9482e117f315de535f%2Fcenc.mpd&name=NPL%20Vs%20NPL%20-%20FANCODE2%20FHD&from=sports&mode=web"
+    },
+    {
+      "name": "NPL Vs NPL - FANCODE (IND)",
+      "group": "SP",
+      "url": "https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8",
+      "headers": {
+        "Referer": "https://fancode.com/",
+        "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1"
+      },
+      "key": null,
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg",
+      "tvg_id": null,
+      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
+      "reminder": "",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fdai-fancode.pages.dev%2Fmumbai%2F4250355_english_hls_7b5a55758122143_1ta-di_h264%2Findex.m3u8&name=NPL%20Vs%20NPL%20-%20FANCODE%20%28IND%29&from=sports&mode=web"
+    },
+    {
+      "name": "Kyrgyzstan Vs Vietnam - STREAM TV + HD",
       "group": "SP",
       "url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
       "headers": {
         "Referer": "https://gooz.aapmains.net"
       },
       "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Mammoth%20Vs%20Vancouver%20Canucks.jpg",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kyrgyzstan%20Vs%20Vietnam.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F%2Fload-playlist%3F%26.m3u8&name=Utah%20Mammoth%20Vs%20Vancouver%20Canucks%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F%2Fload-playlist%3F%26.m3u8&name=Kyrgyzstan%20Vs%20Vietnam%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
     },
     {
-      "name": "New York Rangers Vs Montréal Canadiens - PREMIERE2 SPORTS FHD",
-      "group": "SP",
-      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-      },
-      "key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Rangers%20Vs%20Montr%C3%A9al%20Canadiens.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fbcj3iscpd6%2Fout%2Fv1%2Ffcd137b391214f7cb99dd4d7be90ca87%2Fcenc.mpd&name=New%20York%20Rangers%20Vs%20Montr%C3%A9al%20Canadiens%20-%20PREMIERE2%20SPORTS%20FHD&from=sports&mode=web"
-    },
-    {
-      "name": "New York Rangers Vs Montréal Canadiens - STREAM TV + HD",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60291/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Rangers%20Vs%20Montr%C3%A9al%20Canadiens.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60291%2Fload-playlist%3F%26.m3u8&name=New%20York%20Rangers%20Vs%20Montr%C3%A9al%20Canadiens%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "New York Rangers Vs Montréal Canadiens - SPORTSCAST",
-      "group": "SP",
-      "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0b501ef9-a9d9-4463-90cc-8a1cac530097/master.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Rangers%20Vs%20Montr%C3%A9al%20Canadiens.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Flive.kinescopecdn.net%2Fon-air%2F5bf2c07e-3604-42cf-959a-67ed8914ffd5%2F0b501ef9-a9d9-4463-90cc-8a1cac530097%2Fmaster.m3u8&name=New%20York%20Rangers%20Vs%20Montr%C3%A9al%20Canadiens%20-%20SPORTSCAST&from=sports&mode=web"
-    },
-    {
-      "name": "Kentucky Wildcats Vs Grambling St Tigers - STREAM TV + HD",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60274/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kentucky%20Wildcats%20Vs%20Grambling%20St%20Tigers.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60274%2Fload-playlist%3F%26.m3u8&name=Kentucky%20Wildcats%20Vs%20Grambling%20St%20Tigers%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "Rutgers Scarlet Knights Vs Albany Great Danes - STREAM TV + HD",
-      "group": "SP",
-      "url": "https://chatgpt.hereisman.net/playlist/60283/load-playlist?&.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rutgers%20Scarlet%20Knights%20Vs%20Albany%20Great%20Danes.jpg",
-      "tvg_id": null,
-      "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60283%2Fload-playlist%3F%26.m3u8&name=Rutgers%20Scarlet%20Knights%20Vs%20Albany%20Great%20Danes%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
-    },
-    {
-      "name": "UCLA Bruins Vs Long Beach State 49ers - STREAM TV + HD",
+      "name": "China Vs Bahrain - STREAM TV + HD",
       "group": "SP",
       "url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
       "headers": {
         "Referer": "https://gooz.aapmains.net"
       },
       "key": null,
-      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UCLA%20Bruins%20Vs%20Long%20Beach%20State%2049ers.jpg",
+      "logo": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/China%20Vs%20Bahrain.jpg",
       "tvg_id": null,
       "sid": "5b6a975d-2be2-4445-8bad-df6c4c11ffac",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F%2Fload-playlist%3F%26.m3u8&name=UCLA%20Bruins%20Vs%20Long%20Beach%20State%2049ers%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F%2Fload-playlist%3F%26.m3u8&name=China%20Vs%20Bahrain%20-%20STREAM%20TV%20%2B%20HD&from=sports&mode=web"
     },
     {
       "name": "Bangladesh vs Pakistan",
@@ -1275,243 +865,587 @@
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fott-edge-mtdc04.nettv.com.np%2Fnpl%2Flive_match3%2Findex.mpd&name=NPL%202026&from=sports&mode=web"
     },
     {
-      "name": "WBBL Women Big Bash League - HOP S1",
+      "name": "PAK vs SL - HOP S1",
       "group": "World Wide",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
       "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
       },
-      "key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+      "key": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7",
       "logo": "https://img.willow.tv/apps/wlw-nw-lgo.png",
       "tvg_id": null,
       "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Ftll6uwepxa%2Fout%2Fv1%2Fa7f67cbb33df46539312956427343886%2Fcenc.mpd&name=WBBL%20Women%20Big%20Bash%20League%20-%20HOP%20S1&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fq81cdtuumj%2Fout%2Fv1%2F55851c07cf594e8d8e260f8cc0a7f89c%2Fcenc.mpd&name=PAK%20vs%20SL%20-%20HOP%20S1&from=sports&mode=web"
     },
     {
-      "name": "Albacete Balompié vs Celta Fortuna - LaLiga Hypermotion",
+      "name": "AFG vs ZIM - HOP S1",
       "group": "World Wide",
-      "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
       },
-      "key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "logo": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG",
+      "key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+      "logo": "https://img.willow.tv/apps/wlw-nw-lgo.png",
       "tvg_id": null,
       "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fcache07.zapitv.com%2Flive%2Feds_c2%2FHYPERMOTION1%2Fdash_live_ez%2FHYPERMOTION1.mpd&name=Albacete%20Balompi%C3%A9%20vs%20Celta%20Fortuna%20-%20LaLiga%20Hypermotion&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fqsiyy3pj1z%2Fout%2Fv1%2F18e7e922d8f44a768c404c3304bbf8ee%2Fcenc.mpd&name=AFG%20vs%20ZIM%20-%20HOP%20S1&from=sports&mode=web"
     },
     {
-      "name": "Greece vs Serbia - FOX SPORTS FHD",
+      "name": "SA vs BAN - HOP S1",
       "group": "World Wide",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-      },
-      "key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-      "logo": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fawxnrqkbo5%2Fout%2Fv1%2F716529a4091947b0877e6cb80dbd6ccb%2Fcenc.mpd&name=Greece%20vs%20Serbia%20-%20FOX%20SPORTS%20FHD&from=sports&mode=web"
-    },
-    {
-      "name": "Greece vs Serbia - beIN ENGLISH FHD",
-      "group": "World Wide",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-      },
-      "key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "logo": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2F8m8cd46i1t%2Fout%2Fv1%2F83985c68e4174e90a58a1f2c024be4c9%2Fcenc.mpd%3F&name=Greece%20vs%20Serbia%20-%20beIN%20ENGLISH%20FHD&from=sports&mode=web"
-    },
-    {
-      "name": "Greece vs Serbia - SPORT 2 CZ FHD",
-      "group": "World Wide",
-      "url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
       },
-      "key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-      "logo": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG",
+      "key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+      "logo": "https://img.willow.tv/apps/wlw-nw-lgo.png",
       "tvg_id": null,
       "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fdash2.antik.sk%2Fstream%2Fnvidia_sport2%2Fplaylist_cenc.mpd&name=Greece%20vs%20Serbia%20-%20SPORT%202%20CZ%20FHD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Ffq9jzduffm%2Fout%2Fv1%2F999c61c2f5114b66b1c408dd3e97f5f3%2Fcenc.mpd&name=SA%20vs%20BAN%20-%20HOP%20S1&from=sports&mode=web"
     },
     {
-      "name": "Germany vs Netherlands - FOX SPORTS FHD",
+      "name": "WBBL Women Big Bash League - HOP S1",
       "group": "World Wide",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      },
+      "key": "82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf",
+      "logo": "https://img.willow.tv/apps/wlw-nw-lgo.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fjyqp4rh7ty%2Fout%2Fv1%2Fa61e5db610214d8ab29de73c6750d65d%2Fcenc.mpd&name=WBBL%20Women%20Big%20Bash%20League%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Singapore vs Brazil - SporTV BR FHD",
+      "group": "World Wide",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
       },
-      "key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+      "key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
       "logo": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG",
       "tvg_id": null,
       "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Ffsu3wl2rwb%2Fout%2Fv1%2Fbe61206c04e643349d53fb22301f3b50%2Fcenc.mpd&name=Germany%20vs%20Netherlands%20-%20FOX%20SPORTS%20FHD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fw8kwdfmlgs%2Fout%2Fv1%2F3aa321e477504937a439b602e078eb18%2Fcenc.mpd&name=Singapore%20vs%20Brazil%20-%20SporTV%20BR%20FHD&from=sports&mode=web"
     },
     {
-      "name": "Germany vs Netherlands - beIN ENGLISH FHD",
+      "name": "Singapore vs Brazil - MTV LIVE FHD",
       "group": "World Wide",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+      "url": "https://ls-mp02stg.eo-edgefunctions7.com/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
       "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
       },
-      "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
       "logo": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG",
       "tvg_id": null,
       "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fq4u5nwaogz%2Fout%2Fv1%2F18de6d3e65934f3a8de4358e69eab86c%2Fcenc.mpd&name=Germany%20vs%20Netherlands%20-%20beIN%20ENGLISH%20FHD&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fls-mp02stg.eo-edgefunctions7.com%2Fout%2Fv1%2F3170252e3fb0453085f2f4b0f8401a6b%2Fmanifest.mpd&name=Singapore%20vs%20Brazil%20-%20MTV%20LIVE%20FHD&from=sports&mode=web"
     },
     {
-      "name": "Canada vs Guatemala - TSN SPORTS FHD",
+      "name": "Singapore vs Brazil - HOP S1",
       "group": "World Wide",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-      },
-      "key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-      "logo": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fcscevwljkq%2Fout%2Fv1%2F972185041b244140860b7d56398e9aaf%2Fcenc.mpd&name=Canada%20vs%20Guatemala%20-%20TSN%20SPORTS%20FHD&from=sports&mode=web"
-    },
-    {
-      "name": "UC San Diego vs TX Southern",
-      "group": "World Wide",
-      "url": "https://chatgpt.hereisman.net/playlist/60306/load-playlist?&extension=.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net",
-        "Origin": "https://gooz.aapmains.net",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260929_113300_445.PNG",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60306%2Fload-playlist%3F%26extension%3D.m3u8&name=UC%20San%20Diego%20vs%20TX%20Southern&from=sports&mode=web"
-    },
-    {
-      "name": "St Mary&#039;s vs Portland State",
-      "group": "World Wide",
-      "url": "https://chatgpt.hereisman.net/playlist/60307/load-playlist?&extension=.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net",
-        "Origin": "https://gooz.aapmains.net",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260929_113300_445.PNG",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60307%2Fload-playlist%3F%26extension%3D.m3u8&name=St%20Mary%26%23039%3Bs%20vs%20Portland%20State&from=sports&mode=web"
-    },
-    {
-      "name": "UCLA vs Long Beach",
-      "group": "World Wide",
-      "url": "https://chatgpt.hereisman.net/playlist/60308/load-playlist?&extension=.m3u8",
-      "headers": {
-        "Referer": "https://gooz.aapmains.net",
-        "Origin": "https://gooz.aapmains.net",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260929_113300_445.PNG",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F60308%2Fload-playlist%3F%26extension%3D.m3u8&name=UCLA%20vs%20Long%20Beach&from=sports&mode=web"
-    },
-    {
-      "name": "Baltimore Ravens vs Los Angeles Chargers - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.50/hls/R222.m3u8",
+      "url": "http://193.47.62.44/hls/RARARAX.m3u8",
       "headers": {
         "Referer": "http://www.fawanews.sc/",
         "Origin": "http://www.fawanews.sc",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
       },
       "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
       "tvg_id": null,
       "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.50%2Fhls%2FR222.m3u8&name=Baltimore%20Ravens%20vs%20Los%20Angeles%20Chargers%20-%20HOP%20S1&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FRARARAX.m3u8&name=Singapore%20vs%20Brazil%20-%20HOP%20S1&from=sports&mode=web"
     },
     {
-      "name": "Baltimore Ravens vs Los Angeles Chargers - HOP S2",
+      "name": "Singapore vs Brazil - HOP S2",
       "group": "World Wide",
-      "url": "http://193.47.62.55/hls/R222.m3u8",
+      "url": "http://193.47.62.59/hls/RARARAX.m3u8",
       "headers": {
         "Referer": "http://www.fawanews.sc/",
         "Origin": "http://www.fawanews.sc",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
       },
       "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
       "tvg_id": null,
       "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.55%2Fhls%2FR222.m3u8&name=Baltimore%20Ravens%20vs%20Los%20Angeles%20Chargers%20-%20HOP%20S2&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FRARARAX.m3u8&name=Singapore%20vs%20Brazil%20-%20HOP%20S2&from=sports&mode=web"
     },
     {
-      "name": "Baltimore Ravens vs Los Angeles Chargers - HOP S3",
+      "name": "Singapore vs Brazil - HOP S3",
       "group": "World Wide",
-      "url": "http://193.47.62.50/hls/R222X.m3u8",
+      "url": "https://www.rtmpcdn.com/live/0972098c-089b-42aa-b107-66a0bdf00b02.m3u8",
       "headers": {
         "Referer": "http://www.fawanews.sc/",
         "Origin": "http://www.fawanews.sc",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
       },
       "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
       "tvg_id": null,
       "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.50%2Fhls%2FR222X.m3u8&name=Baltimore%20Ravens%20vs%20Los%20Angeles%20Chargers%20-%20HOP%20S3&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F0972098c-089b-42aa-b107-66a0bdf00b02.m3u8&name=Singapore%20vs%20Brazil%20-%20HOP%20S3&from=sports&mode=web"
     },
     {
-      "name": "Baltimore Ravens vs Los Angeles Chargers - HOP S4",
+      "name": "Tanzania vs Nigeria - HOP S1",
       "group": "World Wide",
-      "url": "http://193.47.62.55/hls/R222X.m3u8",
+      "url": "http://193.47.62.44/hls/NYNYNY.m3u8",
       "headers": {
         "Referer": "http://www.fawanews.sc/",
         "Origin": "http://www.fawanews.sc",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
       },
       "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
       "tvg_id": null,
       "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
       "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
       "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.55%2Fhls%2FR222X.m3u8&name=Baltimore%20Ravens%20vs%20Los%20Angeles%20Chargers%20-%20HOP%20S4&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FNYNYNY.m3u8&name=Tanzania%20vs%20Nigeria%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Tanzania vs Nigeria - HOP S2",
+      "group": "World Wide",
+      "url": "http://193.47.62.59/hls/NYNYNY.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FNYNYNY.m3u8&name=Tanzania%20vs%20Nigeria%20-%20HOP%20S2&from=sports&mode=web"
+    },
+    {
+      "name": "Tanzania vs Nigeria - HOP S3",
+      "group": "World Wide",
+      "url": "http://193.47.62.50/hls/NYNYNY.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.50%2Fhls%2FNYNYNY.m3u8&name=Tanzania%20vs%20Nigeria%20-%20HOP%20S3&from=sports&mode=web"
+    },
+    {
+      "name": "South Sudan vs Angola - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/TTTTAAAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FTTTTAAAA.m3u8&name=South%20Sudan%20vs%20Angola%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "South Sudan vs Angola - HOP S2",
+      "group": "World Wide",
+      "url": "http://193.47.62.55/hls/TTTTAAAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.55%2Fhls%2FTTTTAAAA.m3u8&name=South%20Sudan%20vs%20Angola%20-%20HOP%20S2&from=sports&mode=web"
+    },
+    {
+      "name": "Malawi vs Egypt - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/TTTTAAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FTTTTAAA.m3u8&name=Malawi%20vs%20Egypt%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Malawi vs Egypt - HOP S2",
+      "group": "World Wide",
+      "url": "http://193.47.62.55/hls/TTTTAAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.55%2Fhls%2FTTTTAAA.m3u8&name=Malawi%20vs%20Egypt%20-%20HOP%20S2&from=sports&mode=web"
+    },
+    {
+      "name": "Lesotho vs Gabon - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/TTTTAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FTTTTAA.m3u8&name=Lesotho%20vs%20Gabon%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Lesotho vs Gabon - HOP S2",
+      "group": "World Wide",
+      "url": "http://193.47.62.55/hls/TTTTAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.55%2Fhls%2FTTTTAA.m3u8&name=Lesotho%20vs%20Gabon%20-%20HOP%20S2&from=sports&mode=web"
+    },
+    {
+      "name": "Ethiopia vs Mozambique - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/TTTTA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FTTTTA.m3u8&name=Ethiopia%20vs%20Mozambique%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Ethiopia vs Mozambique - HOP S2",
+      "group": "World Wide",
+      "url": "http://193.47.62.55/hls/TTTTA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.55%2Fhls%2FTTTTA.m3u8&name=Ethiopia%20vs%20Mozambique%20-%20HOP%20S2&from=sports&mode=web"
+    },
+    {
+      "name": "Burundi vs Zambia - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/TTTT.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FTTTT.m3u8&name=Burundi%20vs%20Zambia%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Burundi vs Zambia - HOP S2",
+      "group": "World Wide",
+      "url": "http://193.47.62.55/hls/TTTT.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.55%2Fhls%2FTTTT.m3u8&name=Burundi%20vs%20Zambia%20-%20HOP%20S2&from=sports&mode=web"
+    },
+    {
+      "name": "United Arab Emirates vs Syria - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/DGGGAAAAAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FDGGGAAAAAA.m3u8&name=United%20Arab%20Emirates%20vs%20Syria%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Qatar vs South Korea - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/DGGGAAAAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FDGGGAAAAA.m3u8&name=Qatar%20vs%20South%20Korea%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "India vs Pakistan - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/DGGGAAAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FDGGGAAAA.m3u8&name=India%20vs%20Pakistan%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Japan vs Paraguay - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/DGGGAAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FDGGGAAA.m3u8&name=Japan%20vs%20Paraguay%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Tennis ATP Finals - Turin - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.44/hls/G666AAAAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FG666AAAAA.m3u8&name=Tennis%20ATP%20Finals%20-%20Turin%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Thailand vs Tajikistan - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/DGGGAA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FDGGGAA.m3u8&name=Thailand%20vs%20Tajikistan%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Kyrgyzstan vs Vietnam - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/DGGGA.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FDGGGA.m3u8&name=Kyrgyzstan%20vs%20Vietnam%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "China vs Bahrain - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/DGGG.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FDGGG.m3u8&name=China%20vs%20Bahrain%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Horse Racing - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.55/hls/vavavava.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.55%2Fhls%2Fvavavava.m3u8&name=Horse%20Racing%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Horse Racing - HOP S2",
+      "group": "World Wide",
+      "url": "http://193.47.62.55/hls/vavavavaq.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.55%2Fhls%2Fvavavavaq.m3u8&name=Horse%20Racing%20-%20HOP%20S2&from=sports&mode=web"
+    },
+    {
+      "name": "Brunei vs Oman - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.41/hls/QVVV.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FQVVV.m3u8&name=Brunei%20vs%20Oman%20-%20HOP%20S1&from=sports&mode=web"
+    },
+    {
+      "name": "Brunei vs Oman - HOP S2",
+      "group": "World Wide",
+      "url": "https://www.rtmpcdn.com/live/42fcb69e-39df-47e3-8457-78429e8cd3b3.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F42fcb69e-39df-47e3-8457-78429e8cd3b3.m3u8&name=Brunei%20vs%20Oman%20-%20HOP%20S2&from=sports&mode=web"
+    },
+    {
+      "name": "Adelaide W vs Sydney Sixers W - HOP S1",
+      "group": "World Wide",
+      "url": "http://193.47.62.59/hls/GTTT.m3u8",
+      "headers": {
+        "Referer": "http://www.fawanews.sc/",
+        "Origin": "http://www.fawanews.sc",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+      },
+      "key": null,
+      "logo": "https://pbs.twimg.com/profile_images/1714774345271435264/fFEmLYDW_400x400.jpg",
+      "tvg_id": null,
+      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
+      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
+      "routing": "proxied",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FGTTT.m3u8&name=Adelaide%20W%20vs%20Sydney%20Sixers%20W%20-%20HOP%20S1&from=sports&mode=web"
     },
     {
       "name": "South Africa vs Bangladesh - HOP S1",
@@ -1565,446 +1499,56 @@
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FRREGEGE.m3u8&name=Pakistan%20vs%20Sri%20Lanka%20-%20HOP%20S1&from=sports&mode=web"
     },
     {
-      "name": "Utah Mammoth vs Vancouver Canucks - HOP S1",
-      "group": "World Wide",
-      "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c0321067-f051-4a8b-b2bd-13e8c74ea0d9/master.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Flive.kinescopecdn.net%2Fon-air%2F5bf2c07e-3604-42cf-959a-67ed8914ffd5%2Fc0321067-f051-4a8b-b2bd-13e8c74ea0d9%2Fmaster.m3u8&name=Utah%20Mammoth%20vs%20Vancouver%20Canucks%20-%20HOP%20S1&from=sports&mode=web"
+      "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka",
+      "group": "Willow Cricket",
+      "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd",
+      "headers": {},
+      "key": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7",
+      "logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d1b6f08-0201-4db4-96bd-f867f7348b30/6/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "tvg_id": "B0HKZY847Z",
+      "sid": "b2794244-8a1e-42e4-a20c-5067ccd192e9",
+      "reminder": "",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fa96aivottlinear-a.akamaihd.net%2FOTTB%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2F9egdiddjjq%2Fout%2Fv1%2F515443d95d6c4eb9b908f641e8622f89%2Fcenc.mpd&name=Sri%20Lanka%20tour%20of%20Pakistan%202026%20-%202nd%20Test%20-%20Pakistan%20vs%20Sri%20Lanka&from=sports&mode=web"
     },
     {
-      "name": "Denver Nuggets vs Phoenix Suns - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.59/hls/TKKKAAA.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FTKKKAAA.m3u8&name=Denver%20Nuggets%20vs%20Phoenix%20Suns%20-%20HOP%20S1&from=sports&mode=web"
+      "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
+      "group": "Willow Cricket",
+      "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+      "headers": {},
+      "key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+      "logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "tvg_id": "B0HP83ZWBB",
+      "sid": "b2794244-8a1e-42e4-a20c-5067ccd192e9",
+      "reminder": "",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fss-ott.bia-cf.live.pv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fqsiyy3pj1z%2Fout%2Fv1%2F18e7e922d8f44a768c404c3304bbf8ee%2Fcenc.mpd&name=Afghanistan%20vs%20Zimbabwe%20in%20UAE%202026%20-%202nd%20Test%20-%20Afghanistan%20vs%20Zimbabwe&from=sports&mode=web"
     },
     {
-      "name": "Denver Nuggets vs Phoenix Suns - HOP S2",
-      "group": "World Wide",
-      "url": "https://www.rtmpcdn.com/live/ed5a7c66-c352-4222-803b-126e2688f7af.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fed5a7c66-c352-4222-803b-126e2688f7af.m3u8&name=Denver%20Nuggets%20vs%20Phoenix%20Suns%20-%20HOP%20S2&from=sports&mode=web"
+      "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
+      "group": "Willow Cricket",
+      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd",
+      "headers": {},
+      "key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+      "logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "tvg_id": "B0HRNBGJB1",
+      "sid": "b2794244-8a1e-42e4-a20c-5067ccd192e9",
+      "reminder": "",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fhprkqhtdlv%2Fout%2Fv1%2F7aa42b34cf6d4ec1b3fa841404c162d6%2Fcenc.mpd&name=Bangladesh%20tour%20of%20South%20Africa%202026%20-%201st%20Test%20-%20South%20Africa%20vs%20Bangladesh&from=sports&mode=web"
     },
     {
-      "name": "New Orleans Pelicans vs Golden State Warriors - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.44/hls/RGGGAAA.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FRGGGAAA.m3u8&name=New%20Orleans%20Pelicans%20vs%20Golden%20State%20Warriors%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "New Orleans Pelicans vs Golden State Warriors - HOP S2",
-      "group": "World Wide",
-      "url": "https://www.rtmpcdn.com/live/611ce42b-5b42-4ab9-ae5c-aa1bf53e0b48.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F611ce42b-5b42-4ab9-ae5c-aa1bf53e0b48.m3u8&name=New%20Orleans%20Pelicans%20vs%20Golden%20State%20Warriors%20-%20HOP%20S2&from=sports&mode=web"
-    },
-    {
-      "name": "Minnesota Timberwolves vs Portland Trail Blazers - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.59/hls/TKKKAA.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FTKKKAA.m3u8&name=Minnesota%20Timberwolves%20vs%20Portland%20Trail%20Blazers%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "Minnesota Timberwolves vs Portland Trail Blazers - HOP S2",
-      "group": "World Wide",
-      "url": "https://www.rtmpcdn.com/live/2d37f281-bd97-4fe4-a2ea-a91560306bc8.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F2d37f281-bd97-4fe4-a2ea-a91560306bc8.m3u8&name=Minnesota%20Timberwolves%20vs%20Portland%20Trail%20Blazers%20-%20HOP%20S2&from=sports&mode=web"
-    },
-    {
-      "name": "Miami Heat vs Houston Rockets - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.44/hls/RGGGAA.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FRGGGAA.m3u8&name=Miami%20Heat%20vs%20Houston%20Rockets%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "Miami Heat vs Houston Rockets - HOP S2",
-      "group": "World Wide",
-      "url": "https://www.rtmpcdn.com/live/62c33bbd-9d9f-4d5d-8603-235b75e939ab.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F62c33bbd-9d9f-4d5d-8603-235b75e939ab.m3u8&name=Miami%20Heat%20vs%20Houston%20Rockets%20-%20HOP%20S2&from=sports&mode=web"
-    },
-    {
-      "name": "Brooklyn Nets vs Philadelphia 76ers - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.59/hls/TKKKA.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FTKKKA.m3u8&name=Brooklyn%20Nets%20vs%20Philadelphia%2076ers%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "Brooklyn Nets vs Philadelphia 76ers - HOP S2",
-      "group": "World Wide",
-      "url": "https://www.rtmpcdn.com/live/bb12293e-bb54-45cd-adc0-f7fa92e26dd7.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fbb12293e-bb54-45cd-adc0-f7fa92e26dd7.m3u8&name=Brooklyn%20Nets%20vs%20Philadelphia%2076ers%20-%20HOP%20S2&from=sports&mode=web"
-    },
-    {
-      "name": "Washington Wizards vs Memphis Grizzlies - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.44/hls/RGGGA.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FRGGGA.m3u8&name=Washington%20Wizards%20vs%20Memphis%20Grizzlies%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "Washington Wizards vs Memphis Grizzlies - HOP S2",
-      "group": "World Wide",
-      "url": "https://www.rtmpcdn.com/live/51735357-c195-4b4a-a97c-96191309b1c0.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F51735357-c195-4b4a-a97c-96191309b1c0.m3u8&name=Washington%20Wizards%20vs%20Memphis%20Grizzlies%20-%20HOP%20S2&from=sports&mode=web"
-    },
-    {
-      "name": "Cleveland Cavaliers vs Chicago Bulls - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.59/hls/TKKK.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.59%2Fhls%2FTKKK.m3u8&name=Cleveland%20Cavaliers%20vs%20Chicago%20Bulls%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "Cleveland Cavaliers vs Chicago Bulls - HOP S2",
-      "group": "World Wide",
-      "url": "https://www.rtmpcdn.com/live/d21103a3-c32e-424d-b8ea-50436f519f40.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fd21103a3-c32e-424d-b8ea-50436f519f40.m3u8&name=Cleveland%20Cavaliers%20vs%20Chicago%20Bulls%20-%20HOP%20S2&from=sports&mode=web"
-    },
-    {
-      "name": "Boston Celtics vs Orlando Magic - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.44/hls/RGGG.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.44%2Fhls%2FRGGG.m3u8&name=Boston%20Celtics%20vs%20Orlando%20Magic%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "Boston Celtics vs Orlando Magic - HOP S2",
-      "group": "World Wide",
-      "url": "https://www.rtmpcdn.com/live/12217875-4aa4-4bc7-b6a4-8e1b083ac7e8.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F12217875-4aa4-4bc7-b6a4-8e1b083ac7e8.m3u8&name=Boston%20Celtics%20vs%20Orlando%20Magic%20-%20HOP%20S2&from=sports&mode=web"
-    },
-    {
-      "name": "WWE Monday Night RAW - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.41/hls/CUUUAAAK.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FCUUUAAAK.m3u8&name=WWE%20Monday%20Night%20RAW%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "Canada vs Guatemala - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.41/hls/CUUUAAA.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FCUUUAAA.m3u8&name=Canada%20vs%20Guatemala%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "Canada vs Guatemala - HOP S2",
-      "group": "World Wide",
-      "url": "https://www.rtmpcdn.com/live/c3d9e0d5-dd8b-4152-8e01-3685fa454274.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fc3d9e0d5-dd8b-4152-8e01-3685fa454274.m3u8&name=Canada%20vs%20Guatemala%20-%20HOP%20S2&from=sports&mode=web"
-    },
-    {
-      "name": "New York Rangers vs Montreal Canadiens - HOP S1",
-      "group": "World Wide",
-      "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0b501ef9-a9d9-4463-90cc-8a1cac530097/master.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Flive.kinescopecdn.net%2Fon-air%2F5bf2c07e-3604-42cf-959a-67ed8914ffd5%2F0b501ef9-a9d9-4463-90cc-8a1cac530097%2Fmaster.m3u8&name=New%20York%20Rangers%20vs%20Montreal%20Canadiens%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "Trinidad and Tobago vs Antigua and Barbuda - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.41/hls/CUUUAA.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FCUUUAA.m3u8&name=Trinidad%20and%20Tobago%20vs%20Antigua%20and%20Barbuda%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "Trinidad and Tobago vs Antigua and Barbuda - HOP S2",
-      "group": "World Wide",
-      "url": "https://www.rtmpcdn.com/live/285eaad2-be9b-426b-9b3d-3875988c9882.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F285eaad2-be9b-426b-9b3d-3875988c9882.m3u8&name=Trinidad%20and%20Tobago%20vs%20Antigua%20and%20Barbuda%20-%20HOP%20S2&from=sports&mode=web"
-    },
-    {
-      "name": "Martinique vs Aruba - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.41/hls/CUUUA.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FCUUUA.m3u8&name=Martinique%20vs%20Aruba%20-%20HOP%20S1&from=sports&mode=web"
-    },
-    {
-      "name": "Martinique vs Aruba - HOP S2",
-      "group": "World Wide",
-      "url": "https://www.rtmpcdn.com/live/2a2ac23e-6785-4993-a219-027910dff82a.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2F2a2ac23e-6785-4993-a219-027910dff82a.m3u8&name=Martinique%20vs%20Aruba%20-%20HOP%20S2&from=sports&mode=web"
-    },
-    {
-      "name": "Wanderers vs Juventud - HOP S1",
-      "group": "World Wide",
-      "url": "http://193.47.62.41/hls/CUUU.m3u8",
-      "headers": {
-        "Referer": "http://www.fawanews.sc/",
-        "Origin": "http://www.fawanews.sc",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-      },
-      "key": null,
-      "logo": "https://pbs.twimg.com/profile_images/2017605756581781504/yBVFgNDf_400x400.jpg",
-      "tvg_id": null,
-      "sid": "504fecd1-9719-4bf9-ba27-8afdd5f20694",
-      "reminder": "If you are outside India or Bangladesh, turn on an India/Bangladesh VPN before starting the stream.",
-      "routing": "proxied",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=http%3A%2F%2F193.47.62.41%2Fhls%2FCUUU.m3u8&name=Wanderers%20vs%20Juventud%20-%20HOP%20S1&from=sports&mode=web"
+      "name": "Womens Big Bash League 2026 - 25th Match - Adelaide Strikers Women vs Sydney Sixers Women",
+      "group": "Willow Cricket",
+      "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd",
+      "headers": {},
+      "key": "82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf",
+      "logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6f72b480-caa0-46f3-9110-f321e92fbb47/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "tvg_id": "B0HKV1DFSC",
+      "sid": "b2794244-8a1e-42e4-a20c-5067ccd192e9",
+      "reminder": "",
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fdash-ott.bia-cf.live.pv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fjyqp4rh7ty%2Fout%2Fv1%2Fa61e5db610214d8ab29de73c6750d65d%2Fcenc.mpd&name=Womens%20Big%20Bash%20League%202026%20-%2025th%20Match%20-%20Adelaide%20Strikers%20Women%20vs%20Sydney%20Sixers%20Women&from=sports&mode=web"
     },
     {
       "name": "FS 1 - AQ",
@@ -2154,30 +1698,30 @@
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fevents-1fe.pages.dev%2Fplayer.html%3Furl%3D&name=%5BUPCOMING%5D%20Upcoming%20-%201st%20Test%20-%20India%20Tour%20Of%20New%20Zealand%202026%20-%20Sony%20Sports%20Ten%205%20%5BHIN%5D&from=sports&mode=web"
     },
     {
-      "name": "[UPCOMING] Upcoming - DP World Asia Cup Rising Stars Men's 2026 - Sony Sports Ten 5 [HIN]",
-      "group": "SonyLiv Event Worldwide",
-      "url": "https://events-1fe.pages.dev/player.html?url=",
-      "headers": {},
-      "key": null,
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
-      "tvg_id": null,
-      "sid": "sonyliv-world-id",
-      "reminder": null,
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fevents-1fe.pages.dev%2Fplayer.html%3Furl%3D&name=%5BUPCOMING%5D%20Upcoming%20-%20DP%20World%20Asia%20Cup%20Rising%20Stars%20Men%27s%202026%20-%20Sony%20Sports%20Ten%205%20%5BHIN%5D&from=sports&mode=web"
-    },
-    {
       "name": "[UPCOMING] Upcoming - Matchday 6 - UEFA Nations League 2026-27 - Sony Sports Ten 5 [ENG]",
       "group": "SonyLiv Event Worldwide",
       "url": "https://events-1fe.pages.dev/player.html?url=",
       "headers": {},
       "key": null,
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029194/1794818469556474_UNL2627_wales_vs_portugal_dated_landscape_thumb.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029194/1794818485190474_UNL2627_wales_vs_portugal_tonight_landscape_thumb.jpg",
       "tvg_id": null,
       "sid": "sonyliv-world-id",
       "reminder": null,
       "routing": "direct",
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fevents-1fe.pages.dev%2Fplayer.html%3Furl%3D&name=%5BUPCOMING%5D%20Upcoming%20-%20Matchday%206%20-%20UEFA%20Nations%20League%202026-27%20-%20Sony%20Sports%20Ten%205%20%5BENG%5D&from=sports&mode=web"
+    },
+    {
+      "name": "[UPCOMING] Upcoming - DP World Asia Cup Rising Stars Men's 2026 - Sony Sports Ten 5 [HIN]",
+      "group": "SonyLiv Event Worldwide",
+      "url": "https://events-1fe.pages.dev/player.html?url=",
+      "headers": {},
+      "key": null,
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029248/1794903603813944_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
+      "tvg_id": null,
+      "sid": "sonyliv-world-id",
+      "reminder": null,
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fevents-1fe.pages.dev%2Fplayer.html%3Furl%3D&name=%5BUPCOMING%5D%20Upcoming%20-%20DP%20World%20Asia%20Cup%20Rising%20Stars%20Men%27s%202026%20-%20Sony%20Sports%20Ten%205%20%5BHIN%5D&from=sports&mode=web"
     },
     {
       "name": "[UPCOMING] Upcoming - India A vs Nepal - DP World Asia Cup Rising Stars Men's 2026 - Sony Sports Ten 5 [HIN]",
@@ -2232,45 +1776,6 @@
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fevents-1fe.pages.dev%2Fplayer.html%3Furl%3D&name=%5BUPCOMING%5D%20Upcoming%20-%20Cricket%20Non-Stop%20Combo%20-%20Sony%20Sports%20Ten%205%20%5BENG%5D&from=sports&mode=web"
     },
     {
-      "name": "[PAUSED] Zimbabwe vs Afghanistan - Zimbabwe Tour of Afghanistan in UAE, 2026",
-      "group": "Fancode Worldwide",
-      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249773_ENG%2Fenglish.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg",
-      "tvg_id": null,
-      "sid": "fancode-world-id",
-      "reminder": null,
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4249773_ENG%252Fenglish.m3u8&name=%5BPAUSED%5D%20Zimbabwe%20vs%20Afghanistan%20-%20Zimbabwe%20Tour%20of%20Afghanistan%20in%20UAE%2C%202026&from=sports&mode=web"
-    },
-    {
-      "name": "[PAUSED] Bangladesh vs South Africa - Bangladesh tour of South Africa, 2026",
-      "group": "Fancode Worldwide",
-      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250650_ENG%2Fenglish.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SA_Test_fc-web_1794644019035.jpg",
-      "tvg_id": null,
-      "sid": "fancode-world-id",
-      "reminder": null,
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250650_ENG%252Fenglish.m3u8&name=%5BPAUSED%5D%20Bangladesh%20vs%20South%20Africa%20-%20Bangladesh%20tour%20of%20South%20Africa%2C%202026&from=sports&mode=web"
-    },
-    {
-      "name": "[UPCOMING] Adelaide Strikers Women vs Sydney Sixers Women - Women's Big Bash League, 2026",
-      "group": "Fancode Worldwide",
-      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250411_ENG%2Fenglish.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/4250411_53125_AS-W_SS-W_fc-web_1793352702025.jpg",
-      "tvg_id": null,
-      "sid": "fancode-world-id",
-      "reminder": null,
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250411_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Adelaide%20Strikers%20Women%20vs%20Sydney%20Sixers%20Women%20-%20Women%27s%20Big%20Bash%20League%2C%202026&from=sports&mode=web"
-    },
-    {
       "name": "[UPCOMING] Lumbini Lions vs Sudurpaschim Royals - Nepal Premier League Season 3, 2026",
       "group": "Fancode Worldwide",
       "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250383_ENG%2Fenglish.m3u8",
@@ -2323,45 +1828,6 @@
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250676_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Ireland%20Women%20vs%20Scotland%20Women%20-%20ICC%20Women%27s%20Emerging%20Nations%20Trophy%2C%202026&from=sports&mode=web"
     },
     {
-      "name": "[UPCOMING] Men's Doubles - Nitto ATP Finals 2026",
-      "group": "Fancode Worldwide",
-      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250727_ENG%2Fenglish.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
-      "tvg_id": null,
-      "sid": "fancode-world-id",
-      "reminder": null,
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250727_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Men%27s%20Doubles%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
-    },
-    {
-      "name": "[UPCOMING] Fils vs Jodar - Nitto ATP Finals 2026",
-      "group": "Fancode Worldwide",
-      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250933_ENG%2Fenglish.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Fils-vs-Jodar_FC-WEB.jpg",
-      "tvg_id": null,
-      "sid": "fancode-world-id",
-      "reminder": null,
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250933_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Fils%20vs%20Jodar%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
-    },
-    {
-      "name": "[UPCOMING] Men's Doubles - Nitto ATP Finals 2026",
-      "group": "Fancode Worldwide",
-      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250934_ENG%2Fenglish.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
-      "tvg_id": null,
-      "sid": "fancode-world-id",
-      "reminder": null,
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250934_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Men%27s%20Doubles%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
-    },
-    {
       "name": "[UPCOMING] Netherlands Women vs Zimbabwe Women - ICC Women's Emerging Nations Trophy, 2026",
       "group": "Fancode Worldwide",
       "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250677_ENG%2Fenglish.m3u8",
@@ -2386,19 +1852,6 @@
       "reminder": null,
       "routing": "direct",
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250678_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Bangladesh%20Women%20vs%20Thailand%20Women%20-%20ICC%20Women%27s%20Emerging%20Nations%20Trophy%2C%202026&from=sports&mode=web"
-    },
-    {
-      "name": "[UPCOMING] Zverev vs Shelton - Nitto ATP Finals 2026",
-      "group": "Fancode Worldwide",
-      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250935_ENG%2Fenglish.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Shelton_FC-WEB.jpg",
-      "tvg_id": null,
-      "sid": "fancode-world-id",
-      "reminder": null,
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250935_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Zverev%20vs%20Shelton%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
     },
     {
       "name": "[UPCOMING] Kathmandu Gorkhas vs Chitwan Rhinos - Nepal Premier League Season 3, 2026",
@@ -2440,7 +1893,46 @@
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250896_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Muscat%20Thunders%20Women%20vs%20Muscat%20Shaheens%20%20Women%20-%20Oman%20Women%27s%20D20%2C%202026&from=sports&mode=web"
     },
     {
-      "name": "[UPCOMING] Sohar Smashers Women vs Ghubra Giants Women - Oman Women's D20, 2026",
+      "name": "[UPCOMING] A. Fils vs R. Jodar - Nitto ATP Finals 2026",
+      "group": "Fancode Worldwide",
+      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250933_ENG%2Fenglish.m3u8",
+      "headers": {},
+      "key": null,
+      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Fils-vs-Jodar_FC-WEB.jpg",
+      "tvg_id": null,
+      "sid": "fancode-world-id",
+      "reminder": null,
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250933_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20A.%20Fils%20vs%20R.%20Jodar%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
+    },
+    {
+      "name": "[UPCOMING] Men's Doubles - Nitto ATP Finals 2026",
+      "group": "Fancode Worldwide",
+      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250934_ENG%2Fenglish.m3u8",
+      "headers": {},
+      "key": null,
+      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+      "tvg_id": null,
+      "sid": "fancode-world-id",
+      "reminder": null,
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250934_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Men%27s%20Doubles%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
+    },
+    {
+      "name": "[UPCOMING] A. Zverev vs B. Shelton - Nitto ATP Finals 2026",
+      "group": "Fancode Worldwide",
+      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250935_ENG%2Fenglish.m3u8",
+      "headers": {},
+      "key": null,
+      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Shelton_FC-WEB.jpg",
+      "tvg_id": null,
+      "sid": "fancode-world-id",
+      "reminder": null,
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250935_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20A.%20Zverev%20vs%20B.%20Shelton%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
+    },
+    {
+      "name": "[UPCOMING] OCA Strikers Women vs OCA Invincibles Women - Oman Women's D20, 2026",
       "group": "Fancode Worldwide",
       "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250897_ENG%2Fenglish.m3u8",
       "headers": {},
@@ -2450,10 +1942,10 @@
       "sid": "fancode-world-id",
       "reminder": null,
       "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250897_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Sohar%20Smashers%20Women%20vs%20Ghubra%20Giants%20Women%20-%20Oman%20Women%27s%20D20%2C%202026&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250897_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20OCA%20Strikers%20Women%20vs%20OCA%20Invincibles%20Women%20-%20Oman%20Women%27s%20D20%2C%202026&from=sports&mode=web"
     },
     {
-      "name": "[UPCOMING] Match 4 - Nitto ATP Finals 2026",
+      "name": "[UPCOMING] Men's Doubles - Nitto ATP Finals 2026",
       "group": "Fancode Worldwide",
       "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250728_ENG%2Fenglish.m3u8",
       "headers": {},
@@ -2463,20 +1955,7 @@
       "sid": "fancode-world-id",
       "reminder": null,
       "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250728_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Match%204%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
-    },
-    {
-      "name": "[UPCOMING] Nitto ATP Finals 2026",
-      "group": "Fancode Worldwide",
-      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250936_ENG%2Fenglish.m3u8",
-      "headers": {},
-      "key": null,
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
-      "tvg_id": null,
-      "sid": "fancode-world-id",
-      "reminder": null,
-      "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250936_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250728_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Men%27s%20Doubles%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
     },
     {
       "name": "[UPCOMING] BK Häcken Women vs Manchester City Women - UEFA Women's Champions League 2026-27",
@@ -2503,6 +1982,19 @@
       "reminder": null,
       "routing": "direct",
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4249505_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Real%20Madrid%20Women%20vs%20Inter%20Women%20-%20UEFA%20Women%27s%20Champions%20League%202026-27&from=sports&mode=web"
+    },
+    {
+      "name": "[UPCOMING] C. Alcaraz vs D. Medvedev - Nitto ATP Finals 2026",
+      "group": "Fancode Worldwide",
+      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250936_ENG%2Fenglish.m3u8",
+      "headers": {},
+      "key": null,
+      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+      "tvg_id": null,
+      "sid": "fancode-world-id",
+      "reminder": null,
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250936_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20C.%20Alcaraz%20vs%20D.%20Medvedev%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
     },
     {
       "name": "[UPCOMING] Chelsea F.C. Women vs Paris Saint-Germain Women - UEFA Women's Champions League 2026-27",
@@ -2544,7 +2036,7 @@
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250937_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
     },
     {
-      "name": "[UPCOMING] Nitto ATP Finals 2026",
+      "name": "[UPCOMING] F. Cobolli vs F. Tiafoe - Nitto ATP Finals 2026",
       "group": "Fancode Worldwide",
       "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250938_ENG%2Fenglish.m3u8",
       "headers": {},
@@ -2554,7 +2046,7 @@
       "sid": "fancode-world-id",
       "reminder": null,
       "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250938_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250938_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20F.%20Cobolli%20vs%20F.%20Tiafoe%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
     },
     {
       "name": "[UPCOMING] Hobart Hurricanes Women vs Perth Scorchers Women - Women's Big Bash League, 2026",
@@ -2622,7 +2114,7 @@
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250385_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20TBC%20vs%20TBC%20-%20Nepal%20Premier%20League%20Season%203%2C%202026&from=sports&mode=web"
     },
     {
-      "name": "[UPCOMING] Danube Titans  Women vs Wadi Kabir Royals Women - Oman Women's D20, 2026",
+      "name": "[UPCOMING] Ghubra Giants Women vs Wadi Kabir Royals Women - Oman Women's D20, 2026",
       "group": "Fancode Worldwide",
       "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250898_ENG%2Fenglish.m3u8",
       "headers": {},
@@ -2632,7 +2124,7 @@
       "sid": "fancode-world-id",
       "reminder": null,
       "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250898_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Danube%20Titans%20%20Women%20vs%20Wadi%20Kabir%20Royals%20Women%20-%20Oman%20Women%27s%20D20%2C%202026&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250898_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Ghubra%20Giants%20Women%20vs%20Wadi%20Kabir%20Royals%20Women%20-%20Oman%20Women%27s%20D20%2C%202026&from=sports&mode=web"
     },
     {
       "name": "[UPCOMING] Match 5 - Nitto ATP Finals 2026",
@@ -2648,7 +2140,7 @@
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250729_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Match%205%20-%20Nitto%20ATP%20Finals%202026&from=sports&mode=web"
     },
     {
-      "name": "[UPCOMING] OCA Invincibles Women vs OCA Strikers Women - Oman Women's D20, 2026",
+      "name": "[UPCOMING] OCA Strikers Women vs Danube Titans  Women - Oman Women's D20, 2026",
       "group": "Fancode Worldwide",
       "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250899_ENG%2Fenglish.m3u8",
       "headers": {},
@@ -2658,7 +2150,7 @@
       "sid": "fancode-world-id",
       "reminder": null,
       "routing": "direct",
-      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250899_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20OCA%20Invincibles%20Women%20vs%20OCA%20Strikers%20Women%20-%20Oman%20Women%27s%20D20%2C%202026&from=sports&mode=web"
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250899_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20OCA%20Strikers%20Women%20vs%20Danube%20Titans%20%20Women%20-%20Oman%20Women%27s%20D20%2C%202026&from=sports&mode=web"
     },
     {
       "name": "[UPCOMING] Nitto ATP Finals 2026",
@@ -2737,6 +2229,19 @@
       "reminder": null,
       "routing": "direct",
       "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4249512_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Benfica%20Women%20vs%20Roma%20Women%20-%20UEFA%20Women%27s%20Champions%20League%202026-27&from=sports&mode=web"
+    },
+    {
+      "name": "[UPCOMING] Day 1 - The RSM Classic 2026",
+      "group": "Fancode Worldwide",
+      "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250733_ENG%2Fenglish.m3u8",
+      "headers": {},
+      "key": null,
+      "logo": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic-2026_Web_1080_x_810_1794325334537.jpg",
+      "tvg_id": null,
+      "sid": "fancode-world-id",
+      "reminder": null,
+      "routing": "direct",
+      "watch_page": "https://xo.livexoapp1.workers.dev/watch?url=https%3A%2F%2Fmini.allinonereborn.site%2Ffcw%2Fplayer_world.html%3Furl%3Dhttps%253A%252F%252Fallinonereborn2.online%252Ffctest%252Fplaylists%252Fmatch_4250733_ENG%252Fenglish.m3u8&name=%5BUPCOMING%5D%20Day%201%20-%20The%20RSM%20Classic%202026&from=sports&mode=web"
     }
   ]
 }
