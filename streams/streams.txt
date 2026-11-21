@@ -1,68 +1,39 @@
-# 2026-11-21T01:52:01Z | 221 channels | https://xo.livexoapp1.workers.dev/sports
+# 2026-11-21T08:56:53Z | 159 channels | https://xo.livexoapp1.workers.dev/sports
 NPL 2026	https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd
+AUS vs ENG - HOP S1	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1m5p4laylw/out/v1/d06dee18492d4734b4a35dfa108e3a33/cenc.mpd
 NZ vs IND - HOP S1	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1rio9enthp/out/v1/349d14aa7815498f8c11ab98f7100aaa/cenc.mpd
-WBBL Women Big Bash League - HOP S1	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-ENG | 1st Test - Day 3 - 21 Nov 2026	https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3bkzzamaqw/out/v1/370ed2267d0948ffa93e9d682372bbe6/cenc.mpd
-HIN | 1st Test - Day 3 - 21 Nov 2026 HIN	https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tcweh3wnst/out/v1/b816200feff2480b9f360b4b47acc245/cenc.mpd
-KAN | 1st Test - Day 3 - 21 Nov 2026 KAN	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ysxbvttmj0/out/v1/9186803a89be48589f0fd7156bb35a03/cenc.mpd
-TAM | 1st Test - Day 3 - 21 Nov 2026 TAM	https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ddrozliwae/out/v1/afc46a48009f43d5978740015f0eabc3/cenc.mpd
-TEL | 1st Test - Day 3 - 21 Nov 2026 TEL	https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/k86nonyfjq/out/v1/d4bf12a8341c4ef9ad8eb834fcd90229/cenc.mpd
-ENG | NBA TV International: The Association	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kx7abkoz8y/out/v1/cb43624f6eb9424c9bfdd60ceea06549/cenc.mpd
-Practice 3	https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-ENG | FanCode 1: Stay Tuned Slate	https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-FC Porto vs USC Paredes - beIN SPORTS FHD	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?
-FC Porto vs USC Paredes - beIN Español FHD	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?
-Utah Jazz vs Phoenix Suns	https://chatgpt.hereisman.net/playlist/60582/load-playlist?&extension=.m3u8
-Wyoming vs New Mexico	https://chatgpt.hereisman.net/playlist/60577/load-playlist?&extension=.m3u8
-BKFC Fight Night: Richardson vs Oxendine	https://chatgpt.hereisman.net/playlist/60580/load-playlist?&extension=.m3u8
-Illinois vs Eastern Illinois	https://chatgpt.hereisman.net/playlist/60578/load-playlist?&extension=.m3u8
-North Carolina vs Marshall	https://chatgpt.hereisman.net/playlist/60576/load-playlist?&extension=.m3u8
-Seton Hall vs NC State	https://chatgpt.hereisman.net/playlist/60585/load-playlist?&extension=.m3u8
-Boxing : Jones vs Pettus - HOP S1	http://193.47.62.44/hls/4HHH.m3u8
-Oklahoma City Thunder vs New Orleans Pelicans - HOP S1	http://193.47.62.55/hls/UPPPA.m3u8
-Oklahoma City Thunder vs New Orleans Pelicans - HOP S2	https://www.rtmpcdn.com/live/ae9c1eb0-a887-4b80-9f75-911821bf4c0f.m3u8
-Chicago Bulls vs Washington Wizards - HOP S1	http://193.47.62.50/hls/UKKKA.m3u8
-Chicago Bulls vs Washington Wizards - HOP S2	https://www.rtmpcdn.com/live/76800f85-99a9-482b-baf1-17ca6193b63c.m3u8
-Detroit Pistons vs Toronto Raptors - HOP S1	http://193.47.62.59/hls/FHHHA.m3u8
-Detroit Pistons vs Toronto Raptors - HOP S2	https://www.rtmpcdn.com/live/e1828084-ab01-4ec8-a170-ca139c36571b.m3u8
-Cleveland Cavaliers vs Indiana Pacers - HOP S1	http://193.47.62.55/hls/UPPP.m3u8
-Cleveland Cavaliers vs Indiana Pacers - HOP S2	http://193.47.62.55/hls/UPPP.m3u8
-Brooklyn Nets vs Orlando Magic - HOP S1	http://193.47.62.50/hls/UKKK.m3u8
-Brooklyn Nets vs Orlando Magic - HOP S2	https://www.rtmpcdn.com/live/22507b2b-0fac-41c8-a4b7-d6b8752f4a2a.m3u8
-Atlanta Hawks vs Charlotte Hornets - HOP S1	http://193.47.62.59/hls/FHHH.m3u8
-Los Angeles Lakers vs Sacramento Kings - HOP S1	http://193.47.62.55/hls/UPPPAA.m3u8
-Denver Nuggets vs Houston Rockets - HOP S1	http://193.47.62.50/hls/UKKKAA.m3u8
-Utah Jazz vs Phoenix Suns - HOP S1	http://193.47.62.59/hls/FHHHAA.m3u8
-Formula 1 Las Vegas - HOP S1	http://193.47.62.44/hls/QRRRQQQ.m3u8
-Formula 1 Las Vegas - HOP S2	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/62c6dc62-673a-4d20-88db-b0603809fb9a/master.m3u8
-Club Tijuana vs Atlante - HOP S1	http://193.47.62.41/hls/QRRRQQ.m3u8
-Juarez vs Atlas - HOP S1	http://193.47.62.41/hls/QRRRQ.m3u8
-Wyoming vs New Mexico - HOP S1	http://193.47.62.41/hls/BBBBAA.m3u8
-Dep Cali vs Millonarios - HOP S1	http://193.47.62.41/hls/A555A.m3u8
-WWE Friday Night Smackdown - HOP S1	http://193.47.62.41/hls/A555AAAAQQQ.m3u8
-Michigan State vs Oregon - HOP S1	http://193.47.62.41/hls/A555AAAAQQ.m3u8
-Air Force vs UTEP - HOP S1	http://193.47.62.41/hls/A555AAAAQ.m3u8
-Puebla vs Atl San Luis - HOP S1	http://193.47.62.41/hls/A555AAAA.m3u8
-Toledo vs Bowling Green - HOP S1	http://193.47.62.41/hls/A555AAA.m3u8
-Duke vs Clemson - HOP S1	http://193.47.62.41/hls/A555AA.m3u8
-Bucaramanga vs America De Cali - HOP S1	http://193.47.62.41/hls/A555A.m3u8
-Palestino vs Union La Calera - HOP S1	http://193.47.62.41/hls/A555.m3u8
-UCF vs Iowa State - HOP S1	http://193.47.62.41/hls/BBBBAA.m3u8
-Velez Sarsfield vs Belgrano - HOP S1	http://193.47.62.41/hls/BBBBA.m3u8
-Recoleta vs Guarani - HOP S1	http://193.47.62.41/hls/BBBB.m3u8
-MMA ARES 45 - HOP S1	http://193.47.62.50/hls/TREGREGRE.m3u8
-New Zealand vs India - HOP S1	http://193.47.62.41/hls/qaqaqa.m3u8
-1st Test - Day 3 - 21 Nov 2026 [ENG] - India Tour of New Zealand 2026	https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795267748~acl=/*~id=76873336080048023056706638845774~hmac=c9d50e4fa2903540dc55e6879a1700eae4dd8732f1a2d76bff7c5f0d382f0572
-1st Test - Day 3 - 21 Nov 2026 [HIN] - India Tour of New Zealand 2026	https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795267748~acl=/*~id=76873336080048023056706638845774~hmac=c9d50e4fa2903540dc55e6879a1700eae4dd8732f1a2d76bff7c5f0d382f0572
-1st Test - Day 3 - 21 Nov 2026 [TAM] - India Tour of New Zealand 2026	https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795267748~acl=/*~id=76873336080048023056706638845774~hmac=c9d50e4fa2903540dc55e6879a1700eae4dd8732f1a2d76bff7c5f0d382f0572
-1st Test - Day 3 - 21 Nov 2026 [TEL] - India Tour of New Zealand 2026	https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795267748~acl=/*~id=76873336080048023056706638845774~hmac=c9d50e4fa2903540dc55e6879a1700eae4dd8732f1a2d76bff7c5f0d382f0572
-1st Test - Day 3 - 21 Nov 2026 [KAN] - India Tour of New Zealand 2026	https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795267748~acl=/*~id=76873336080048023056706638845774~hmac=c9d50e4fa2903540dc55e6879a1700eae4dd8732f1a2d76bff7c5f0d382f0572
-1st Test - Day 3 | India Tour of New Zealand 2026 [English]	https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795256449~acl=/*~id=23774108095885234202984716157965~hmac=9d981f66eeadcadcb49e68ddc3656e6d86c540e0c6f4e8a34a98eb5a4611933f
-ENG | 1st Test - Day 3 - 21 Nov 2026	https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchb442/cricodi_2011-eng-1-ts-hls/std-lrh-800300010.m3u8
-HIN | 1st Test - Day 3 - 21 Nov 2026	https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchc857/cricodi_2011-hin-1-ts-hls/std-lrh-800300010.m3u8
-TAM | 1st Test - Day 3 - 21 Nov 2026	https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpche169/cricodi_2011-tam-1-ts-hls/std-lrh-800300010.m3u8
-TEL | 1st Test - Day 3 - 21 Nov 2026	https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpch8872/cricodi_2011-tel-1-ts-hls/std-lrh-800300010.m3u8
-KAN | 1st Test - Day 3 - 21 Nov 2026	https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchc77b/cricodi_2011-kan-1-ts-hls/std-lrh-800300010.m3u8
+WBBL Women Big Bash League - HOP S1	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wxizovddui/out/v1/184506c2d6ae4bd7a6e64e76f6b14223/cenc.mpd
+WBBL Women Big Bash League - HOP S2	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+ENG | NBA TV International: WNBL Full Court	https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/kx7abkoz8y/out/v1/cb43624f6eb9424c9bfdd60ceea06549/cenc.mpd
+ENG | FanCode 2: Stay Tuned Slate	https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+ENG | FanCode 1: Sydney Sixers vs Perth Scorchers	https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+Galatasaray vs Samsunspor - beIN SPORTS 1 FHD	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?
+Galatasaray vs Samsunspor - BeIN SPORTS 3 FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd
+CE Sabadell vs Granada - LaLiga Hypermotion	https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+NEC Nijmegen vs PSV Eindhoven - SportDigital Fussball	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+Palmeiras vs Flamengo - PREMIER SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+Bahia vs Coritiba - PREMIERE BR FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+Bahia vs Coritiba - SporTV BR FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+Chapecoense vs Cruzeiro - PREMIERE BR FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+Formula 1 2026 - Las Vegas GP	https://chatgpt.hereisman.net/playlist/60456/load-playlist-multi?&extension=.m3u8
+BKFC Fight Night: Richardson vs Oxendine	https://chatgpt.hereisman.net/playlist/60579/load-playlist?&extension=.m3u8
+Amari Jones vs DeAundre Pettus	https://chatgpt.hereisman.net/playlist/60522/load-playlist?&extension=.m3u8
+Brisbane Roar vs Sydney FC - HOP S1	http://193.47.62.41/hls/TPPPPAAAAQQ.m3u8
+MotoGP Grand Prix of Portugal - HOP S1	http://193.47.62.41/hls/TPPPP.m3u8
+Melbourne United vs New Zealand Breakers - HOP S1	http://193.47.62.41/hls/DEEEEQ.m3u8
+Australia vs England - HOP S1	http://193.47.62.41/hls/SSSSAAAAQQQQ.m3u8
+Mamelodi Sundowns U23 vs Golden Arrows U23 - HOP S1	http://193.47.62.41/hls/BBBB.m3u8
+Incheon vs Ulsan HD - HOP S1	http://193.47.62.41/hls/TPPPPAAAAQ.m3u8
+Gangwon vs Daejeon - HOP S1	http://193.47.62.41/hls/TPPPPAAAA.m3u8
+Gamba Osaka vs Okayama - HOP S1	http://193.47.62.41/hls/TPPPPAAA.m3u8
+Tasmania JackJumpers vs Illawarra Hawks - HOP S1	http://193.47.62.41/hls/DEEEE.m3u8
+Kawasaki Frontale vs Avispa Fukuoka - HOP S1	http://193.47.62.41/hls/TPPPPAA.m3u8
+Cerezo Osaka vs FC Tokyo - HOP S1	http://193.47.62.41/hls/TPPPPA.m3u8
+Sydney W vs Canberra W - HOP S1	http://193.47.62.41/hls/TPPPP.m3u8
+Central Coast Mariners vs Perth Glory - HOP S1	http://193.47.62.41/hls/SSSSAAAAQQQQ.m3u8
+Brisbane Roar W vs Melbourne City W - HOP S1	http://193.47.62.41/hls/SSSSAAAAQQQ.m3u8
+Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026	https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293861~acl=/*~id=03209010242744482316897217863697~hmac=cb1c1dbecc7ac294d9db84add14ea4881c21adcd36b449e6ab223fe624743d7c
+ENG | Sri Lanka A vs Hong Kong China - 21 Nov 2026	https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8
 GOLF EVENTO Vs GOLF EVENTO - SKY GOLF FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agdcjco1zo/out/v1/e7aec5bb76ba477b8c5a59213af465ad/cenc.mpd
 GOLF EVENTO Vs GOLF EVENTO - SKY GOLF ALT	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3eyutz3sbr/out/v1/369f8b2194004b5192c0c8e6a22822bf/cenc.mpd
 GOLF EVENTO Vs GOLF EVENTO - Golf Channel - HD	https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
@@ -70,11 +41,12 @@ GOLF EVENTO Vs GOLF EVENTO - LOW QUALITY (USE VPN)	http://193.47.62.44/hls/VFFFA
 SPORTS LIVE Vs SPORTS LIVE - NFL SERVER FHD	https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
 Formula 1 Vs Formula 1 - FANCODE FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 Formula 1 Vs Formula 1 - SporTV3 BR FHD	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-Formula 1 Vs Formula 1 - TSN5 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 Formula 1 Vs Formula 1 - SKY SPORT F1 FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd
+Formula 1 Vs Formula 1 - TSN SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+Formula 1 Vs Formula 1 - TSN5 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 Formula 1 Vs Formula 1 - FORMULA TV HD	https://chatgpt.hereisman.net/playlist/60456/load-playlist-multi?
-Formula 1 Vs Formula 1 - SPORTSCAST FHD	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0a4b8981-9dac-4551-bdfe-b23d10b10693/master.m3u8
-Formula 1 Vs Formula 1 - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/R333AAAA.m3u8
+Formula 1 Vs Formula 1 - SPORTSCAST FHD	https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/62c6dc62-673a-4d20-88db-b0603809fb9a/master.m3u8
+Formula 1 Vs Formula 1 - LOW QUALITY (USE VPN)	http://193.47.62.44/hls/QRRRQQQ.m3u8
 Formula 1 Vs Formula 1 - CANAL MX FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
 Formula 1 Vs Formula 1 - TSN2 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 Formula 1 Vs Formula 1 - SKY F1 (ITALY)	https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
@@ -85,21 +57,6 @@ MotorGP Vs MotorGP - SKY SPORT MIX FHD	https://otte.cache.aiv-cdn.net/iad-nitro/
 MotorGP Vs MotorGP - MotoGP FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 MotorGP Vs MotorGP - SP0TV FHD	https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 MotorGP Vs MotorGP - SKY TOP EVENT FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd
-SmackDown Vs SmackDown - MULTI QUALITY	https://chatgpt.hereisman.net/playlist/58881/load-playlist-multi?&.m3u8
-SmackDown Vs SmackDown - WWE SMACK+ HD	https://chatgpt.hereisman.net/playlist/58881/load-playlist?&.m3u8
-SmackDown Vs SmackDown - WWE SMACK	https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8
-SmackDown Vs SmackDown - WWE HD 2	https://admin2.formaturamaxi.com.br/wwe.m3u8
-SmackDown Vs SmackDown - WWE LIVE FHD	https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8
-SmackDown Vs SmackDown - HD QUALITY SMACK	https://admin2.formaturamaxi.com.br/wwe.m3u8
-SmackDown Vs SmackDown - WWE LIVE FHD4	https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
-SmackDown Vs SmackDown - STREAM HD QUALITY	https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-SmackDown Vs SmackDown - HD QUALITY SMK	https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-SmackDown Vs SmackDown - SmackDown HD	https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
-SmackDown Vs SmackDown - WWE LIVE FHD5	https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-SmackDown Vs SmackDown - WWE LIVE FHD6	https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8
-SmackDown Vs SmackDown - SPORT CAST FHD5	https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-SmackDown Vs SmackDown - WWE LIVE FHD1	https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
-SmackDown Vs SmackDown - USA TV (US VPN)	https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 TENNIS | EVENTO Vs TENNIS | EVENTO - SKY SPORT TENNIS FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd
 TENNIS | EVENTO Vs TENNIS | EVENTO - SKY TOP EVENT FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd
 TENNIS | EVENTO Vs TENNIS | EVENTO - BeIN1 SPORTSFHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
@@ -113,47 +70,34 @@ TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS + SPORTS	https://bl.rutube.ru/livest
 TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS PLUS	https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
 TENNIS | EVENTO Vs TENNIS | EVENTO - BEIN3 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 TENNIS | EVENTO Vs TENNIS | EVENTO - TSN3 SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
-New Zealand Vs India - WILLOW FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd
-New Zealand Vs India - PRIME ENG FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2crmhngewx/out/v1/7005e762d047462aa11136773a136dfa/cenc.mpd?
-New Zealand Vs India - PRIME HINDI FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0edrlrm8n/out/v1/769e4d71dfec4c4cb8189a0bf5051266/cenc.mpd?
+New Zealand Vs India - WILLOW FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1rio9enthp/out/v1/349d14aa7815498f8c11ab98f7100aaa/cenc.mpd
+New Zealand Vs India - PRIME ENG FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mebvsdzu7s/out/v1/563c92c11fff4290a160e365f6996c34/cenc.mpd
+New Zealand Vs India - PRIME HINDI FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szeafaauqf/out/v1/6b31170c3b5749928bff04fc71f02b06/cenc.mpd
 New Zealand Vs India - TNT1UK SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 New Zealand Vs India - TNT2UK SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 New Zealand Vs India - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/qaqaqa.m3u8
+New Zealand Vs India - WILLOW ALT	https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1rio9enthp/out/v1/349d14aa7815498f8c11ab98f7100aaa/cenc.mpd
+Australia Vs England - WILLOW FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1m5p4laylw/out/v1/d06dee18492d4734b4a35dfa108e3a33/cenc.mpd
+Australia Vs England - FANCODE FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+Australia Vs England - WILLOW ALT	https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1m5p4laylw/out/v1/d06dee18492d4734b4a35dfa108e3a33/cenc.mpd
+Australia Vs England - SKY CRICKET FHD	https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+Australia Vs England - WILLOW HD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+Australia Vs England - FANCODE SD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+Australia Vs England - EUROSPORT FHD	https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
+Australia Vs England - LOW QUALITY (USE VPN)	http://193.47.62.41/hls/SSSSAAAAQQQQ.m3u8
+Australia Vs England - FANCODE FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 BBL Women's Vs BBL Women's - WILLOW SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayibqpy7eg/out/v1/fe38511af6f54d7db4ba768f02ba106b/cenc.mpd?
 BBL Women's Vs BBL Women's - FANCODE FHD	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
 BBL Women's Vs BBL Women's - WILLOW CRICBUZZ	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 BBL Women's Vs BBL Women's - WILLOW FHD ALT	https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd
-Club Puebla Vs Atlético San Luis - HD QUALITY	https://live.vivo155.com/live/sd-1-4553939.m3u8?txSecret=c8ba5497a02f5cd6aafb2a3421e1f059&txTime=6B0102D8
-Michigan State Spartans Vs Oregon Ducks - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8
-Toledo Rockets Vs Bowling Green Falcons - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8
-UCF Knights Vs Iowa State Cyclones - FOX1 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-Air Force Falcons Vs UTEP Miners - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8
-Duke Blue Devils Vs Clemson Tigers - TSN3 SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
-Duke Blue Devils Vs Clemson Tigers - TSN4 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-Duke Blue Devils Vs Clemson Tigers - NOVA1 SPORTS FHD	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-Detroit Pistons Vs Toronto Raptors - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60548/load-playlist-multi?&.m3u8
-Detroit Pistons Vs Toronto Raptors - HD QUALITY	https://chatgpt.hereisman.net/playlist/60559/load-playlist-multi?&.m3u8
-Oklahoma City Thunder Vs New Orleans Pelicans - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60556/load-playlist-multi?&.m3u8
-Oklahoma City Thunder Vs New Orleans Pelicans - NBA PASS FHD	https://fernfiber.s3.ca-central-1.amazonaws.com/thunder.m3u8
-Oklahoma City Thunder Vs New Orleans Pelicans - NBA LEAGUEPASS FHD	https://justpasstheball.online/live/new-orleans-pelicans-vs-oklahoma-city-thunder.m3u8
-Chicago Bulls Vs Washington Wizards - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60569/load-playlist-multi?&.m3u8
-Chicago Bulls Vs Washington Wizards - HD QUALITY	https://chatgpt.hereisman.net/playlist/60555/load-playlist-multi?&.m3u8
-Chicago Bulls Vs Washington Wizards - NBA LEAGUEPASS FHD	https://justpasstheball.online/live/washington-wizards-vs-chicago-bulls.m3u8
-Cleveland Cavaliers Vs Indiana Pacers - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60547/load-playlist-multi?&.m3u8
-Cleveland Cavaliers Vs Indiana Pacers - NBA PASS FHD	https://justpasstheball.online/live/indiana-pacers-vs-cleveland-cavaliers.m3u8
-Atlanta Hawks Vs Charlotte Hornets - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8
-Brooklyn Nets Vs Orlando Magic - TSN1 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-Brooklyn Nets Vs Orlando Magic - TSN5 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
-Brooklyn Nets Vs Orlando Magic - STREAM TV + HD	https://chatgpt.hereisman.net/playlist/60557/load-playlist-multi?&.m3u8
-Brooklyn Nets Vs Orlando Magic - NBA LIVE HD	https://chatgpt.hereisman.net/playlist/60558/load-playlist-multi?&.m3u8
-Brooklyn Nets Vs Orlando Magic - NBA LIVE	https://chatgpt.hereisman.net/playlist/60551/load-playlist-multi?&.m3u8
+Melbourne Demons Vs Carlton Blues - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8
 North Melbourne Vs Sydney Swans - TNT1UK SPORTS FHD	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 North Melbourne Vs Sydney Swans - TSN2 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 North Melbourne Vs Sydney Swans - FOX2 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-Wyoming Cowboys Vs New Mexico Lobos - FOX1 SPORTS FHD	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-Utah Jazz Vs Phoenix Suns - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8
-India tour of New Zealand 2026 - 1st Test - New Zealand vs India	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd
-Womens Big Bash League 2026 - 29th Match - Hobart Hurricanes Women vs Sydney Thunder Women	https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/suaftkmidi/out/v1/f2b9479cc026404b986f0362efa396f3/cenc.mpd
+Hong Kong Vs Tonga - STREAM TV + HD	https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8
+Brisbane Roar Vs Sydney FC - STREAM TV + HD	https://file.genoads.com/ch1.m3u8
+Womens Big Bash League 2026 - 30th Match - Sydney Sixers Women vs Perth Scorchers Women	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd
+Australia vs. England	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1m5p4laylw/out/v1/d06dee18492d4734b4a35dfa108e3a33/cenc.mpd
 FS 1 - AQ	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 FS 2 - AQ	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 FOX SPORTS 1	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
@@ -164,56 +108,50 @@ FOX SPORTS USA	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xr
 FOX SPORTS PREMIUM	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 FANCODE - AQ	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 FANCODE - AQ (Server 2)	https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-[UPCOMING] Sydney Sixers Women vs Perth Scorchers Women - Women's Big Bash League, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250416_ENG%2Fenglish.m3u8
-[UPCOMING] Australia vs England - England tour of Australia, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250643_ENG%2Fenglish.m3u8
 [UPCOMING] Brescia Lions vs Napoli Knights - Italia T10 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251136_ENG%2Fenglish.m3u8
 [UPCOMING] Lumbini Lions vs Sudurpaschim Royals - Nepal Premier League Season 3, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250386_ENG%2Fenglish.m3u8
 [UPCOMING] Milan Icons vs Venice Livewires - Italia T10 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251137_ENG%2Fenglish.m3u8
-[UPCOMING] Muscat Shaheens  Women vs Sohar Smashers Women - Oman Women's D20, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250903_ENG%2Fenglish.m3u8
-[UPCOMING] South Asia vs Sub Saharan Africa - Test Twenty Championship 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250953_ENG%2Fenglish.m3u8
-[UPCOMING] OCA Strikers Women vs Muscat Thunders Women - Oman Women's D20, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250904_ENG%2Fenglish.m3u8
 [UPCOMING] New South Wales vs Queensland - Sheffield Shield, 2026/27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249674_ENG%2Fenglish.m3u8
-[UPCOMING] Millwall F.C. vs Queens Park Rangers F.C. - EFL Championship 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250011_ENG%2Fenglish.m3u8
+[UPCOMING] South Asia vs Sub Saharan Africa - Test Twenty Championship 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250953_ENG%2Fenglish.m3u8
+[UPCOMING] Brisbane Heat Women vs Adelaide Strikers Women - Women's Big Bash League, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250417_ENG%2Fenglish.m3u8
+[UPCOMING] Netherlands Women vs Sri Lanka Women - ICC Women's Emerging Nations Trophy, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250682_ENG%2Fenglish.m3u8
+[UPCOMING] Pakistan Women vs Scotland Women - ICC Women's Emerging Nations Trophy, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250683_ENG%2Fenglish.m3u8
+[UPCOMING] OCA Strikers Women vs Muscat Thunders Women - Oman Women's D20, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250904_ENG%2Fenglish.m3u8
 [UPCOMING] Desert Vipers vs MI Emirates - DP World ILT20 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251049_ENG%2Fenglish.m3u8
-[UPCOMING] Deportivo Alaves vs Deportivo de La Coruna - LALIGA 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4247697_ENG%2Fenglish.m3u8
 [UPCOMING] Danube Titans  Women vs OCA Invincibles Women - Oman Women's D20, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250905_ENG%2Fenglish.m3u8
+[UPCOMING] Millwall F.C. vs Queens Park Rangers F.C. - EFL Championship 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250011_ENG%2Fenglish.m3u8
+[UPCOMING] Deportivo Alaves vs Deportivo de La Coruna - LALIGA 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4247697_ENG%2Fenglish.m3u8
 [UPCOMING] Wolverhampton Wanderers F.C. vs Charlton Athletic F.C - EFL Championship 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250012_ENG%2Fenglish.m3u8
 [UPCOMING] Rayo Vallecano vs Valencia CF - LALIGA 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4247692_ENG%2Fenglish.m3u8
 [UPCOMING] Sevilla FC vs Real Betis - LALIGA 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4247689_ENG%2Fenglish.m3u8
 [UPCOMING] Real Madrid vs RC Celta - LALIGA 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4247691_ENG%2Fenglish.m3u8
+[UPCOMING] Melbourne Stars Women vs Melbourne Renegades Women - Women's Big Bash League, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250418_ENG%2Fenglish.m3u8
 [UPCOMING] Liverpool Women vs Chelsea F.C. Women - Barclays Women's Super League 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250769_ENG%2Fenglish.m3u8
-[UPCOMING] Semi-Final 1 - BWF Super 500 - LI-NING Hong Kong Open 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250637_ENG%2Fenglish.m3u8
-[UPCOMING] Reverse Race - F1 ACADEMY LAS VEGAS 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_139702_ENG%2Fenglish.m3u8
 [UPCOMING] London City Lionesses vs Crystal Palace Women - Barclays Women's Super League 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250770_ENG%2Fenglish.m3u8
-[UPCOMING] Brisbane Heat Women vs Adelaide Strikers Women - Women's Big Bash League, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250417_ENG%2Fenglish.m3u8
-[UPCOMING] Netherlands Women vs Sri Lanka Women - ICC Women's Emerging Nations Trophy, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250682_ENG%2Fenglish.m3u8
-[UPCOMING] Pakistan Women vs Scotland Women - ICC Women's Emerging Nations Trophy, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250683_ENG%2Fenglish.m3u8
-[UPCOMING] Tenerife vs RCD Mallorca - LALIGA Hypermotion 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250751_ENG%2Fenglish.m3u8
-[UPCOMING] Qualifying - F1 HEINEKEN LAS VEGAS GRAND PRIX 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_139520_ENG%2Fenglish.m3u8
-[UPCOMING] Auckland vs Melbourne Victory - A-League 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249859_ENG%2Fenglish.m3u8
-[UPCOMING] Central Coast Mariners vs Perth Glory - A-League 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249860_ENG%2Fenglish.m3u8
+[UPCOMING] Ireland Women vs Zimbabwe Women - ICC Women's Emerging Nations Trophy, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250684_ENG%2Fenglish.m3u8
 [UPCOMING] Day 2 - REPSOL GRAND PRIX OF PORTUGAL 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_139985_ENG%2Fenglish.m3u8
 [UPCOMING] Brisbane Roar vs Sydney FC - A-League 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249861_ENG%2Fenglish.m3u8
 [UPCOMING] Semi-Final 2 - BWF Super 500 - LI-NING Hong Kong Open 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250638_ENG%2Fenglish.m3u8
-[UPCOMING] Match 7 - Nitto ATP Finals 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250731_ENG%2Fenglish.m3u8
-[UPCOMING] Nitto ATP Finals 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250945_ENG%2Fenglish.m3u8
-[UPCOMING] Melbourne Stars Women vs Melbourne Renegades Women - Women's Big Bash League, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250418_ENG%2Fenglish.m3u8
-[UPCOMING] Nitto ATP Finals 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250946_ENG%2Fenglish.m3u8
+[UPCOMING] Team Footy vs Team Cricket - Gold Clash T20 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251167_ENG%2Fenglish.m3u8
+[UPCOMING] Napoli Knights vs Venice Livewires - Italia T10 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251138_ENG%2Fenglish.m3u8
+[UPCOMING] Australasia vs Europe - Test Twenty Championship 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250954_ENG%2Fenglish.m3u8
+[UPCOMING] Tenerife vs RCD Mallorca - LALIGA Hypermotion 2026-27	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250751_ENG%2Fenglish.m3u8
+[UPCOMING] Sharjah Warriorz vs Gulf Giants - DP World ILT20 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251050_ENG%2Fenglish.m3u8
+[UPCOMING] Brescia Lions vs Rome Gladiators - Italia T10 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251139_ENG%2Fenglish.m3u8
+[UPCOMING] OCA Strikers Women vs Wadi Kabir Royals Women - Oman Women's D20, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250906_ENG%2Fenglish.m3u8
+[UPCOMING] Men's Doubles - Nitto ATP Finals 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250731_ENG%2Fenglish.m3u8
+[UPCOMING] Alcaraz vs Shelton - Nitto ATP Finals 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250945_ENG%2Fenglish.m3u8
+[UPCOMING] Men's Doubles - Nitto ATP Finals 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250946_ENG%2Fenglish.m3u8
 [UPCOMING] Day 3 - World Feed - The RSM Classic 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250735_ENG%2Fenglish.m3u8
-[UPCOMING] Nitto ATP Finals 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250947_ENG%2Fenglish.m3u8
-[UPCOMING] Ireland Women vs Zimbabwe Women - ICC Women's Emerging Nations Trophy, 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250684_ENG%2Fenglish.m3u8
-[LIVE] 1st Test - Day 3 - 21 Nov 2026 [ENG] - Sony Sports Ten 5 [ENG]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2119931%2Fcricodi_2011%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795268964~acl%3D%2F*~id%3D93997148578709628648242617432710~hmac%3D4b153dd904081f2079dfb9f40fee5a63f6468992804cfda46917a8c89c53eab2
-[LIVE] 1st Test - Day 3 - 21 Nov 2026 [HIN] - Sony Sports Ten 5 [HIN]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2119921%2Fcricodi_2011%2FHIN%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795268964~acl%3D%2F*~id%3D93997148578709628648242617432710~hmac%3D4b153dd904081f2079dfb9f40fee5a63f6468992804cfda46917a8c89c53eab2
-[LIVE] 1st Test - Day 3 - 21 Nov 2026 [TAM] - Sony Sports Ten 5 [TAM]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2119951%2Fcricodi_2011%2FTAM%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795268964~acl%3D%2F*~id%3D93997148578709628648242617432710~hmac%3D4b153dd904081f2079dfb9f40fee5a63f6468992804cfda46917a8c89c53eab2
-[LIVE] 1st Test - Day 3 - 21 Nov 2026 [TEL] - Sony Sports Ten 5 [TEL]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2119941%2Fcricodi_2011%2FTEL%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795268964~acl%3D%2F*~id%3D93997148578709628648242617432710~hmac%3D4b153dd904081f2079dfb9f40fee5a63f6468992804cfda46917a8c89c53eab2
-[LIVE] 1st Test - Day 3 - 21 Nov 2026 [KAN] - Sony Sports Ten 5 [KAN]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2119782%2Fcricodi_2011%2FKAN%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795268964~acl%3D%2F*~id%3D93997148578709628648242617432710~hmac%3D4b153dd904081f2079dfb9f40fee5a63f6468992804cfda46917a8c89c53eab2
+[UPCOMING] Zverev vs Medvedev - Nitto ATP Finals 2026	https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250947_ENG%2Fenglish.m3u8
+[LIVE] Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG] - Sony Sports Ten 5 [ENG]	https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2120299%2Fcriclive2111%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795294467~acl%3D%2F*~id%3D05092363955042116627691734543701~hmac%3D426222bfe8ad0f4c7c6dbf5bebc3bb2738f20188cbeb5d505b8d8c7eb65b2655
 [UPCOMING] Upcoming - India A vs Pakistan Shaheens - DP World Asia Cup Rising Stars Men's 2026 - Sony Sports Ten 5 [HIN]	https://events-1fe.pages.dev/player.html?url=
-[UPCOMING] Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - 1st Test - India Tour Of New Zealand 2026 - Sony Sports Ten 5 [HIN]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - DP World Asia Cup Rising Stars Men's 2026 - Sony Sports Ten 5 [HIN]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - India A vs UAE - DP World Asia Cup Rising Stars Men's 2026 - Sony Sports Ten 5 [HIN]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - MG Indian Super League 2026-27 - Sony Sports Ten 2 [HIN]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - Matchday 5 - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=
+[UPCOMING] Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - Lille vs Bayern Munich - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=
 [UPCOMING] Upcoming - Man City vs Napoli - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]	https://events-1fe.pages.dev/player.html?url=
