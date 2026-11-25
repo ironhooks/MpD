@@ -1,21 +1,21 @@
 #EXTM3U
-# Playlist generated 2026-11-25T11:43:28Z from https://xo.livexoapp1.workers.dev/sports
+# Playlist generated 2026-11-25T20:40:45Z from https://xo.livexoapp1.workers.dev/sports
 # DRM entries carry a ClearKey kid:key pair; players must support DASH + ClearKey.
+#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="World Wide",WBBL Women Big Bash League - HOP S1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="World Wide",ILT International League T20 - HOP S1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvpxnd9lm7/out/v1/ec8487d426a14be59423e84d2fb4c8ee/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="World Wide",SA vs BAN - HOP S1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/23pcq587cm/out/v1/ee8c4d2ac4094688a867f0d1a76aef2b/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="World Wide",WBBL Women Big Bash League - HOP S1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="World Wide",WBBL Women Big Bash League - HOP S2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg" group-title="World Wide",ENG | NBA TV International: WNBL Full Court
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
@@ -37,237 +37,709 @@ https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/avql
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Ecuador U17 vs South Korea U17 - D SPORTS FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Burnley vs Birmingham City - PARAMOUNT+ FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Uruguay U17 vs France U17 - TSN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Uruguay U17 vs France U17 - FOX SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_key=41af318fd254b0297f50830d70c255ed:71e5e0b04a01fcd8f69bd54f3a023e4b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4edtkjkxom/out/v1/557b1ebffddd42908b09cccbd24eca86/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",UEFA Champions League GOLAZO - PARAMOUNT+ FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Uruguay U17 vs France U17 - D SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Denmark U17 vs Argentina U17 - D SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_key=42af7e89096bda09d4a17fb370f19c68:da55b15efd83e29867f871bcbfd49c79
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sunuzjlkoh/out/v1/6b019ddc91944f1eab74e89888a9dae4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",UEFA Champions League GOLAZO - DAZN DE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Sabah FK vs FC Barcelona - TNT BRASIL FHD
+#KODIPROP:inputstream.adaptive.license_key=d8a31860c2d69455e080960595dbacfe:680feb322fc8060028f4577eeea9f25d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fjnjxf2kgd/out/v1/70d5533d5eda4fb9bdcb31474dcbdfac/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Paris Saint-Germain vs AS Roma - DAZN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c22553e1fada7a1f7e04dd812c1d63ce:09aa651b7390082f0a45dc2647bc3270
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k3gfvt9dts/out/v1/3e27275afe8e4197857206e72e2c037c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Paris Saint-Germain vs AS Roma - PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21c0e2ace56362f19b65b3b0e6e5b66f:ea52a1be65a13ddd7c358028a0854866
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jt8139h35n/out/v1/fa8bec2a768c4c7786095b7face05932/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Paris Saint-Germain vs AS Roma - VIX Español FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe2e494b16910abc8e120170e200ae8a:3dd29ac12d2ce2fd0b3e1c855b4d813c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sf4cksmfsp/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Paris Saint-Germain vs AS Roma - DAZN DE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cdd9c1b206a5c805fada903b1480850:159b8bb5afe8d4410b472009a25043d0
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vu9pioqq5r/out/v1/6183feaf6ab1475fa4f978692b6dc6e3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Paris Saint-Germain vs AS Roma - TNT BRASIL FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="World Wide",Persib Bandung vs Seoul - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZTTTAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="World Wide",Horse Racing - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.55/hls/vavavava.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="World Wide",Horse Racing - HOP S2
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.55/hls/vavavavaq.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840207581444464640/O24jzJBh_400x400.jpg" group-title="World Wide",Kryvbas vs FC Kharkiv - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZTTTAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="World Wide",Kashima Antlers vs Jeonbuk - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZTTTA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="World Wide",Gamba Osaka vs Port FC - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZTTT.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="World Wide",Urawa Reds vs Cerezo Osaka - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.59/hls/DEDEDEAAAQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="World Wide",V-Varen Nagasaki vs Kawasaki Frontale - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.59/hls/DEDEDEAAAQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="World Wide",Okayama vs Shimizu S-Pulse - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.59/hls/DEDEDEAAAQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="World Wide",Mito vs Tokyo Verdy - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.59/hls/DEDEDEAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="World Wide",FC Tokyo vs Sanfrecce Hiroshima - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.59/hls/DEDEDEAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="World Wide",Chiba vs Nagoya Grampus - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.59/hls/DEDEDEA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="World Wide",Avispa Fukuoka vs Yokohama F Marinos - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.59/hls/DEDEDE.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="World Wide",South Africa vs Bangladesh - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.59/hls/RREGEGEAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1714774345271435264/fFEmLYDW_400x400.jpg" group-title="World Wide",Melbourne Renegades W vs Sydney Sixers W - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.41/hls/AAAA.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="World Wide",Melbourne Victory vs Viettel - HOP S1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://193.47.62.41/hls/FRFRFR.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="World Wide",Melbourne Victory vs Viettel - HOP S2
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/d5a0f31e-a95a-42ea-9b08-6ad508bc3d50.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Victory%20Vs%20Th%E1%BB%83%20C%C3%B4ng%20-%20Viettel.jpg" group-title="SP",Melbourne Victory Vs Thể Công - Viettel - TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Victory%20Vs%20Th%E1%BB%83%20C%C3%B4ng%20-%20Viettel.jpg" group-title="SP",Melbourne Victory Vs Thể Công - Viettel - SM IPTV LIVE
-https://www.rtmpcdn.com/live/d5a0f31e-a95a-42ea-9b08-6ad508bc3d50.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Victory%20Vs%20Th%E1%BB%83%20C%C3%B4ng%20-%20Viettel.jpg" group-title="SP",Melbourne Victory Vs Thể Công - Viettel - FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4249025_english_hls_1a5ecea1e44694_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Victory%20Vs%20Th%E1%BB%83%20C%C3%B4ng%20-%20Viettel.jpg" group-title="SP",Melbourne Victory Vs Thể Công - Viettel - SD STREAM
-http://193.47.62.41/hls/FRFRFR.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - WILLOW - AQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Stoke City vs Millwall - DAZN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - FANCODE - AQ
+#KODIPROP:inputstream.adaptive.license_key=51f084c8a905eabaac4a48c583d09acf:8ea17f26a010a20555313094eb0b72e9
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tj16i9l7zw/out/v1/0cdb9799d92e4dbea458cb9962453a0f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Stoke City vs Millwall - beIN ENGLISH FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - TAPMAD - AQ
-https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - TAMASHA PRO AQ
-https://cdn03lhr-n.tamashaweb.com:8087/appcast/BANvsSAF-SVOD-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - EURO SPORTS - AQ
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",LOSC Lille vs FC Bayern München - DAZN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
-https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - SKY CRICKET - AQ
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - WILLOW S2 - AQ
+#KODIPROP:inputstream.adaptive.license_key=ef466cf774697ba79d625e21877524cb:2b711d2524ebcdd69b4eeca040b52cf7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vhccgbv7ye/out/v1/9935c884df8b48afaf8ec4adf387e174/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",LOSC Lille vs FC Bayern München - PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - FANCODE - SD
+#KODIPROP:inputstream.adaptive.license_key=6f4f7937d535c4647085d7c87fdb4c00:8d50f081cc34ec71e8627777c6c472de
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/torrgmtfxv/out/v1/ae1b106738a043209f235490660a6124/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",LOSC Lille vs FC Bayern München - DAZN DE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - A SPORTS - AQ
-https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - A SPORTS HD
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - SD STREAM
-http://193.47.62.59/hls/RREGEGEAA.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/South%20Africa%20Vs%20Bangladesh.jpg" group-title="SP",South Africa Vs Bangladesh - FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4250651_english_hls_d4285d152438599_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Renegades%20Women%20Vs%20Brisbane%20Heat%20Women.jpg" group-title="SP",Melbourne Renegades Women Vs Brisbane Heat Women - WILLOW - AQ
+#KODIPROP:inputstream.adaptive.license_key=ed324c8fc2afd6face6b080ad45f3cff:e1b34750882683921f14fea30b408a1f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/btxthrhwoe/out/v1/b53cf2b282b04cf19496c511561b3bcc/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Atlético Madrid vs Viking FK - DAZN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Renegades%20Women%20Vs%20Brisbane%20Heat%20Women.jpg" group-title="SP",Melbourne Renegades Women Vs Brisbane Heat Women - CRICKET AU AQ
-https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2ZSbXCxaSwFFBUKQ6zJP1r1zTb6LraaFvz4JpdbGM499UGTZPdBUaC4QRMnbx4Qgff2KqxypDuiQ/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc6EVhp1qQPKscddSPaexvFJxAWLJVo5ag7d2YUvPsEZBffyWCAhWzaA4z5HiuqESb8bWwFvQy54ymw6HkywYyTp6s5uff5iK1y1RSvJaMh8bFcN3DYuB6J6kZ6oGTG5gTG1aENGxqN8eQL8qpPC9LS2k9i7F26VGQXz8VUtBaRSdJcr56NEzc7EWRyDrv8HhoPmmKTciJBitAoZVMsD2GbUJdJ2GMYqtE6ZoLKPzxVUasxZ5wxED4Bo2LV2XkPUosrY7AoJ5Soj4LbmAzGsi6rQrPki99Zq6UDhuNKSLfAjkH8Sb6fb4ESC1GyAjjvEhcrM2LWtKgYe7RPVSS7vz61SSucYduKsUpRM12LoJCqyk28Zxk9xiyVDr1xrfQs59cQuKVsCqRr1yLVAHn4KPf33n1mpEBCYYcy6SXX6nK1B9CdpxQ2WibrYkpgqAD8RuA6wExpExV8Rk5Cydd5TXcMGFiE1ggWzGxU21LVCdWthwTwSavSpNLgVWvFKvaShPWBAQZ9N5DCjZdz2PKnJqykV6naF5EtphgPNgKRHNsck8v2QM6Z6vQQnf1DiV67C8Y2o3LZpmicjawqqVdLRpsh9VcWGt58FemP19iXdx&sid=07B5BF5786DC
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Renegades%20Women%20Vs%20Brisbane%20Heat%20Women.jpg" group-title="SP",Melbourne Renegades Women Vs Brisbane Heat Women - TAPMAD - AQ
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Renegades%20Women%20Vs%20Brisbane%20Heat%20Women.jpg" group-title="SP",Melbourne Renegades Women Vs Brisbane Heat Women - WILLOW HD
+#KODIPROP:inputstream.adaptive.license_key=5f0b77cd292b2ad94b8dd6b9f7e1e3f0:dc7094e467373756724e877561e03eec
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ouonsgcxy3/out/v1/1ab520659b25461c8e4cfa048d11be18/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Atlético Madrid vs Viking FK - PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Renegades%20Women%20Vs%20Brisbane%20Heat%20Women.jpg" group-title="SP",Melbourne Renegades Women Vs Brisbane Heat Women - TAPMAD HD
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Renegades%20Women%20Vs%20Brisbane%20Heat%20Women.jpg" group-title="SP",Melbourne Renegades Women Vs Brisbane Heat Women - FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4250419_english_hls_ed10a05d9311864_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kashima%20Antlers%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="SP",Kashima Antlers Vs Jeonbuk Hyundai Motors - SPORTDIGITAL AQ
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kashima%20Antlers%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="SP",Kashima Antlers Vs Jeonbuk Hyundai Motors - TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kashima%20Antlers%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="SP",Kashima Antlers Vs Jeonbuk Hyundai Motors - SM IPTV Live
-Ok
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kashima%20Antlers%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="SP",Kashima Antlers Vs Jeonbuk Hyundai Motors - FANCODE AQ (IND)
-https://in-mc-vod.fancode.com/mumbai/4248758_english_hls_df11de56b866843_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kashima%20Antlers%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="SP",Kashima Antlers Vs Jeonbuk Hyundai Motors - SD STREAM
-http://193.47.62.50/hls/ZTTTA.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gamba%20Osaka%20Vs%20Port%20FC.jpg" group-title="SP",Gamba Osaka Vs Port FC - TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gamba%20Osaka%20Vs%20Port%20FC.jpg" group-title="SP",Gamba Osaka Vs Port FC - SM IPTV Live
-Ok
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gamba%20Osaka%20Vs%20Port%20FC.jpg" group-title="SP",Gamba Osaka Vs Port FC - SD STREAM
-http://193.47.62.50/hls/ZTTT.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gamba%20Osaka%20Vs%20Port%20FC.jpg" group-title="SP",Gamba Osaka Vs Port FC - FANCODE AQ (IND)
-https://in-mc-vod.fancode.com/mumbai/4248759_english_hls_8e543051a454617_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Italia%20T10%20Vs%20Italia%20T10.jpg" group-title="SP",Italia T10 Vs Italia T10 - UNBEATEN FHD
+#KODIPROP:inputstream.adaptive.license_key=49f5f90163d652763fcf3c386233c945:a48bdc10a063f0fb7902b6367011f83b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9lp9nk4w8u/out/v1/e6e42a79382f4401b90da0db90efa1e7/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Atlético Madrid vs Viking FK - VIX Español FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Italia%20T10%20Vs%20Italia%20T10.jpg" group-title="SP",Italia T10 Vs Italia T10 - SM IPTV LIVE
-https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Italia%20T10%20Vs%20Italia%20T10.jpg" group-title="SP",Italia T10 Vs Italia T10 - TAMASHA PRO AQ
-https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97eae418-93c7-40e2-b2d6-6a81327b83bc/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow Cricket",Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_key=c39deef0515b23c37241b464f71122f4:b89fa132cf2c17e457e7474b26405d59
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1rbtsptukz/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Atlético Madrid vs Viking FK - DAZN DE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SA_Test_fc-web_1794644019035.jpg" group-title="Fancode (INDIA ONLY)",ENG | Bangladesh Vs South Africa
+#KODIPROP:inputstream.adaptive.license_key=ab435b88901feb9cc88b82c6de6760e0:bbbca45fc3a000f2a4c87b2692a6e091
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnsff1rdjx/out/v1/db6933e3850e45ddae720b499cb8a04b/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Shakhtar Donetsk vs Fenerbahçe - DAZN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47ecc7d961365c003a0ea95c4f4dffbb:83eda5c85c3080e61b6ae86b048550e4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9gfdlza1a3/out/v1/df56a4e537de4437a487c291e7331469/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Shakhtar Donetsk vs Fenerbahçe - PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7312cd29f7a2dc3257e3e8b4e2cfacc:6229b73fe46f6b98ff09c6eadb0211df
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oz3h1tfffc/out/v1/b20bc2e9bed94cd29db5ac634fe2dc89/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Shakhtar Donetsk vs Fenerbahçe - VIX Español FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25f81a2c54077392cf6d908804d90240:e6f9b261d5bae7b55fa2dd9e3970c990
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pd4heyvp80/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Shakhtar Donetsk vs Fenerbahçe - DAZN DE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40c87e4b7f250388a1bea8b0f517f899:3615d264b0c4351d04368bec3c5220dc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mlqikuy6pd/out/v1/a35210e238454f46b73468e60505e215/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Sporting CP vs Manchester United - DAZN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=697b4221eb7e42f97cfff975bac3f97d:71a48f3f98eea7e2ebf586c75f88c6b6
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hcffsl5lmw/out/v1/ab7b596f96d746e9b1b97a515354a565/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Sporting CP vs Manchester United - PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22d870b4fe3b99e70f7862db29f51861:0848c89bd5e80b385fe60fe3b92a49ce
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyphmrggok/out/v1/bccc02717c1243f3bf640c3a873d2a39/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Sporting CP vs Manchester United - DAZN DE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8935a50ac72a858fbce8ba9a618711e1:72f92171d06fff3ef718408ff9eac969
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzlpejwcoa/out/v1/54d8dad65f6445c5924e0a62ebdf07ce/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Club Brugge KV vs Liverpool FC - DAZN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5e97e3979f4aa9bac0ff5ffa9c26701:5132c7780e3eb734a64c10ad458da609
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9q9qkskwgn/out/v1/e61fcdabf6be4765a2da49305cd1e806/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Club Brugge KV vs Liverpool FC - PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd53b68ea6d6c3f0607406eb9a60c6ca:bf1103bd2a674decf82ce34994f125fa
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/js6a6quvxr/out/v1/9f550ef229a8412b90a727d7fb9ff4b5/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Club Brugge KV vs Liverpool FC - VIX Español FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c6c39d6c7b945651cd8a36029cea49d:60da32bfde8dac18d4d1344b3f68a2eb
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a6z36g01sa/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Club Brugge KV vs Liverpool FC - DAZN DE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26cc8de9a77711fccf224a8158c992ab:382d37f48fae7c875d46c4e46d79e3c9
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sjaws9ft9f/out/v1/442a6e1b20b74d74bb3f839e4bf104c6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Inter vs VfB Stuttgart - DAZN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc60816345f0773b136d2eb499a9f699:eb57302db97a0ff664ec2706f7d080bc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9bxyrwrhcg/out/v1/bd0409ec39af4ddfb223dcb573be39d9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Inter vs VfB Stuttgart - PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=602ddb9b9e321eb969200431103a235f:9d419bcb7e44df0d64b23fd9907445c9
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkbnqxsfse/out/v1/012daf531619414f9886e8bc32ae8cc7/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Inter vs VfB Stuttgart - VIX Español FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3bf1d832cceeb0d624603cfc25950da:f5bf9765976642f789eaa8edd2f91f9c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hbst72ztdu/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Inter vs VfB Stuttgart - DAZN DE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=610c0d32fd381dc2ac2241e4021ecc26:94c24a0ef1bea8ffbfd005eb0b0c1ebd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/js25rpkw5e/out/v1/8420c1ce3967490ca16b8846b8cc37a1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Inter vs VfB Stuttgart - CBS SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20261013_140407_709.PNG" group-title="World Wide",Atlético Mineiro vs Corinthians - SportzFY TV+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260929_113300_445.PNG" group-title="World Wide",Marshall vs Prairie View A&amp;M
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/61015/load-playlist?&extension=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260929_113300_445.PNG" group-title="World Wide",South Carolina vs USC
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/61016/load-playlist?&extension=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",UEFA Champions League Simulcast - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/XdiiiA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Sporting Lisbon vs Manchester United - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/XPMMMAAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Sporting Lisbon vs Manchester United - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/XPMMMAAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Sporting Lisbon vs Manchester United - HOP S3
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.41/hls/XPMMMAAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Sporting Lisbon vs Manchester United - HOP S4
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.59/hls/XPMMMAAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Sporting Lisbon vs Manchester United - HOP S5
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/5934fd2c-fac8-4dcf-991a-5be3f485c7e0.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Club Brugge vs Liverpool - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/XPMMMAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Club Brugge vs Liverpool - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/XPMMMAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Club Brugge vs Liverpool - HOP S3
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.41/hls/XPMMMAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Club Brugge vs Liverpool - HOP S4
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.59/hls/XPMMMAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Club Brugge vs Liverpool - HOP S5
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/51a3ae9c-5ef0-40bb-99be-e037f6e76e6b.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",PSG vs AS Roma - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/XPMMMAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",PSG vs AS Roma - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/XPMMMAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",PSG vs AS Roma - HOP S3
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.41/hls/XPMMMAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",PSG vs AS Roma - HOP S4
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.59/hls/XPMMMAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",PSG vs AS Roma - HOP S5
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/34bdd2a6-2fbe-424d-8aa4-1bf535e19699.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Lille vs Bayern Munchen - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/XPMMMAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Lille vs Bayern Munchen - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/XPMMMAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Lille vs Bayern Munchen - HOP S3
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.41/hls/XPMMMAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Lille vs Bayern Munchen - HOP S4
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.59/hls/XPMMMAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Lille vs Bayern Munchen - HOP S5
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/975dd68c-8f56-405f-a719-3b494286f367.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Inter Milan vs Stuttgart - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/XPMMMA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Inter Milan vs Stuttgart - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/XPMMMA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Inter Milan vs Stuttgart - HOP S3
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.41/hls/XPMMMA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Inter Milan vs Stuttgart - HOP S4
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.59/hls/XPMMMA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Inter Milan vs Stuttgart - HOP S5
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/8ab5e0a1-f4cd-4e59-a6d5-3253959f1c74.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Atletico Madrid vs Viking - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.50/hls/XPMMM.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Atletico Madrid vs Viking - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.44/hls/XPMMM.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Atletico Madrid vs Viking - HOP S3
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.41/hls/XPMMM.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Atletico Madrid vs Viking - HOP S4
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.59/hls/XPMMM.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Atletico Madrid vs Viking - HOP S5
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/6734d980-e2cb-4fde-a2aa-ee45d20fb78f.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Shakhtar Donetsk vs Fenerbahce - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/Xdiii.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="World Wide",Shakhtar Donetsk vs Fenerbahce - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/03a86122-295b-444e-8404-8624ba7b3a21.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="World Wide",Stoke City vs Millwall - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/sjjjjAAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="World Wide",Stoke City vs Millwall - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/3400ecd1-af07-4667-b180-55f3555518c0.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="World Wide",Burnley vs Birmingham City - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/sjjjjAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="World Wide",Burnley vs Birmingham City - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/136e598d-ee97-4534-b4aa-78997f7843f6.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="World Wide",Bolton vs West Bromwich - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/sjjjjAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="World Wide",Bolton vs West Bromwich - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/155ff3f9-74fb-4eae-ad87-fa5b8fba55a3.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="World Wide",Watford vs Blackburn Rovers - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/sjjjjAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png" group-title="World Wide",Watford vs Blackburn Rovers - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/9ca4ac91-3756-4827-80e6-74590bf64490.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Wide",Hartlepool vs Solihull Moors - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/sjjjjA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Wide",Harrogate vs Kidderminster - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/sjjjj.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="World Wide",Real Madrid vs Zalgiris Kaunas - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/avvvAAAAAQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="World Wide",Real Madrid vs Zalgiris Kaunas - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/6982b5e0-5220-45de-a6ea-81505edbb3c2.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="World Wide",Baskonia vs Anadolu Efes - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/avvvAAAAAQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="World Wide",Baskonia vs Anadolu Efes - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/a3353960-cd12-4922-a433-c3c9cf5e19bd.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="World Wide",Olympiacos vs Hapoel Tel Aviv - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/avvvAAAAAX.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="World Wide",Olympiacos vs Hapoel Tel Aviv - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/c5a3b876-aacd-42ff-b952-8a0d6a6e6441.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="World Wide",LSU vs Arizona State - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/SASASASA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Wide",Boreham Wood vs Aldershot - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/avvvAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg" group-title="World Wide",Fleetwood vs Leeds U21 - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/avvvAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2078047440620412928/8SA6AdGj_400x400.jpg" group-title="World Wide",Pisa vs Modena - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/avvvAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2078047440620412928/8SA6AdGj_400x400.jpg" group-title="World Wide",Padova vs Sampdoria - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/avvvA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2078047440620412928/8SA6AdGj_400x400.jpg" group-title="World Wide",Mantova vs Arezzo - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/avvv.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="World Wide",Al Taawon vs Al Nahda - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/rtrtrtAAAAAQAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="World Wide",Al Taawon vs Al Nahda - HOP S2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/10f88beb-d17a-481c-8c00-b4012794ddcd.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2078047440620412928/8SA6AdGj_400x400.jpg" group-title="World Wide",Cremonese vs Avellino - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/rtrtrtAAAAAQAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2090760904300191744/7RQN89Kd_400x400.jpg" group-title="World Wide",Ghazl El Mahallah vs Petrojet - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/rtrtrtAAAAAQA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2090760904300191744/7RQN89Kd_400x400.jpg" group-title="World Wide",Enppi vs Ceramica Cleopatra - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/rtrtrtAAAAAQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="World Wide",Vimmerby vs BIK Karlskoga - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/rtrtrtAAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="World Wide",Sodertalje vs Modo - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/rtrtrtAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="World Wide",Nybro vs Vasteras - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/rtrtrtAAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="World Wide",Mora vs Ostersund - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/rtrtrtAA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="World Wide",Kalmar vs AIK - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/rtrtrtA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="World Wide",Almtuna vs Visby Roma - HOP S1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://193.47.62.55/hls/rtrtrt.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="World Wide",Club Brugge vs Liverpool - 26 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2118669/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795681752~acl=/*~id=30424937420585379737601288737622~hmac=e2ab8d6dbdb35c74f743ebd5444fe4787e501caf7166704d50f6f55a8e439d98
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="World Wide",Sporting CP vs Manchester United - 26 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795681752~acl=/*~id=30424937420585379737601288737622~hmac=e2ab8d6dbdb35c74f743ebd5444fe4787e501caf7166704d50f6f55a8e439d98
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="World Wide",Sporting CP vs Manchester United - 26 Nov 2026 [HIN] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2043696/Footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795681752~acl=/*~id=30424937420585379737601288737622~hmac=e2ab8d6dbdb35c74f743ebd5444fe4787e501caf7166704d50f6f55a8e439d98
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="World Wide",Sporting CP vs Manchester United - 26 Nov 2026 [TAM] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2118672/Footlive2511/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795681752~acl=/*~id=30424937420585379737601288737622~hmac=e2ab8d6dbdb35c74f743ebd5444fe4787e501caf7166704d50f6f55a8e439d98
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="World Wide",Sporting CP vs Manchester United - 26 Nov 2026 [TEL] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive2511/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795681752~acl=/*~id=30424937420585379737601288737622~hmac=e2ab8d6dbdb35c74f743ebd5444fe4787e501caf7166704d50f6f55a8e439d98
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="World Wide",Sporting CP vs Manchester United - 26 Nov 2026 [KAN] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive2511/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795681752~acl=/*~id=30424937420585379737601288737622~hmac=e2ab8d6dbdb35c74f743ebd5444fe4787e501caf7166704d50f6f55a8e439d98
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="World Wide",Lille vs Bayern Munich - 26 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2118670/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795681752~acl=/*~id=30424937420585379737601288737622~hmac=e2ab8d6dbdb35c74f743ebd5444fe4787e501caf7166704d50f6f55a8e439d98
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="World Wide",PSG vs AS Roma - 26 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2037141/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795681752~acl=/*~id=30424937420585379737601288737622~hmac=e2ab8d6dbdb35c74f743ebd5444fe4787e501caf7166704d50f6f55a8e439d98
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="World Wide",Atlético de Madrid vs Viking FK - 26 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2037143/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795681752~acl=/*~id=30424937420585379737601288737622~hmac=e2ab8d6dbdb35c74f743ebd5444fe4787e501caf7166704d50f6f55a8e439d98
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="World Wide",Inter Milan vs VfB Stuttgart - 26 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2037142/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795681752~acl=/*~id=30424937420585379737601288737622~hmac=e2ab8d6dbdb35c74f743ebd5444fe4787e501caf7166704d50f6f55a8e439d98
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="World Wide",Shakhtar Donetsk vs Fenerbahçe - 26 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2118668/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795681752~acl=/*~id=30424937420585379737601288737622~hmac=e2ab8d6dbdb35c74f743ebd5444fe4787e501caf7166704d50f6f55a8e439d98
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="World Wide",Lille vs Bayern Munich - UEFA Champions League 2026-27
+https://sonymtmnew.akamaized.net/hls/live/2118670/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="World Wide",Sporting CP vs Manchester United - UEFA Champions League 2026-27
+https://sonymtmnew.akamaized.net/hls/live/2105079/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="World Wide",PSG vs AS Roma - UEFA Champions League 2026-27
+https://sonymtmnew.akamaized.net/hls/live/2037141/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="World Wide",Shakhtar Donetsk vs Fenerbahçe - UEFA Champions League 2026-27
+https://sonymtmnew.akamaized.net/hls/live/2118668/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="World Wide",Inter Milan vs VfB Stuttgart - UEFA Champions League 2026-27
+https://sonymtmnew.akamaized.net/hls/live/2037142/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="World Wide",Atlético de Madrid vs Viking FK - UEFA Champions League 2026-27
+https://sonymtmnew.akamaized.net/hls/live/2037143/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="World Wide",Club Brugge vs Liverpool - UEFA Champions League 2026-27
+https://sonymtmnew.akamaized.net/hls/live/2118669/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="World Wide",ENG | Sporting CP vs Manchester United - 26 Nov 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/Footlive2511/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="World Wide",HIN | Sporting CP vs Manchester United - 26 Nov 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/Footlive2511/HIN/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="World Wide",TAM | Sporting CP vs Manchester United - 26 Nov 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2118672/Footlive2511/TAM/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="World Wide",TEL | Sporting CP vs Manchester United - 26 Nov 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/Footlive2511/TEL/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="World Wide",KAN | Sporting CP vs Manchester United - 26 Nov 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/Footlive2511/KAN/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="World Wide",ENG | PSG vs AS Roma - 26 Nov 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037141/Footlive2511/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="World Wide",ENG | Club Brugge vs Liverpool - 26 Nov 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2118669/Footlive2511/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="World Wide",ENG | Lille vs Bayern Munich - 26 Nov 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2118670/Footlive2511/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="World Wide",ENG | Atlético de Madrid vs Viking FK - 26 Nov 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/Footlive2511/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="World Wide",ENG | Inter Milan vs VfB Stuttgart - 26 Nov 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/Footlive2511/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="World Wide",ENG | Shakhtar Donetsk vs Fenerbahçe - 26 Nov 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2118668/Footlive2511/ENG/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="SonyLiv Live Event",Lille vs Bayern Munich - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2118670/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="SonyLiv Live Event",Sporting CP vs Manchester United - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="SonyLiv Live Event",PSG vs AS Roma - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="SonyLiv Live Event",Shakhtar Donetsk vs Fenerbahçe - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2118668/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="SonyLiv Live Event",Inter Milan vs VfB Stuttgart - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="SonyLiv Live Event",Atlético de Madrid vs Viking FK - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037143/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="SonyLiv Live Event",Club Brugge vs Liverpool - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2118669/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Watford%20Vs%20Blackburn%20Rovers.jpg" group-title="SP",Watford Vs Blackburn Rovers - HD STREAM
+https://live3979.zundrixmediapipeline.com/live/channel23.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Watford%20Vs%20Blackburn%20Rovers.jpg" group-title="SP",Watford Vs Blackburn Rovers - SD STREAM
+http://193.47.62.55/hls/sjjjjAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Burnley%20Vs%20Birmingham%20City.jpg" group-title="SP",Burnley Vs Birmingham City - PARAMOUNT+ - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41af318fd254b0297f50830d70c255ed:71e5e0b04a01fcd8f69bd54f3a023e4b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4edtkjkxom/out/v1/557b1ebffddd42908b09cccbd24eca86/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Burnley%20Vs%20Birmingham%20City.jpg" group-title="SP",Burnley Vs Birmingham City - HD STREAM
+https://live3979.zundrixmediapipeline.com/live/channel10.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Burnley%20Vs%20Birmingham%20City.jpg" group-title="SP",Burnley Vs Birmingham City - SD STREAM
+http://193.47.62.55/hls/sjjjjAAA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bolton%20Wanderers%20Vs%20West%20Bromwich%20Albion.jpg" group-title="SP",Bolton Wanderers Vs West Bromwich Albion - SD STREAM
+http://193.47.62.55/hls/sjjjjAA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Paris%20Saint-Germain%20Vs%20AS%20Roma.jpg" group-title="SP",Paris Saint-Germain Vs AS Roma - PARAMOUNT+ - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21c0e2ace56362f19b65b3b0e6e5b66f:ea52a1be65a13ddd7c358028a0854866
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jt8139h35n/out/v1/fa8bec2a768c4c7786095b7face05932/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Paris%20Saint-Germain%20Vs%20AS%20Roma.jpg" group-title="SP",Paris Saint-Germain Vs AS Roma - DAZN DE - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cdd9c1b206a5c805fada903b1480850:159b8bb5afe8d4410b472009a25043d0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vu9pioqq5r/out/v1/6183feaf6ab1475fa4f978692b6dc6e3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Paris%20Saint-Germain%20Vs%20AS%20Roma.jpg" group-title="SP",Paris Saint-Germain Vs AS Roma - TNT BRASIL - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Paris%20Saint-Germain%20Vs%20AS%20Roma.jpg" group-title="SP",Paris Saint-Germain Vs AS Roma - SM IPTV Live
+https:\/\/chatgpt.hereisman.net\/playlist\/61007\/load-playlist-multi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Paris%20Saint-Germain%20Vs%20AS%20Roma.jpg" group-title="SP",Paris Saint-Germain Vs AS Roma - SONYLIV ENG - AQ
+https://sonyeventsglobal.akamaized.net/hls/live/2037141/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795679320~acl=/*~id=64535104626460595731998038990133~hmac=c0ea0c5b9b189b3d852d169f88d15b51a96bbe1d3c02eb610c8a8210a2439435
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Viking%20FK.jpg" group-title="SP",Atlético Madrid Vs Viking FK - PARAMOUNT+ - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49f5f90163d652763fcf3c386233c945:a48bdc10a063f0fb7902b6367011f83b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9lp9nk4w8u/out/v1/e6e42a79382f4401b90da0db90efa1e7/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Viking%20FK.jpg" group-title="SP",Atlético Madrid Vs Viking FK - SM IPTV Live
+https:\/\/chatgpt.hereisman.net\/playlist\/61011\/load-playlist-multi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Viking%20FK.jpg" group-title="SP",Atlético Madrid Vs Viking FK - LOW SERVER
+http://193.47.62.44/hls/PMMM.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Viking%20FK.jpg" group-title="SP",Atlético Madrid Vs Viking FK - SONYLIV ENG - AQ
+https://sonyeventsglobal.akamaized.net/hls/live/2037143/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795679320~acl=/*~id=64535104626460595731998038990133~hmac=c0ea0c5b9b189b3d852d169f88d15b51a96bbe1d3c02eb610c8a8210a2439435
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/LOSC%20Lille%20Vs%20FC%20Bayern%20M%C3%BCnchen.jpg" group-title="SP",LOSC Lille Vs FC Bayern München - PARAMOUNT+ - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21c0e2ace56362f19b65b3b0e6e5b66f:ea52a1be65a13ddd7c358028a0854866
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jt8139h35n/out/v1/fa8bec2a768c4c7786095b7face05932/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Inter%20Vs%20VfB%20Stuttgart.jpg" group-title="SP",Inter Vs VfB Stuttgart - PARAMOUNT+ - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=602ddb9b9e321eb969200431103a235f:9d419bcb7e44df0d64b23fd9907445c9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkbnqxsfse/out/v1/012daf531619414f9886e8bc32ae8cc7/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Inter%20Vs%20VfB%20Stuttgart.jpg" group-title="SP",Inter Vs VfB Stuttgart - CBS SPORTS - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Inter%20Vs%20VfB%20Stuttgart.jpg" group-title="SP",Inter Vs VfB Stuttgart - PARAMOUNT+ HD
+https://chatgpt.hereisman.net/playlist/61004/load-playlist-multi?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Inter%20Vs%20VfB%20Stuttgart.jpg" group-title="SP",Inter Vs VfB Stuttgart - LOW SERVER
+http://193.47.62.59/hls/PMMMA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sporting%20CP%20Vs%20Manchester%20United.jpg" group-title="SP",Sporting CP Vs Manchester United - PARAMOUNT+ - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22d870b4fe3b99e70f7862db29f51861:0848c89bd5e80b385fe60fe3b92a49ce
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyphmrggok/out/v1/bccc02717c1243f3bf640c3a873d2a39/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sporting%20CP%20Vs%20Manchester%20United.jpg" group-title="SP",Sporting CP Vs Manchester United - DAZN DE - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8935a50ac72a858fbce8ba9a618711e1:72f92171d06fff3ef718408ff9eac969
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzlpejwcoa/out/v1/54d8dad65f6445c5924e0a62ebdf07ce/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sporting%20CP%20Vs%20Manchester%20United.jpg" group-title="SP",Sporting CP Vs Manchester United - FOX SPORTS - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sporting%20CP%20Vs%20Manchester%20United.jpg" group-title="SP",Sporting CP Vs Manchester United - LOW SERVER
+http://193.47.62.50/hls/PMMMAAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Shakhtar%20Donetsk%20Vs%20Fenerbah%C3%A7e.jpg" group-title="SP",Shakhtar Donetsk Vs Fenerbahçe - PARAMOUNT+ - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7312cd29f7a2dc3257e3e8b4e2cfacc:6229b73fe46f6b98ff09c6eadb0211df
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oz3h1tfffc/out/v1/b20bc2e9bed94cd29db5ac634fe2dc89/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Club%20Brugge%20KV%20Vs%20Liverpool%20FC.jpg" group-title="SP",Club Brugge KV Vs Liverpool FC - PARAMOUNT+ - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd53b68ea6d6c3f0607406eb9a60c6ca:bf1103bd2a674decf82ce34994f125fa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/js6a6quvxr/out/v1/9f550ef229a8412b90a727d7fb9ff4b5/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Club%20Brugge%20KV%20Vs%20Liverpool%20FC.jpg" group-title="SP",Club Brugge KV Vs Liverpool FC - LOW SERVER
+http://193.47.62.59/hls/PMMMAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Stoke%20City%20Vs%20Millwall.jpg" group-title="SP",Stoke City Vs Millwall - beIN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250015_52993_STK_MLW_fc-web.jpg" group-title="Fancode (INDIA ONLY)",ENG | Stoke City F.c. Vs Millwall F.c.
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-vod.fancode.com/mumbai/4250651_english_hls_d4285d152438599_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250419_53125_MR-W_BH-W_fc-web_1793352701222.jpg" group-title="Fancode (INDIA ONLY)",ENG | Brisbane Heat Women Vs Melbourne Renegades Women
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-vod.fancode.com/mumbai/4250419_english_hls_ed10a05d9311864_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Test_Twenty_2026FC-WEB.jpg" group-title="Fancode (INDIA ONLY)",ENG | Europe Vs Australasia
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-vod.fancode.com/mumbai/4250956_english_hls_1e37c0310c90814_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" group-title="Fancode (INDIA ONLY)",ENG | Ghubra Giants Women Vs Muscat Thunders Women
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-vod.fancode.com/mumbai/4250908_english_hls_2695c7c0c623672_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249025_53057_MLV_CV_fc-web_1789025065668.jpg" group-title="Fancode (INDIA ONLY)",ENG | Melbourne Victory Vs The Cong   Viettel Fc
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-vod.fancode.com/mumbai/4249025_english_hls_1a5ecea1e44694_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248758_53053_ANL_JNB_fc-web.jpg" group-title="Fancode (INDIA ONLY)",ENG | Kashima Antlers Vs Jeonbuk Motors
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-vod.fancode.com/mumbai/4248758_english_hls_df11de56b866843_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248759_53053_OSK_PFC_fc-web.jpg" group-title="Fancode (INDIA ONLY)",ENG | Gamba Osaka Vs Port Fc
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-vod.fancode.com/mumbai/4248759_english_hls_8e543051a454617_1ta-di_h264/index.m3u8
+https://in-mc-vod.fancode.com/mumbai/4250015_english_hls_13ea7954e960831_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="FOX",FS 1 - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
@@ -310,48 +782,30 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250015_52993_STK_MLW_fc-web.jpg" group-title="Fancode Worldwide",[LIVE] Stoke City F.c. Vs Millwall F.c.
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250015_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249675_53087_WAU_TAS_FC-WEB.jpg" group-title="Fancode Worldwide",[PAUSED] Tasmania vs Western Australia - Sheffield Shield, 2026/27
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249675_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg" group-title="Fancode Worldwide",[PAUSED] South Australia vs Victoria - Sheffield Shield, 2026/27
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249676_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249026_53057_PER_SE_fc-web_1789025066265.jpg" group-title="Fancode Worldwide",[UPCOMING] Persib Bandung vs Seoul - AFC Champions League Two 2026-27
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249026_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250420_53125_ST-W_AS-W_fc-web_1793352701216.jpg" group-title="Fancode Worldwide",[UPCOMING] Sydney Thunder Women vs Adelaide Strikers Women - Women's Big Bash League, 2026
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250420_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250421_53125_SS-W_MS-W_fc-web_1793352701240.jpg" group-title="Fancode Worldwide",[UPCOMING] Sydney Sixers Women vs Melbourne Stars Women - Women's Big Bash League, 2026
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250421_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251054_53162_DC_DV_FC-WEB.jpg" group-title="Fancode Worldwide",[UPCOMING] Dubai Capitals vs Desert Vipers - DP World ILT20 2026
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251054_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" group-title="Fancode Worldwide",[UPCOMING] OCA Invincibles Women vs Muscat Shaheens  Women - Oman Women's D20, 2026
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250909_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249017_53057_NAS_ALK_fc-web_1789025066869.jpg" group-title="Fancode Worldwide",[UPCOMING] PFC Nasaf vs Al Khaldiya SC - AFC Champions League Two 2026-27
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249017_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249018_53057_KSC_ALW_fc-web_1789025066666.jpg" group-title="Fancode Worldwide",[UPCOMING] Kuwait SC vs Al Wahda - AFC Champions League Two 2026-27
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249018_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249019_53057_ALJ_GGS_fc-web_1789025065901.jpg" group-title="Fancode Worldwide",[UPCOMING] Al Jazira vs Golgohar Sirjan SC - AFC Champions League Two 2026-27
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249019_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249020_53057_ALM_ARK_fc-web_1789025065762.jpg" group-title="Fancode Worldwide",[UPCOMING] Al Muharraq vs FK Arkadag - AFC Champions League Two 2026-27
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249020_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249021_53057_ALF_RAY_fc-web_1789025065904.jpg" group-title="Fancode Worldwide",[UPCOMING] Al Faisaly vs Al Rayyan - AFC Champions League Two 2026-27
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249021_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249022_53057_ALTW_ALN_fc-web_1789025065804.jpg" group-title="Fancode Worldwide",[UPCOMING] Al-Taawoun FC vs Al-Nahda Club - AFC Champions League Two 2026-27
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249022_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250015_52993_STK_MLW_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Stoke City F.C. vs Millwall F.C. - EFL Championship 2026-27
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250015_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251146_53165_RG_NP_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Rome Gladiators vs Napoli Knights - Italia T10 2026
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251146_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251085_53163_MUT_MAT_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Muscat Thunderers vs Majees Titans - Oman D20 2026
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251085_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251147_53165_BL_VL_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Brescia Lions vs Venice Livewires - Italia T10 2026
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251147_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251085_53163_MUT_MAT_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Muscat Thunderers vs Majees Titans - Oman D20 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251085_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251086_53163_ROS_MFR_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Royal Oman Stallions vs Mustafa Fragrance House Strikers - Oman D20 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251086_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249029_53057_TAM_SHN_fc-web_1789025066882.jpg" group-title="Fancode Worldwide",[UPCOMING] Tampines Rovers FC vs Shanghai Shenhua - AFC Champions League Two 2026-27
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249029_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249031_53057_GW_KIT_fc-web_1789025066245.jpg" group-title="Fancode Worldwide",[UPCOMING] Gangwon FC vs Kitchee SC - AFC Champions League Two 2026-27
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249031_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249032_53057_KFC_PPC_fc-web_1789025065868.jpg" group-title="Fancode Worldwide",[UPCOMING] Kuching City FC vs Phnom Penh Crown - AFC Champions League Two 2026-27
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249032_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251086_53163_ROS_MFR_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Royal Oman Stallions vs Mustafa Fragrance House Strikers - Oman D20 2026
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251086_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249027_53057_PNU_LIO_fc-web_1789025065671.jpg" group-title="Fancode Worldwide",[UPCOMING] BG Pathum United vs Lion City Sailors - AFC Champions League Two 2026-27
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249027_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249028_53057_WTP_ADL_fc-web_1789025066041.jpg" group-title="Fancode Worldwide",[UPCOMING] Tai Po FC vs Adelaide United - AFC Champions League Two 2026-27
@@ -362,35 +816,77 @@ https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinon
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251055_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251087_53163_IAI_YSG_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] IAS Invincibles vs Yalla Shabab Giants - Oman D20 2026
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251087_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg" group-title="Fancode Worldwide",[UPCOMING] Day 1 - Andalucia Costa Del Sol Open De Espana 2026
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250886_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1795506739477/4251203_CASACARDS_APP.png" group-title="Fancode Worldwide",[UPCOMING] Doncaster Rovers F.C. vs Huddersfield Town A.F.C. - League One 2026-27
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251203_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg" group-title="Fancode Worldwide",[UPCOMING] Day 1 - Andalucia Costa Del Sol Open De Espana 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250886_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" group-title="Fancode Worldwide",[UPCOMING] Sohar Smashers Women vs OCA Invincibles Women - Oman Women's D20, 2026
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250910_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/wevb.png" group-title="Fancode Worldwide",[UPCOMING] Australia vs England - England tour of Australia, 2026
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250645_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250422_53125_PS-W_HB-W_fc-web_1793352701259.jpg" group-title="Fancode Worldwide",[UPCOMING] Perth Scorchers Women vs Hobart Hurricanes Women - Women's Big Bash League, 2026
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250422_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Test_Twenty_2026FC-WEB.jpg" group-title="Fancode Worldwide",[UPCOMING] TBC vs TBC - Test Twenty Championship 2026
-https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250957_ENG%2Fenglish.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251148_53165_RG_VL_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Rome Gladiators vs Venice Livewires - Italia T10 2026
 https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251148_ENG%2Fenglish.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029579/1795250909596716_FCB_ManUtd_PSG_LFC_landscape_thumbnail.jpg" group-title="SonyLiv Event Worldwide",[UPCOMING] Upcoming - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]
-https://events-1fe.pages.dev/player.html?url=
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029923/179559235760653_ACRS26_SF_SL_A_vs_IND_A_dated_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[UPCOMING] Upcoming - Sri Lanka A vs India A - DP World Asia Cup Rising Stars Men's 2026 - Sony Sports Ten 5 [HIN]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Test_Twenty_2026FC-WEB.jpg" group-title="Fancode Worldwide",[UPCOMING] TBC vs TBC - Test Twenty Championship 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250957_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" group-title="Fancode Worldwide",[UPCOMING] Ghubra Giants Women vs OCA Invincibles Women - Oman Women's D20, 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250911_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251149_53165_BL_NP_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Brescia Lions vs Napoli Knights - Italia T10 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251149_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Valencia_Web.jpg" group-title="Fancode Worldwide",[UPCOMING] Day 1 - MOTUL GRAND PRIX OF VALENCIA 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_139987_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249863_53101_MAC_MLC_fc-Web_1792223292524.jpg" group-title="Fancode Worldwide",[UPCOMING] Macarthur vs Melbourne City - A-League 2026-27
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4249863_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg" group-title="Fancode Worldwide",[UPCOMING] Day 2 - Andalucia Costa Del Sol Open De Espana 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250887_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250969_53025_ALQ_ALF_FC-Web_1795077036138.png" group-title="Fancode Worldwide",[UPCOMING] Al-Qadsiah FC vs Al-Fayha FC - Roshn Saudi League 2026-2027
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250969_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251056_53162_SW_DC_FC-WEB.jpg" group-title="Fancode Worldwide",[UPCOMING] Sharjah Warriorz vs Dubai Capitals - DP World ILT20 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251056_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" group-title="Fancode Worldwide",[UPCOMING] Wadi Kabir Royals Women vs Muscat Shaheens  Women - Oman Women's D20, 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250912_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Practice Session - F2 QATAR 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_139658_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250970_53025_ITT_NEOM_FC-Web_1795077036094.png" group-title="Fancode Worldwide",[UPCOMING] Al-Ittihad vs Neom SC - Roshn Saudi League 2026-2027
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250970_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg" group-title="Fancode Worldwide",[UPCOMING] Practice 1 - F1 QATAR AIRWAYS QATAR GRAND PRIX 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_139522_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Qualifying Session - F2 QATAR 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_139659_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247705_53004_LET_RAC_FC-Web.png" group-title="Fancode Worldwide",[UPCOMING] Levante vs Racing Club de Santander - LALIGA 2026-27
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4247705_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250016_52993_SOU_MIDD_fc-web.jpg" group-title="Fancode Worldwide",[UPCOMING] Southampton F.C. vs Middlesbrough F.C. - EFL Championship 2026-27
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250016_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode Worldwide",[UPCOMING] Leganes vs CE Sabadell - LALIGA Hypermotion 2026-27
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4251117_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg" group-title="Fancode Worldwide",[UPCOMING] Practice 2 - F1 QATAR AIRWAYS QATAR GRAND PRIX 2026
+https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_139523_ENG%2Fenglish.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[LIVE] Club Brugge vs Liverpool - 26 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]
+https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2118669%2FFootlive2511%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795682359~acl%3D%2F*~id%3D66297845514355380612089012377689~hmac%3D6c70690c6d09f2591d4b77bec06b48ae79cb096f59b9f1b0284afbe32bd16922
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[LIVE] Sporting CP vs Manchester United - 26 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]
+https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2105079%2FFootlive2511%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795682359~acl%3D%2F*~id%3D66297845514355380612089012377689~hmac%3D6c70690c6d09f2591d4b77bec06b48ae79cb096f59b9f1b0284afbe32bd16922
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[LIVE] Sporting CP vs Manchester United - 26 Nov 2026 [HIN] - Sony Sports Ten 2 [HIN]
+https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2043696%2FFootlive2511%2FHIN%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795682359~acl%3D%2F*~id%3D66297845514355380612089012377689~hmac%3D6c70690c6d09f2591d4b77bec06b48ae79cb096f59b9f1b0284afbe32bd16922
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[LIVE] Sporting CP vs Manchester United - 26 Nov 2026 [TAM] - Sony Sports Ten 2 [TAM]
+https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2118672%2FFootlive2511%2FTAM%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795682359~acl%3D%2F*~id%3D66297845514355380612089012377689~hmac%3D6c70690c6d09f2591d4b77bec06b48ae79cb096f59b9f1b0284afbe32bd16922
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[LIVE] Sporting CP vs Manchester United - 26 Nov 2026 [TEL] - Sony Sports Ten 2 [TEL]
+https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2105080%2FFootlive2511%2FTEL%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795682359~acl%3D%2F*~id%3D66297845514355380612089012377689~hmac%3D6c70690c6d09f2591d4b77bec06b48ae79cb096f59b9f1b0284afbe32bd16922
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[LIVE] Sporting CP vs Manchester United - 26 Nov 2026 [KAN] - Sony Sports Ten 2 [KAN]
+https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2094590%2FFootlive2511%2FKAN%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795682359~acl%3D%2F*~id%3D66297845514355380612089012377689~hmac%3D6c70690c6d09f2591d4b77bec06b48ae79cb096f59b9f1b0284afbe32bd16922
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[LIVE] Lille vs Bayern Munich - 26 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]
+https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2118670%2FFootlive2511%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795682359~acl%3D%2F*~id%3D66297845514355380612089012377689~hmac%3D6c70690c6d09f2591d4b77bec06b48ae79cb096f59b9f1b0284afbe32bd16922
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[LIVE] PSG vs AS Roma - 26 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]
+https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2037141%2FFootlive2511%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795682359~acl%3D%2F*~id%3D66297845514355380612089012377689~hmac%3D6c70690c6d09f2591d4b77bec06b48ae79cb096f59b9f1b0284afbe32bd16922
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[LIVE] Atlético de Madrid vs Viking FK - 26 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]
+https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2037143%2FFootlive2511%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795682359~acl%3D%2F*~id%3D66297845514355380612089012377689~hmac%3D6c70690c6d09f2591d4b77bec06b48ae79cb096f59b9f1b0284afbe32bd16922
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[LIVE] Inter Milan vs VfB Stuttgart - 26 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]
+https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2037142%2FFootlive2511%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795682359~acl%3D%2F*~id%3D66297845514355380612089012377689~hmac%3D6c70690c6d09f2591d4b77bec06b48ae79cb096f59b9f1b0284afbe32bd16922
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[LIVE] Shakhtar Donetsk vs Fenerbahçe - 26 Nov 2026 [ENG] - Sony Sports Ten 2 [ENG]
+https://events-1fe.pages.dev/player.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonyeventsglobal.akamaized.net%2Fhls%2Flive%2F2118668%2FFootlive2511%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1795682359~acl%3D%2F*~id%3D66297845514355380612089012377689~hmac%3D6c70690c6d09f2591d4b77bec06b48ae79cb096f59b9f1b0284afbe32bd16922
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029923/179559236559053_ACRS26_SF_SL_A_vs_IND_A_today_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[UPCOMING] Upcoming - Sri Lanka A vs India A - DP World Asia Cup Rising Stars Men's 2026 - Sony Sports Ten 5 [HIN]
 https://events-1fe.pages.dev/player.html?url=
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029773/1795439146883643_NZvsIND_2nd_test_day1_dated_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[UPCOMING] Upcoming - 2nd Test - India Tour Of New Zealand 2026 - Sony Sports Ten 5 [HIN]
-https://events-1fe.pages.dev/player.html?url=
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125569875174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_tonight.jpg" group-title="SonyLiv Event Worldwide",[UPCOMING] Upcoming - Sporting vs Manchester United - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]
-https://events-1fe.pages.dev/player.html?url=
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121897122174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_tonight.jpg" group-title="SonyLiv Event Worldwide",[UPCOMING] Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]
-https://events-1fe.pages.dev/player.html?url=
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124826868174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_tonight.jpg" group-title="SonyLiv Event Worldwide",[UPCOMING] Upcoming - PSG vs Roma - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]
-https://events-1fe.pages.dev/player.html?url=
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg" group-title="SonyLiv Event Worldwide",[UPCOMING] Upcoming - Matchday 5 - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]
-https://events-1fe.pages.dev/player.html?url=
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122942762174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_landscape_thumb_tonight.jpg" group-title="SonyLiv Event Worldwide",[UPCOMING] Upcoming - Lille vs Bayern Munich - UEFA Champions League 2026-27 - Sony Sports Ten 2 [ENG]
 https://events-1fe.pages.dev/player.html?url=
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029830/1795517014178843_UEL_26_Olympiacos-FC-vs-AC-Milan_DDT_landscape_thumb.jpg" group-title="SonyLiv Event Worldwide",[UPCOMING] Upcoming - Matchday 5 - UEFA Europa League 2026-27 - Sony Sports Ten 5 [ENG]
 https://events-1fe.pages.dev/player.html?url=
